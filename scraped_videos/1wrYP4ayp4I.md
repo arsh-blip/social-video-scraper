@@ -1,0 +1,595 @@
+# This AI Writes Better Scripts than 99% of YouTubers
+
+- **Channel:** [Youri van Hofwegen](https://www.youtube.com/@Yourivanhofwegen)
+- **URL:** https://www.youtube.com/watch?v=1wrYP4ayp4I
+- **Video ID:** `1wrYP4ayp4I`
+- **Thumbnail:** https://i.ytimg.com/vi/1wrYP4ayp4I/hqdefault.jpg
+
+## Transcript
+
+- `00:00` Did you know that 91% of YouTube videos
+- `00:02` never even reach 1,000 views? Well, it's
+- `00:05` because your scripts fail to hook
+- `00:07` viewers in the first 15 seconds, causing
+- `00:09` them to click away. And when YouTube
+- `00:11` sees your average view duration is only
+- `00:13` 22% compared to your competitors 65%, it
+- `00:17` immediately stops recommending your
+- `00:19` videos. But here's the thing. In order
+- `00:21` to write a perfect YouTube script, you
+- `00:23` need to be insanely good at psychology
+- `00:25` and human behavior so that you can
+- `00:26` understand what to say to make someone
+- `00:28` watch an entire video. However, just
+- `00:30` like me, you're probably not a
+- `00:32` psychology expert. And so, what you need
+- `00:34` instead is an easy to use, proven
+- `00:37` scripting system that keeps viewers
+- `00:38` hooked throughout your entire video
+- `00:40` without needing a deep understanding of
+- `00:42` the psychology behind it. because this
+- `00:45` way you can make scripts that get a high
+- `00:47` watch time and then YouTube will
+- `00:49` recommend your videos to millions of
+- `00:51` people. Now, this solution isn't for
+- `00:53` everyone, but you want to pay close
+- `00:54` attention if you're a content creator
+- `00:57` who's putting in hours of work only to
+- `00:59` see your videos get a few views before
+- `01:01` completely dying. Someone who knows your
+- `01:03` content is valuable, but viewers are
+- `01:05` dropping off in the first 30 seconds. a
+- `01:07` creator who tried using Chad GBT for
+- `01:09` scripts but ended up with generic
+- `01:11` robotic content that sounds nothing like
+- `01:13` you or someone who's serious about
+- `01:15` growing their channel but cannot afford
+- `01:17` to hire a professional script writer at
+- `01:20` $200 to even $1,000 per video. If that's
+- `01:23` you, then what I'm about to share in
+- `01:25` this short video will be a complete
+- `01:27` gamecher for your channel because I've
+- `01:29` built and tested an easy to use AI
+- `01:32` scripting system which resulted in
+- `01:34` growing my new channel to over 30,000
+- `01:36` subscribers in the first 120 days. And
+- `01:39` here's the interesting part. I made all
+- `01:41` of these scripts for these videos in
+- `01:43` less than 60 minutes about video topics
+- `01:46` that sometimes I knew nothing about.
+- `01:49` Yet, they get recommended by YouTube all
+- `01:51` the time. and I actually became a top
+- `01:53` affiliate for the product I promote. So,
+- `01:55` trust me, what I'm about to show you
+- `01:57` works. And as we're entering the AI
+- `02:00` revolution, creators that use the right
+- `02:02` AI tools to make their scripts will
+- `02:04` completely outperform the ones that
+- `02:05` don't. And here's why. First of all,
+- `02:07` let's face it, you're probably not good
+- `02:09` at writing scripts. You might have
+- `02:11` amazing ideas and valuable knowledge to
+- `02:14` share, but translating that into a
+- `02:16` script that actually keeps viewers
+- `02:18` watching is an entirely different skill.
+- `02:21` And without proper training in
+- `02:22` storytelling, pacing, and viewer
+- `02:25` psychology, your brilliant ideas can
+- `02:27` easily get lost in a poor delivery,
+- `02:29` resulting in high drop off rates and the
+- `02:31` YouTube algorithm not recommending your
+- `02:33` videos. Second of all, it's incredibly
+- `02:36` time consuming. Even if you were capable
+- `02:38` of writing excellent scripts, the
+- `02:40` reality is that it often takes 15 to
+- `02:43` like 20 hours of focused work to
+- `02:46` transform a decent script into something
+- `02:48` truly exceptional. And most creators
+- `02:50` simply don't have that kind of time to
+- `02:52` invest in just one single video. And
+- `02:55` that creates a serious problem because
+- `02:57` YouTube's algorithm strongly favors
+- `02:59` channels that publish content regularly
+- `03:02` and predictably. Plus, if you've got a
+- `03:04` ton of subscribers, they want to see new
+- `03:06` content. And then besides that, the only
+- `03:08` other option you have is hiring a
+- `03:10` professional script writer. However, at
+- `03:12` the top level, they can easily charge
+- `03:14` anywhere from $200 even to $1,000 per
+- `03:18` script, which I don't know about you,
+- `03:19` but for me, that's just way too
+- `03:21` expensive. And so, these challenges of
+- `03:23` manual script writing are exactly why so
+- `03:25` many creators are struggling. And that
+- `03:27` is where AI comes in. Instead of
+- `03:29` spending hours or days writing scripts
+- `03:32` that aren't even good, you can now
+- `03:34` create watchtime optimized scripts
+- `03:36` within minutes that are designed to
+- `03:39` maximize the viewer retention. And you
+- `03:41` can do this without knowing anything
+- `03:43` about psychology if you apply what I now
+- `03:45` call my algo script method, which by the
+- `03:49` way puts generic AI tools like chat GBT
+- `03:51` to complete shame. So this is not going
+- `03:53` to be one of those tutorials. Now I can
+- `03:55` confidently say that because I've done
+- `03:57` it. I grew this new channel to 30,000
+- `03:59` subscribers in just 4 months using this
+- `04:01` algo script method. I became a top
+- `04:03` affiliate for the product I promote for
+- `04:06` which every single script was written by
+- `04:08` this AI system. and I got this video to
+- `04:10` a 100,000 views in just two short
+- `04:13` months. Now, to implement my algo script
+- `04:15` method, I use this tool called Poppy AI,
+- `04:17` which made my life a 100 times easier
+- `04:19` after switching from Chad GBT. Now, if
+- `04:21` you want to follow along this tutorial,
+- `04:23` I'll leave a link to Poppy in the
+- `04:24` description down below. And then later
+- `04:26` on, I'll also share the Algo script
+- `04:28` template so that you can simply
+- `04:30` integrate that and start using it right
+- `04:32` away. But first, here's how it works.
+- `04:34` So, inside of Poppy AI, you can create
+- `04:36` what's called a board. In this board,
+- `04:38` you can upload any piece of information
+- `04:41` which includes documents, PDFs, voice
+- `04:43` notes, images, and most importantly,
+- `04:46` YouTube videos. And you don't need to
+- `04:48` download that video and all that, you
+- `04:49` know, annoying stuff. You can just take
+- `04:51` the URL and then paste it in there. And
+- `04:53` then the AI will understand it all.
+- `04:55` After that, you can then add an AI chat
+- `04:57` and link all the pieces of information
+- `05:00` to this AI chat, which is then able to
+- `05:02` understand everything you linked and use
+- `05:04` it as a reference for whatever you tell
+- `05:07` the AI to do. And so, if I link my
+- `05:09` 21page guide about how to write the
+- `05:11` perfect YouTube script to the AI chat
+- `05:14` and then create a group with information
+- `05:16` about the topic of my video, the AI will
+- `05:19` be able to write a perfect YouTube
+- `05:21` script for us in just one single prompt.
+- `05:24` And it can even do this in your tone of
+- `05:26` voice, but I'll show you how that works
+- `05:28` in a bit. But first, let me tell you
+- `05:29` about this guide. So, I have spent the
+- `05:31` last weeks putting in hours and hours of
+- `05:34` work developing this entire 21page
+- `05:37` step-by-step document guide that teaches
+- `05:39` the AI how to write the perfect YouTube
+- `05:42` script about any topic that keeps people
+- `05:45` watching all the way through. is by far
+- `05:47` the best guide on the internet for this.
+- `05:49` And it includes the flatline hook
+- `05:51` formula that made my retention grabs go
+- `05:53` from this to this, my tension letter
+- `05:56` technique that boosted my average view
+- `05:58` duration from 2 minutes 42 to 5 minutes
+- `06:01` 38 on my long- form content. and the
+- `06:04` storytelling framework that I adopted
+- `06:06` from Netflix film directors that turn
+- `06:08` boring video topics into bingeworthy
+- `06:11` content which results in viewers that
+- `06:12` just cannot stop clicking from one video
+- `06:15` to the other on your channel. And so
+- `06:17` what's in this document isn't just
+- `06:18` theory from someone who studied YouTube.
+- `06:21` I've tested this exact system. I grew
+- `06:23` this channel to 30K subscribers. I got
+- `06:26` monetized. I'm hitting $100 days. And
+- `06:29` that's all with scripts made with this
+- `06:30` Poppy AI system. Then for each video you
+- `06:33` want to create, you'll add a topic
+- `06:35` specific group to your board. Let me
+- `06:37` show you exactly how this works with an
+- `06:39` example. So first of all, create a new
+- `06:42` group by clicking right here. And then
+- `06:43` you want to name this after your video
+- `06:45` topic. For example, I grew 100,000
+- `06:49` tomatoes. I wish I knew this sooner.
+- `06:51` Which, by the way, videos about tomatoes
+- `06:53` get millions of views. Then from here,
+- `06:55` you want to find the three to five best
+- `06:57` videos or articles about your video
+- `06:59` topic. These can be top performing
+- `07:01` YouTube videos. These can be blog posts
+- `07:04` that are very valuable. Research notes
+- `07:06` or even your own voice memos about the
+- `07:08` video topic. So, collect that
+- `07:10` information and then add these to your
+- `07:12` topic group. I'm going to take a few
+- `07:14` YouTube videos, paste in the URL, and
+- `07:16` then I'll also take two blog posts about
+- `07:18` this topic and then I'll put them inside
+- `07:20` of my tomato group. Now, this step is
+- `07:22` crucial because it gives the AI all the
+- `07:24` factual information it needs about your
+- `07:26` video topic. And unlike other AI tools,
+- `07:29` Poppy AI can actually transcribe and
+- `07:32` understand any piece of content directly
+- `07:34` from just a URL link, which makes this
+- `07:37` workflow extremely easy to use. Now,
+- `07:39` without feeding this information to the
+- `07:40` AI, it would struggle to create accurate
+- `07:43` and engaging scripts. However, with this
+- `07:45` approach, you're essentially giving the
+- `07:47` AI a crash course on your video topic in
+- `07:50` just a minute. But one of the biggest
+- `07:52` problems with AI written content is that
+- `07:55` it often sounds generic or robotic.
+- `07:57` YouTubers using generic chat GPT scripts
+- `08:00` are actually failing big time because
+- `08:02` people just don't like it. Poppy AI and
+- `08:05` specifically the system I built solves
+- `08:07` this problem by making a group with all
+- `08:10` of our previous videos in it. The AI
+- `08:12` then analyzes these videos to understand
+- `08:14` your unique speaking style, vocabulary
+- `08:17` choices, and personality. And then from
+- `08:19` there, it's able to apply that personal
+- `08:21` style to any new script that it makes
+- `08:23` for you. So to do this, add a group into
+- `08:25` your board and then call it my style.
+- `08:28` Then go to YouTube and copy the URL of
+- `08:30` your last six to nine videos and paste
+- `08:33` them into this group. All right. Then
+- `08:35` it's time to actually make the script.
+- `08:37` To do that in your style, all you need
+- `08:39` to do is link all of the group chats to
+- `08:42` the AI chat, which you can simply do by
+- `08:44` dragging this little circle to the
+- `08:47` circle of the AI chat, which means that
+- `08:48` the AI chat can now receive all the
+- `08:51` information that's inside of your
+- `08:52` groups. And I can then type in create a
+- `08:54` YouTube script applying the advice from
+- `08:57` the ultimate script guide for my video
+- `08:59` topic. I grew 100,000 tomatoes. I wish I
+- `09:03` knew this sooner. for which you can
+- `09:05` reference the group tomatoes and write
+- `09:07` the script in my style based on the my
+- `09:10` style group. With this one prompt, it
+- `09:12` will write the perfect YouTube script
+- `09:14` about your video topic of choice in your
+- `09:17` style in less than 5 minutes of work.
+- `09:19` And as you can see, it is done. Now,
+- `09:21` let's analyze how good the script
+- `09:23` actually is. So, first of all, let's
+- `09:25` take a look at the hook. So, it says,
+- `09:27` "Would you believe me if I told you that
+- `09:28` I grew over a 100,000 tomatoes in a
+- `09:31` single season? And I did it without any
+- `09:33` fancy equipment, expensive fertilizers,
+- `09:36` or years gardening experience. The
+- `09:38` secret? Five simple techniques that
+- `09:41` completely transformed my tomato growing
+- `09:43` game. Techniques I wish someone had told
+- `09:45` me years ago when I was struggling with
+- `09:48` sad disease plants and tiny harvests.
+- `09:51` Now, as you can see, that isn't just a
+- `09:52` random intro that it wrote. The algo
+- `09:55` script method specifically uses what I
+- `09:57` call a pattern interrupt curiosity hook.
+- `10:00` So it starts with a question that seems
+- `10:02` almost unbelievable and that immediately
+- `10:04` grabs the attention. Then after that it
+- `10:06` eliminates potential objections to click
+- `10:08` away by stating that it didn't require
+- `10:11` special equipment or experience which
+- `10:13` makes it accessible to anyone watching.
+- `10:15` Then finally it creates an information
+- `10:17` gap by mentioning five simple techniques
+- `10:20` that viewers need to keep watching to
+- `10:22` discover. Then after that, here's what
+- `10:23` it said. In this video, I'm going to
+- `10:25` reveal the exact methods I use to grow
+- `10:27` an absolutely insane amount of tomatoes
+- `10:29` in my backyard garden. These aren't just
+- `10:31` theoretical tips. I've personally tested
+- `10:33` each one over multiple growing seasons,
+- `10:36` and documented the results. I spent over
+- `10:38` 200 hours researching tomato growing
+- `10:40` techniques from commercial farmers,
+- `10:43` agricultural scientists, and
+- `10:45` record-breaking gardeners to develop
+- `10:47` this system. And today I'm sharing
+- `10:49` everything I learned so you can avoid
+- `10:50` the years of frustration and filled
+- `10:52` harvests that I went through. Plus, I've
+- `10:54` created a free downloadable guide with
+- `10:56` my complete tomato growing calendar that
+- `10:58` you can get in the description down
+- `11:00` below. All right, see how it establishes
+- `11:02` credibility without boring the viewer.
+- `11:04` It mentions 200 hours of research and
+- `11:07` multiple growing seasons to build
+- `11:09` authority and then immediately creates
+- `11:11` what I call a future-pacing statement,
+- `11:14` which basically tells them what their
+- `11:15` future will look like if they keep
+- `11:17` watching, promising to help viewers
+- `11:19` avoid years of frustration. It also
+- `11:22` introduces a free resource early, giving
+- `11:24` viewers another reason to stay engaged.
+- `11:27` All right, that was already very good,
+- `11:28` but here's where it gets really
+- `11:29` interesting. Look at how each content
+- `11:31` section is structured. So, in the script
+- `11:33` when we're going to show the techniques
+- `11:35` to grow the tomatoes, for technique
+- `11:36` number one, it starts with imagine
+- `11:39` you're at the garden center staring at
+- `11:41` dozens of tomato varities completely
+- `11:43` overwhelmed. Which ones will actually
+- `11:46` produce, which ones will actually taste
+- `11:48` good? All right. So, what I did here is
+- `11:49` a perfect example of the emotional
+- `11:51` transportation technique when it comes
+- `11:53` to script writing. Instead of just
+- `11:55` listing the facts, it puts viewers in a
+- `11:57` scenario that they can relate to,
+- `11:59` creating an emotional investment. And
+- `12:00` then it introduces a common mistake and
+- `12:03` reveals the solution. And that goes on
+- `12:05` for every single technique that is in
+- `12:07` this script. And so there's a clear
+- `12:09` pattern here which looks like this.
+- `12:10` Number one, it identifies a common
+- `12:12` problem or misconception for the viewer.
+- `12:15` It then creates an emotional connection
+- `12:16` to that problem. And because that's
+- `12:18` relatable, you get the viewers hooked.
+- `12:20` You then reveal a surprising insight or
+- `12:22` solution. provide specific actionable
+- `12:25` advice and then you quantify the
+- `12:27` results. Now, this is quite technical,
+- `12:28` but basically said this structure is not
+- `12:30` on accident. It's designed to maintain
+- `12:32` engagement throughout the entire video
+- `12:34` by constantly opening and closing
+- `12:37` curiosity loops. And we can see this
+- `12:39` back at the transitions between the
+- `12:41` different sections. So, for example,
+- `12:42` here it said, "The key is focusing on
+- `12:45` soil temperature, not depth." I'll show
+- `12:47` you exactly how to prepare your planting
+- `12:49` area for maximum growth in just a
+- `12:52` moment. Let me ask you this. Have you
+- `12:53` ever tried to cram a 7-ft indeterminate
+- `12:56` tomato plant into one of those films
+- `12:58` 3-foot wire cages from the garden
+- `13:00` center? So, these transitions use what I
+- `13:02` call bridge statements and engagement
+- `13:05` questions to maintain viewer attention
+- `13:07` during the most critical drop off
+- `13:09` moments. The script knows exactly when
+- `13:11` viewers typically click away and
+- `13:13` counters it with these psychological
+- `13:15` triggers. Now, the end of this script,
+- `13:16` which is at the conclusion stage, is
+- `13:18` equally strategic. Here's what it says.
+- `13:21` So, there you have it. The five
+- `13:22` techniques that helped me grow over a
+- `13:24` 100,000 tomatoes in a single season.
+- `13:26` Remember, download my free tomato
+- `13:28` growing calendar in the description down
+- `13:30` below. And so, what it does here is it
+- `13:32` recaps the value that you provided in
+- `13:34` the video and it reminds them about the
+- `13:36` free resource that you might have made.
+- `13:38` And then it ends up the script with a
+- `13:39` perfect example of how to send a viewer
+- `13:42` to the next video on your channel.
+- `13:44` Here's what it says. But growing all of
+- `13:45` these tomatoes created another problem.
+- `13:48` What to actually do with all of them? If
+- `13:50` you want to see how I preserved my
+- `13:52` massive harvest and the free recipes
+- `13:54` that everyone begs me for, check out
+- `13:56` this video on the screen right here. And
+- `13:58` you see, this creates what YouTube's
+- `13:59` algorithm loves the most, session time,
+- `14:02` where viewers watch multiple videos on
+- `14:04` your channel in sequence. And boy oh
+- `14:06` boy, if you can start reaching that
+- `14:08` level, YouTube is going to promote your
+- `14:10` videos like crazy. Okay, so we broke
+- `14:12` down the script that it made in just one
+- `14:13` prompt. And I can tell you it's good.
+- `14:15` But don't just take my word for it. Let
+- `14:18` me ask the AI itself to analyze this
+- `14:20` script. And so I'll type in the Poppy
+- `14:22` AI. Analyze this tomato growing script
+- `14:25` against the ultimate YouTube script
+- `14:26` guide. Is it well optimized for viewer
+- `14:29` retention and engagements? And what
+- `14:31` techniques does it use effectively? And
+- `14:33` then as you can see right there, it
+- `14:35` says, "This script is exceptionally well
+- `14:37` optimized for YouTube performance and
+- `14:39` follows all of the best practices of the
+- `14:42` YouTube scripting guide." And then at
+- `14:44` the end it says, "This script implements
+- `14:46` all the advanced retention techniques
+- `14:48` from the guide and would likely perform
+- `14:50` in the top 10% of YouTube videos in this
+- `14:52` category for audience retention." And
+- `14:54` there we go. Do you see what just
+- `14:56` happened there? The AI not only created
+- `14:58` an optimized script, but it understands
+- `15:00` exactly why it works. So this text, this
+- `15:03` script that it generates isn't just
+- `15:05` random information about your topic.
+- `15:07` It's strategic content creation based on
+- `15:09` proven psychological principles that
+- `15:12` keep viewers watching. And the most
+- `15:13` impressive part is that this entire
+- `15:15` script is generated in less than 60
+- `15:18` seconds. Just think about how long it
+- `15:19` would take you to write something this
+- `15:21` strategically crafted by yourself.
+- `15:23` Probably hours if not days. And then
+- `15:25` even then, would you know to include all
+- `15:28` these psychological triggers and these
+- `15:29` certain ways to phrase something in the
+- `15:32` right places? Probably not. Even I
+- `15:34` don't. And that is the power of the algo
+- `15:36` script method. It doesn't just write
+- `15:38` words. It creates strategically designed
+- `15:40` content that's optimized for the YouTube
+- `15:43` algorithm and human psychology. And the
+- `15:46` best part is with this system, you can
+- `15:48` create scripts like this for any topic
+- `15:50` in minutes, even if you know nothing
+- `15:52` about script psychology or retention
+- `15:54` optimization. However, I know what some
+- `15:57` of you might be thinking. But Yuri, I
+- `15:59` actually enjoy writing my own scripts. I
+- `16:01` I just want them to perform better. And
+- `16:03` that's exactly why I built another
+- `16:05` powerful feature into this system. So if
+- `16:07` you prefer to write your own scripts,
+- `16:09` you can simply paste them into Poppy AI
+- `16:11` and then ask it to analyze your script
+- `16:14` against the ultimate YouTube script
+- `16:16` guide. That's what I often do myself as
+- `16:18` well. It will instantly identify areas
+- `16:20` where your script could be improved for
+- `16:22` better attention and it highlights
+- `16:24` missing psychological triggers and it
+- `16:26` then suggests better hooks and
+- `16:28` improvements. Let me actually show you
+- `16:29` how I do that. So I can upload the
+- `16:31` script of this video into Poppy and then
+- `16:34` type in analyze the script and suggest
+- `16:36` improvements based on the ultimate
+- `16:38` YouTube script guide. So you can see
+- `16:39` that overall it says that this script is
+- `16:41` very very well optimized for engagement.
+- `16:44` But it does give areas of improvement.
+- `16:46` So it says recommendation after the hook
+- `16:48` at a clearer threepoint preview
+- `16:50` structure. In this video I'll show you
+- `16:52` number one why traditional script
+- `16:54` writing methods are failing most
+- `16:56` creators. Number two, the exact algo
+- `16:58` script method I use to grow to 30,000
+- `17:00` subscribers in just 120 days. And number
+- `17:02` three, how to implement this system in
+- `17:04` under five minutes per video, even if
+- `17:06` you know nothing about psychology. Now,
+- `17:08` that sounds pretty good. And so, I can
+- `17:09` implement these recommendations that it
+- `17:11` gave me, then my script became a whole
+- `17:13` lot better. And you can keep going back
+- `17:15` and forth until the AI says your script
+- `17:17` is perfectly optimized. And that will
+- `17:19` give you complete creative control over
+- `17:20` the script while still benefiting from
+- `17:23` all the psychological insights in that
+- `17:25` 21page guide. So it's basically like
+- `17:27` having a world-class scriptor and
+- `17:29` YouTube strategist reviewing your work
+- `17:31` in real time. Now at this point I feel
+- `17:33` like you have three options for creating
+- `17:35` your YouTube scripts. Option one,
+- `17:37` continue writing scripts manually. You
+- `17:39` can spend between 10 and 20 hours per
+- `17:41` script struggling with viewer retention
+- `17:44` and watching your videos get buried by
+- `17:46` the algorithm. Then if you're only able
+- `17:47` to upload one to two videos per month
+- `17:49` because script writing takes so long,
+- `17:51` your channel growth will remain
+- `17:53` painfully slow. And let's be honest,
+- `17:55` most creators simply don't have the
+- `17:57` specialized knowledge of psychological
+- `17:59` triggers and retention patterns that are
+- `18:01` needed to write truly high-erforming
+- `18:03` scripts. To solve that, you might use
+- `18:05` option number two, which is using
+- `18:07` generic AI tools like Chad GBT. Because
+- `18:10` you might think, why not just use Cad
+- `18:12` GBT? It's even cheaper. Now, I thought
+- `18:15` the same thing initially, but after
+- `18:17` testing it extensively, I discovered the
+- `18:19` painful truth. Generic AI tools produce
+- `18:22` generic results. They don't understand
+- `18:24` YouTube specific retention strategies.
+- `18:26` They cannot easily analyze successful
+- `18:28` videos in your niche, and they certainly
+- `18:30` cannot capture your unique voice without
+- `18:33` adding in a bunch of typical AI words
+- `18:35` that it uses in your scripts. And so
+- `18:38` you'll end up with robotic sounding
+- `18:39` scripts that perform no better than
+- `18:41` manually written ones. And you'll still
+- `18:43` need to spend quite some time editing
+- `18:45` it, rewriting them, and just constantly
+- `18:48` asking the AI to do a better job. And
+- `18:50` then there's option three. Use Poppy AI
+- `18:53` with my algo script method. This is the
+- `18:55` approach that allowed me to grow to
+- `18:56` 30,000 subscribers just 120 days on a
+- `19:00` brand new channel. So with Poppy AI and
+- `19:02` my Algo script template, you can create
+- `19:04` scripts in minutes instead of hours.
+- `19:06` integrate proven psychological triggers
+- `19:08` at exactly the right moments. Maintain
+- `19:11` your style and your tone of voice and
+- `19:13` produce content that the YouTube
+- `19:15` algorithm loves to recommend. You'll be
+- `19:17` able to upload more frequently with
+- `19:19` higher quality content, which is the
+- `19:20` perfect combination to grow your
+- `19:22` channel. And so, when you compare these
+- `19:23` options, the choice becomes clear. You
+- `19:26` can either continue to struggle with
+- `19:27` manual script writing or use generic AI
+- `19:30` tools that will keep you stuck where you
+- `19:33` are or you can use a proven system for
+- `19:35` creating scripts that actually perform
+- `19:38` with Poppy AI and my Algo script
+- `19:40` template board. Now, I want to share
+- `19:42` something special that I've created just
+- `19:44` for viewers of this video and that made
+- `19:46` it this far into the video, which shows
+- `19:48` me that you're serious about growing
+- `19:50` your channel and you have the capability
+- `19:52` to focus because most people already
+- `19:54` clicked off this video, but you're still
+- `19:55` here, which tells me that you're a
+- `19:57` capable person. Now, that said, I've put
+- `19:59` together a complete template board
+- `20:01` inside of Poppy AAI, which I just showed
+- `20:03` you in this video that I actually use
+- `20:05` myself, that includes my entire 21page
+- `20:08` ultimate scripting guide already loaded
+- `20:11` into your board. Now, this template
+- `20:13` isn't something I'm making publicly
+- `20:14` available or selling as a separate
+- `20:16` product because I don't sell any courses
+- `20:18` or anything like that. It's a resource
+- `20:20` that I've created specifically to help
+- `20:23` you implement what you're learning
+- `20:24` today. And so if you'd like to start
+- `20:26` using this to make the perfect YouTube
+- `20:28` script about any topic in your niche
+- `20:30` with your tone of voice, you can sign up
+- `20:32` to Poppy AAI with the link in the
+- `20:34` description down below. And then once
+- `20:35` you're in, I will actually send you my
+- `20:37` Algo script template board straight to
+- `20:39` your email ready for you to use. And as
+- `20:42` always, remember your next viral video
+- `20:45` is just one perfect script away.
+
+## Plain transcript
+
+Did you know that 91% of YouTube videos never even reach 1,000 views? Well, it's because your scripts fail to hook viewers in the first 15 seconds, causing them to click away. And when YouTube sees your average view duration is only 22% compared to your competitors 65%, it immediately stops recommending your videos. But here's the thing. In order to write a perfect YouTube script, you need to be insanely good at psychology and human behavior so that you can understand what to say to make someone watch an entire video. However, just like me, you're probably not a psychology expert. And so, what you need instead is an easy to use, proven scripting system that keeps viewers hooked throughout your entire video without needing a deep understanding of the psychology behind it. because this way you can make scripts that get a high watch time and then YouTube will recommend your videos to millions of people. Now, this solution isn't for everyone, but you want to pay close attention if you're a content creator who's putting in hours of work only to see your videos get a few views before completely dying. Someone who knows your content is valuable, but viewers are dropping off in the first 30 seconds. a creator who tried using Chad GBT for scripts but ended up with generic robotic content that sounds nothing like you or someone who's serious about growing their channel but cannot afford to hire a professional script writer at $200 to even $1,000 per video. If that's you, then what I'm about to share in this short video will be a complete gamecher for your channel because I've built and tested an easy to use AI scripting system which resulted in growing my new channel to over 30,000 subscribers in the first 120 days. And here's the interesting part. I made all of these scripts for these videos in less than 60 minutes about video topics that sometimes I knew nothing about. Yet, they get recommended by YouTube all the time. and I actually became a top affiliate for the product I promote. So, trust me, what I'm about to show you works. And as we're entering the AI revolution, creators that use the right AI tools to make their scripts will completely outperform the ones that don't. And here's why. First of all, let's face it, you're probably not good at writing scripts. You might have amazing ideas and valuable knowledge to share, but translating that into a script that actually keeps viewers watching is an entirely different skill. And without proper training in storytelling, pacing, and viewer psychology, your brilliant ideas can easily get lost in a poor delivery, resulting in high drop off rates and the YouTube algorithm not recommending your videos. Second of all, it's incredibly time consuming. Even if you were capable of writing excellent scripts, the reality is that it often takes 15 to like 20 hours of focused work to transform a decent script into something truly exceptional. And most creators simply don't have that kind of time to invest in just one single video. And that creates a serious problem because YouTube's algorithm strongly favors channels that publish content regularly and predictably. Plus, if you've got a ton of subscribers, they want to see new content. And then besides that, the only other option you have is hiring a professional script writer. However, at the top level, they can easily charge anywhere from $200 even to $1,000 per script, which I don't know about you, but for me, that's just way too expensive. And so, these challenges of manual script writing are exactly why so many creators are struggling. And that is where AI comes in. Instead of spending hours or days writing scripts that aren't even good, you can now create watchtime optimized scripts within minutes that are designed to maximize the viewer retention. And you can do this without knowing anything about psychology if you apply what I now call my algo script method, which by the way puts generic AI tools like chat GBT to complete shame. So this is not going to be one of those tutorials. Now I can confidently say that because I've done it. I grew this new channel to 30,000 subscribers in just 4 months using this algo script method. I became a top affiliate for the product I promote for which every single script was written by this AI system. and I got this video to a 100,000 views in just two short months. Now, to implement my algo script method, I use this tool called Poppy AI, which made my life a 100 times easier after switching from Chad GBT. Now, if you want to follow along this tutorial, I'll leave a link to Poppy in the description down below. And then later on, I'll also share the Algo script template so that you can simply integrate that and start using it right away. But first, here's how it works. So, inside of Poppy AI, you can create what's called a board. In this board, you can upload any piece of information which includes documents, PDFs, voice notes, images, and most importantly, YouTube videos. And you don't need to download that video and all that, you know, annoying stuff. You can just take the URL and then paste it in there. And then the AI will understand it all. After that, you can then add an AI chat and link all the pieces of information to this AI chat, which is then able to understand everything you linked and use it as a reference for whatever you tell the AI to do. And so, if I link my 21page guide about how to write the perfect YouTube script to the AI chat and then create a group with information about the topic of my video, the AI will be able to write a perfect YouTube script for us in just one single prompt. And it can even do this in your tone of voice, but I'll show you how that works in a bit. But first, let me tell you about this guide. So, I have spent the last weeks putting in hours and hours of work developing this entire 21page step-by-step document guide that teaches the AI how to write the perfect YouTube script about any topic that keeps people watching all the way through. is by far the best guide on the internet for this. And it includes the flatline hook formula that made my retention grabs go from this to this, my tension letter technique that boosted my average view duration from 2 minutes 42 to 5 minutes 38 on my long- form content. and the storytelling framework that I adopted from Netflix film directors that turn boring video topics into bingeworthy content which results in viewers that just cannot stop clicking from one video to the other on your channel. And so what's in this document isn't just theory from someone who studied YouTube. I've tested this exact system. I grew this channel to 30K subscribers. I got monetized. I'm hitting $100 days. And that's all with scripts made with this Poppy AI system. Then for each video you want to create, you'll add a topic specific group to your board. Let me show you exactly how this works with an example. So first of all, create a new group by clicking right here. And then you want to name this after your video topic. For example, I grew 100,000 tomatoes. I wish I knew this sooner. Which, by the way, videos about tomatoes get millions of views. Then from here, you want to find the three to five best videos or articles about your video topic. These can be top performing YouTube videos. These can be blog posts that are very valuable. Research notes or even your own voice memos about the video topic. So, collect that information and then add these to your topic group. I'm going to take a few YouTube videos, paste in the URL, and then I'll also take two blog posts about this topic and then I'll put them inside of my tomato group. Now, this step is crucial because it gives the AI all the factual information it needs about your video topic. And unlike other AI tools, Poppy AI can actually transcribe and understand any piece of content directly from just a URL link, which makes this workflow extremely easy to use. Now, without feeding this information to the AI, it would struggle to create accurate and engaging scripts. However, with this approach, you're essentially giving the AI a crash course on your video topic in just a minute. But one of the biggest problems with AI written content is that it often sounds generic or robotic. YouTubers using generic chat GPT scripts are actually failing big time because people just don't like it. Poppy AI and specifically the system I built solves this problem by making a group with all of our previous videos in it. The AI then analyzes these videos to understand your unique speaking style, vocabulary choices, and personality. And then from there, it's able to apply that personal style to any new script that it makes for you. So to do this, add a group into your board and then call it my style. Then go to YouTube and copy the URL of your last six to nine videos and paste them into this group. All right. Then it's time to actually make the script. To do that in your style, all you need to do is link all of the group chats to the AI chat, which you can simply do by dragging this little circle to the circle of the AI chat, which means that the AI chat can now receive all the information that's inside of your groups. And I can then type in create a YouTube script applying the advice from the ultimate script guide for my video topic. I grew 100,000 tomatoes. I wish I knew this sooner. for which you can reference the group tomatoes and write the script in my style based on the my style group. With this one prompt, it will write the perfect YouTube script about your video topic of choice in your style in less than 5 minutes of work. And as you can see, it is done. Now, let's analyze how good the script actually is. So, first of all, let's take a look at the hook. So, it says, "Would you believe me if I told you that I grew over a 100,000 tomatoes in a single season? And I did it without any fancy equipment, expensive fertilizers, or years gardening experience. The secret? Five simple techniques that completely transformed my tomato growing game. Techniques I wish someone had told me years ago when I was struggling with sad disease plants and tiny harvests. Now, as you can see, that isn't just a random intro that it wrote. The algo script method specifically uses what I call a pattern interrupt curiosity hook. So it starts with a question that seems almost unbelievable and that immediately grabs the attention. Then after that it eliminates potential objections to click away by stating that it didn't require special equipment or experience which makes it accessible to anyone watching. Then finally it creates an information gap by mentioning five simple techniques that viewers need to keep watching to discover. Then after that, here's what it said. In this video, I'm going to reveal the exact methods I use to grow an absolutely insane amount of tomatoes in my backyard garden. These aren't just theoretical tips. I've personally tested each one over multiple growing seasons, and documented the results. I spent over 200 hours researching tomato growing techniques from commercial farmers, agricultural scientists, and record-breaking gardeners to develop this system. And today I'm sharing everything I learned so you can avoid the years of frustration and filled harvests that I went through. Plus, I've created a free downloadable guide with my complete tomato growing calendar that you can get in the description down below. All right, see how it establishes credibility without boring the viewer. It mentions 200 hours of research and multiple growing seasons to build authority and then immediately creates what I call a future-pacing statement, which basically tells them what their future will look like if they keep watching, promising to help viewers avoid years of frustration. It also introduces a free resource early, giving viewers another reason to stay engaged. All right, that was already very good, but here's where it gets really interesting. Look at how each content section is structured. So, in the script when we're going to show the techniques to grow the tomatoes, for technique number one, it starts with imagine you're at the garden center staring at dozens of tomato varities completely overwhelmed. Which ones will actually produce, which ones will actually taste good? All right. So, what I did here is a perfect example of the emotional transportation technique when it comes to script writing. Instead of just listing the facts, it puts viewers in a scenario that they can relate to, creating an emotional investment. And then it introduces a common mistake and reveals the solution. And that goes on for every single technique that is in this script. And so there's a clear pattern here which looks like this. Number one, it identifies a common problem or misconception for the viewer. It then creates an emotional connection to that problem. And because that's relatable, you get the viewers hooked. You then reveal a surprising insight or solution. provide specific actionable advice and then you quantify the results. Now, this is quite technical, but basically said this structure is not on accident. It's designed to maintain engagement throughout the entire video by constantly opening and closing curiosity loops. And we can see this back at the transitions between the different sections. So, for example, here it said, "The key is focusing on soil temperature, not depth." I'll show you exactly how to prepare your planting area for maximum growth in just a moment. Let me ask you this. Have you ever tried to cram a 7-ft indeterminate tomato plant into one of those films 3-foot wire cages from the garden center? So, these transitions use what I call bridge statements and engagement questions to maintain viewer attention during the most critical drop off moments. The script knows exactly when viewers typically click away and counters it with these psychological triggers. Now, the end of this script, which is at the conclusion stage, is equally strategic. Here's what it says. So, there you have it. The five techniques that helped me grow over a 100,000 tomatoes in a single season. Remember, download my free tomato growing calendar in the description down below. And so, what it does here is it recaps the value that you provided in the video and it reminds them about the free resource that you might have made. And then it ends up the script with a perfect example of how to send a viewer to the next video on your channel. Here's what it says. But growing all of these tomatoes created another problem. What to actually do with all of them? If you want to see how I preserved my massive harvest and the free recipes that everyone begs me for, check out this video on the screen right here. And you see, this creates what YouTube's algorithm loves the most, session time, where viewers watch multiple videos on your channel in sequence. And boy oh boy, if you can start reaching that level, YouTube is going to promote your videos like crazy. Okay, so we broke down the script that it made in just one prompt. And I can tell you it's good. But don't just take my word for it. Let me ask the AI itself to analyze this script. And so I'll type in the Poppy AI. Analyze this tomato growing script against the ultimate YouTube script guide. Is it well optimized for viewer retention and engagements? And what techniques does it use effectively? And then as you can see right there, it says, "This script is exceptionally well optimized for YouTube performance and follows all of the best practices of the YouTube scripting guide." And then at the end it says, "This script implements all the advanced retention techniques from the guide and would likely perform in the top 10% of YouTube videos in this category for audience retention." And there we go. Do you see what just happened there? The AI not only created an optimized script, but it understands exactly why it works. So this text, this script that it generates isn't just random information about your topic. It's strategic content creation based on proven psychological principles that keep viewers watching. And the most impressive part is that this entire script is generated in less than 60 seconds. Just think about how long it would take you to write something this strategically crafted by yourself. Probably hours if not days. And then even then, would you know to include all these psychological triggers and these certain ways to phrase something in the right places? Probably not. Even I don't. And that is the power of the algo script method. It doesn't just write words. It creates strategically designed content that's optimized for the YouTube algorithm and human psychology. And the best part is with this system, you can create scripts like this for any topic in minutes, even if you know nothing about script psychology or retention optimization. However, I know what some of you might be thinking. But Yuri, I actually enjoy writing my own scripts. I I just want them to perform better. And that's exactly why I built another powerful feature into this system. So if you prefer to write your own scripts, you can simply paste them into Poppy AI and then ask it to analyze your script against the ultimate YouTube script guide. That's what I often do myself as well. It will instantly identify areas where your script could be improved for better attention and it highlights missing psychological triggers and it then suggests better hooks and improvements. Let me actually show you how I do that. So I can upload the script of this video into Poppy and then type in analyze the script and suggest improvements based on the ultimate YouTube script guide. So you can see that overall it says that this script is very very well optimized for engagement. But it does give areas of improvement. So it says recommendation after the hook at a clearer threepoint preview structure. In this video I'll show you number one why traditional script writing methods are failing most creators. Number two, the exact algo script method I use to grow to 30,000 subscribers in just 120 days. And number three, how to implement this system in under five minutes per video, even if you know nothing about psychology. Now, that sounds pretty good. And so, I can implement these recommendations that it gave me, then my script became a whole lot better. And you can keep going back and forth until the AI says your script is perfectly optimized. And that will give you complete creative control over the script while still benefiting from all the psychological insights in that 21page guide. So it's basically like having a world-class scriptor and YouTube strategist reviewing your work in real time. Now at this point I feel like you have three options for creating your YouTube scripts. Option one, continue writing scripts manually. You can spend between 10 and 20 hours per script struggling with viewer retention and watching your videos get buried by the algorithm. Then if you're only able to upload one to two videos per month because script writing takes so long, your channel growth will remain painfully slow. And let's be honest, most creators simply don't have the specialized knowledge of psychological triggers and retention patterns that are needed to write truly high-erforming scripts. To solve that, you might use option number two, which is using generic AI tools like Chad GBT. Because you might think, why not just use Cad GBT? It's even cheaper. Now, I thought the same thing initially, but after testing it extensively, I discovered the painful truth. Generic AI tools produce generic results. They don't understand YouTube specific retention strategies. They cannot easily analyze successful videos in your niche, and they certainly cannot capture your unique voice without adding in a bunch of typical AI words that it uses in your scripts. And so you'll end up with robotic sounding scripts that perform no better than manually written ones. And you'll still need to spend quite some time editing it, rewriting them, and just constantly asking the AI to do a better job. And then there's option three. Use Poppy AI with my algo script method. This is the approach that allowed me to grow to 30,000 subscribers just 120 days on a brand new channel. So with Poppy AI and my Algo script template, you can create scripts in minutes instead of hours. integrate proven psychological triggers at exactly the right moments. Maintain your style and your tone of voice and produce content that the YouTube algorithm loves to recommend. You'll be able to upload more frequently with higher quality content, which is the perfect combination to grow your channel. And so, when you compare these options, the choice becomes clear. You can either continue to struggle with manual script writing or use generic AI tools that will keep you stuck where you are or you can use a proven system for creating scripts that actually perform with Poppy AI and my Algo script template board. Now, I want to share something special that I've created just for viewers of this video and that made it this far into the video, which shows me that you're serious about growing your channel and you have the capability to focus because most people already clicked off this video, but you're still here, which tells me that you're a capable person. Now, that said, I've put together a complete template board inside of Poppy AAI, which I just showed you in this video that I actually use myself, that includes my entire 21page ultimate scripting guide already loaded into your board. Now, this template isn't something I'm making publicly available or selling as a separate product because I don't sell any courses or anything like that. It's a resource that I've created specifically to help you implement what you're learning today. And so if you'd like to start using this to make the perfect YouTube script about any topic in your niche with your tone of voice, you can sign up to Poppy AAI with the link in the description down below. And then once you're in, I will actually send you my Algo script template board straight to your email ready for you to use. And as always, remember your next viral video is just one perfect script away.

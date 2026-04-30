@@ -1,0 +1,388 @@
+# EXACTLY How to Write INSANELY Good YouTube Scripts with AI
+
+- **Channel:** [Youri van Hofwegen](https://www.youtube.com/@Yourivanhofwegen)
+- **URL:** https://www.youtube.com/watch?v=jaOIw-NiEPM
+- **Video ID:** `jaOIw-NiEPM`
+- **Thumbnail:** https://i.ytimg.com/vi/jaOIw-NiEPM/hqdefault.jpg
+
+## Transcript
+
+- `00:00` If you're not using AI to write your
+- `00:01` YouTube scripts, you're wasting hours of
+- `00:03` your time and getting way worse results
+- `00:05` than the people who are. 90% of people
+- `00:07` prefer doing it manually, and the reason
+- `00:09` is simple. If you don't know what
+- `00:11` actually makes a script good, AI will
+- `00:12` just write generic garbage. That's why
+- `00:14` so many people try tools like ChatGPT,
+- `00:17` paste in a topic, and then end up with
+- `00:19` boring scripts that don't hook, build
+- `00:21` tension, or don't keep viewers watching.
+- `00:23` But here's the thing though, you don't
+- `00:24` need to memorize every little detail of
+- `00:26` script writing to fix this. You just
+- `00:27` need to understand the key principles.
+- `00:30` The things that make a YouTube script
+- `00:31` work, and then use them with the right
+- `00:33` AI tool. Once you do that, the tool
+- `00:35` handles the rest for you. And I know
+- `00:37` this works because I run over four
+- `00:39` YouTube channels with over 100,000
+- `00:41` subscribers, with two more closing in on
+- `00:43` that milestone right now. And the only
+- `00:44` reason I've been able to keep scaling is
+- `00:46` because I know what makes a script work,
+- `00:48` and I found an AI that transforms my
+- `00:50` knowledge into scripts that keep people
+- `00:52` watching. So in this video, I'm going to
+- `00:54` show you the exact formula behind
+- `00:56` insanely good YouTube scripts. Then I'll
+- `00:58` reveal the AI that turns any idea into
+- `01:01` smooth watchable scripts. So what
+- `01:03` actually makes a good YouTube script? To
+- `01:05` explain that, I'm going to break it down
+- `01:06` into six parts. First, I'll go over the
+- `01:08` foundations of script psychology, then
+- `01:10` I'll show you the five parts built into
+- `01:12` every single one of my videos to make
+- `01:14` them perform. Let's start with the
+- `01:16` foundations. The first thing, and
+- `01:17` honestly the most important thing, is
+- `01:19` understanding your audience. And this is
+- `01:21` where a lot of people mess up because
+- `01:23` they don't really think about who is
+- `01:24` watching their videos. Let me give you a
+- `01:26` simple case to make this clear. On the
+- `01:28` right, you see a thumbnail Minecraft
+- `01:30` video. This thing works perfectly for
+- `01:32` its audience, kids who love Minecraft.
+- `01:34` It has bright colors, a fun feel, and is
+- `01:36` straight to the point. But now look at
+- `01:38` the one on the left. That's from Charlie
+- `01:39` Morgan, and he makes videos for business
+- `01:41` owners. Totally different audience.
+- `01:43` Business owners care less about flashy
+- `01:45` colors in the thumbnails, and more about
+- `01:47` what actually gets results. They want
+- `01:49` the advanced stuff, even if most people
+- `01:51` would call that boring. That's why his
+- `01:52` thumbnail looks completely different.
+- `01:54` And your script works exactly the same
+- `01:56` way. The way you talk, the examples you
+- `01:57` use, even the way you build your story,
+- `02:00` it all has to resonate with the person
+- `02:02` you're trying to reach. If it doesn't,
+- `02:03` they'll just leave in the first couple
+- `02:05` of seconds and destroy your retention.
+- `02:07` So that is why knowing your target
+- `02:08` audience is so important. Now let's get
+- `02:10` into some more technical stuff. When it
+- `02:12` comes to actually writing your script,
+- `02:14` you really only have two options. Either
+- `02:16` you write the whole thing out word for
+- `02:17` word, or you just write down bullet
+- `02:19` points. Writing it all out works really
+- `02:21` well for technical videos, or when you
+- `02:23` need to be super precise with what you
+- `02:24` say. Bullet points are better when
+- `02:26` you're telling stories, doing news, or
+- `02:28` anything more conversational. The only
+- `02:30` downside is that bullet points make it
+- `02:32` harder to plan your visuals, like where
+- `02:34` you'll put B-rolls. Now I know this
+- `02:36` might sound complicated, but don't
+- `02:37` worry. I'll show you exactly how to make
+- `02:39` the AI do all the hard work later on.
+- `02:41` But that only works if you understand
+- `02:43` this foundation. With that in place,
+- `02:45` let's move into the most important part
+- `02:46` of any script, the hook. The job of your
+- `02:48` hook is really simple, confirm the click
+- `02:50` and open a curiosity loop. Here's what I
+- `02:52` mean. Someone clicked on your video
+- `02:54` because of your title and thumbnail. If
+- `02:56` your title promised how to grow
+- `02:57` potatoes, you can't suddenly start
+- `02:59` talking about tomatoes. They'll think
+- `03:01` they clicked on the wrong video and
+- `03:02` leave. Step one is just confirming that
+- `03:05` this really is what they came for. The
+- `03:06` second piece is the curiosity loop. This
+- `03:08` is where you make a promise you'll
+- `03:09` deliver on later in the video. That way,
+- `03:11` they stick around because they want to
+- `03:13` see how you actually do it. But there is
+- `03:14` more to curiosity loops, which I'll come
+- `03:16` back to later. So the formula here is
+- `03:18` pretty straightforward. You give them
+- `03:20` some immediate content reconfirming the
+- `03:22` click and simply saying what the video
+- `03:24` is about without spoiling the whole
+- `03:25` thing. Then you confirm that you are a
+- `03:27` person worth listening to. You show some
+- `03:29` proof that the video delivers on what
+- `03:31` the title promised, maybe through a
+- `03:32` quick result or by showing credibility.
+- `03:34` After that, you want to add a little
+- `03:36` twist, something they haven't heard
+- `03:37` before, to get them curious. Then you
+- `03:39` explain why it matters. Why is this
+- `03:41` actually important for them to know? And
+- `03:42` here's where tension is really, really
+- `03:44` important. You're planting a seed,
+- `03:46` hinting at something valuable or
+- `03:48` emotional that's coming while the viewer
+- `03:50` waits for the payoff. It's that gap
+- `03:51` between what they know and what they're
+- `03:53` waiting to find out that keeps people
+- `03:55` watching through to the end. Once you've
+- `03:56` nailed the hook, you move into the main
+- `03:58` body, a part tons of people overlook and
+- `04:01` why they fail. This is where all your
+- `04:02` content lives. You can write it in a lot
+- `04:04` of different ways. Maybe you're telling
+- `04:06` a story, maybe you're breaking down a
+- `04:07` topic, but what I always like to do is
+- `04:09` start with one of the strongest points
+- `04:11` I've got. If I made a video about the
+- `04:12` best video generators, I wouldn't start
+- `04:14` with the one that adds nothing new. I
+- `04:16` would start with the one I know to be
+- `04:17` the best. That instantly raises the
+- `04:20` viewer's expectations of the video and
+- `04:22` makes them curious to see the rest. Then
+- `04:24` you can follow up with your other points
+- `04:25` and continue to add value. A powerful
+- `04:27` move in the main body is using curiosity
+- `04:29` gaps. A curiosity gap is giving viewers
+- `04:32` a taste of the info while holding the
+- `04:34` rest back for a moment. Think about it
+- `04:35` like a TV show cliffhanger. They answer
+- `04:37` one question, but then immediately raise
+- `04:39` another. If you just lay out all your
+- `04:41` points in one go, viewers feel like
+- `04:43` they've already finished watching the
+- `04:44` video, and so they leave. But if you
+- `04:46` reveal your points one by one, always
+- `04:48` leaving something unresolved, viewers
+- `04:50` feel like they can't stop watching until
+- `04:52` they've connected all the dots. For each
+- `04:54` point, give a little context, and the
+- `04:56` viewer will instantly know what it's
+- `04:57` about. Then you show them how they can
+- `04:59` actually use it, and then you tie it
+- `05:01` back into the bigger picture so it
+- `05:02` doesn't just feel random. Another trick
+- `05:04` I use all the time is rehooks. These are
+- `05:06` little transitions that pull the viewer
+- `05:07` back in. Think of it this way. Every
+- `05:09` time you start a new section, curiosity
+- `05:11` goes up, but the longer you talk, the
+- `05:13` more it drops. A rehook is like hitting
+- `05:15` the reset button. Something as simple
+- `05:17` as, "But if you don't do this next step,
+- `05:19` everything else falls apart." That one
+- `05:21` line makes them stay for the next
+- `05:23` section. Another thing a lot of people
+- `05:24` forget is emotional variety. If your
+- `05:26` script just feels like a straight
+- `05:28` lecture, people get bored. You want to
+- `05:30` mix it up so they feel different
+- `05:31` emotions as they're watching. Maybe some
+- `05:33` fear, some surprise, a bit of relief,
+- `05:35` even a touch of humor. Think in waves.
+- `05:38` Zoom into the details, then zoom back
+- `05:40` out to the big picture, then zoom in
+- `05:41` again. And every 30 to 40 seconds,
+- `05:43` change things up. A new example, a
+- `05:45` rehook, a question, something to break
+- `05:48` the pattern. That's what keeps the
+- `05:49` viewer engaged. Finally, let's talk
+- `05:51` about one of the most overlooked parts
+- `05:53` of a script, the outro or your CTA. The
+- `05:55` goal is to close things out so the
+- `05:57` viewer feels good, and then show them
+- `05:58` the next step to take. You want to
+- `06:00` summarize what they learned, giving them
+- `06:02` that quick sense of, "Okay, I actually
+- `06:04` picked something up here." Or, "Hey,
+- `06:06` that was really fun." Or even just, "So
+- `06:08` now you know the main idea." But don't
+- `06:09` stop there. Help them visualize what
+- `06:11` they can actually do with what they
+- `06:13` learned. Instead of just saying, "Now
+- `06:14` you know how to grow potatoes," you
+- `06:16` could add, "And with that, you'll be
+- `06:18` able to get a harvest without wasting
+- `06:19` months, dead plants, and empty soil."
+- `06:21` That visualization helps the viewer to
+- `06:23` imagine the outcome. Then if you want
+- `06:25` them to take an action, this is where
+- `06:27` you frame the next problem. You
+- `06:28` basically tell them, "Here's the next
+- `06:30` roadblock you're going to hit." You
+- `06:31` expand on it just enough to make them
+- `06:33` feel it, and then you point them to your
+- `06:35` solution. That might be another video,
+- `06:36` your email list, or the link in the
+- `06:38` description. Either way, the action you
+- `06:40` want them to take should feel like the
+- `06:42` natural next step. So now you know how
+- `06:44` to write a script. You know the key
+- `06:45` areas, you know your way around it, and
+- `06:47` you understand what actually makes a
+- `06:49` script work. But let's be real here,
+- `06:50` this is a lot of information. Following
+- `06:52` all of this takes time. It takes time to
+- `06:54` learn, and it takes even more time to
+- `06:56` put into practice. And if you want to
+- `06:58` outsource it, that just creates a whole
+- `06:59` new set of problems. You never really
+- `07:01` know if the script writer you hire is
+- `07:03` actually good, or if they get your
+- `07:04` style. Then you've got back and forth
+- `07:06` revisions, delays, and at the end of the
+- `07:08` day, even one script can take days
+- `07:10` before it's ready to film. So the
+- `07:11` question is, how do we actually solve
+- `07:13` this? Well, like I mentioned earlier,
+- `07:15` that's where AI comes in. Only Poppy AI
+- `07:17` lets you build viral YouTube scripts.
+- `07:19` It's a tool built by actual YouTubers
+- `07:21` for other YouTubers. It's designed to
+- `07:23` make it easy to create a professional
+- `07:25` script. If you want to follow along,
+- `07:26` there is a link down in the description.
+- `07:28` Let me show you how it works. When you
+- `07:30` first log in, you'll see a button that
+- `07:31` says new board. Once you click it,
+- `07:34` you'll land on this clean workflow
+- `07:35` screen. Think of it like your own
+- `07:37` whiteboard. On the left are all the
+- `07:38` features you can use, and at the top is
+- `07:41` the AI chat, which works like your
+- `07:42` chatbot. You also get options for social
+- `07:45` media, like Instagram posts, TikToks,
+- `07:47` LinkedIn updates, and Facebook ads. And
+- `07:49` below that, you can bring in recordings,
+- `07:51` images, text, or websites, and organize
+- `07:54` them any way you like. So let's actually
+- `07:56` write a script with it. Today we're
+- `07:57` talking about the release of Kling 2.5,
+- `08:00` the latest update to one of the most
+- `08:01` advanced AI video generators out there.
+- `08:03` The first thing I do is open the AI chat
+- `08:05` and drag it into my workspace. Then I
+- `08:07` create three groups and line them up. I
+- `08:09` rename them to my style, how to write a
+- `08:12` YouTube script, and information. Think
+- `08:14` of groups like little collections of
+- `08:15` different topics that the AI can pull
+- `08:17` from. In the first group, I import a few
+- `08:20` of my own videos. That way, the AI
+- `08:22` learns my tone, my pacing, the way I
+- `08:24` normally flow through a script. And yes,
+- `08:26` this tool can actually do that. So in
+- `08:27` this case, I've uploaded four of my
+- `08:29` videos. The second group is all about
+- `08:31` the principles of script writing. In
+- `08:33` this part, I can add a video about
+- `08:35` script structure, or paste the breakdown
+- `08:37` I explained earlier, the hook, main
+- `08:39` body, rehooks, emotional variety, and
+- `08:41` the outro, all inside this group. And
+- `08:43` then in the final group, I put the
+- `08:45` actual content I want to cover. Since
+- `08:47` I'm making a video on the newest release
+- `08:49` of Kling 2.5, I'll grab the link to the
+- `08:51` release notes directly from their
+- `08:52` website and paste it here into group
+- `08:54` three. Now all the raw material is
+- `08:56` ready. Before generating, connect the
+- `08:58` groups into AI chat with the dots. This
+- `09:00` tells the AI exactly what information to
+- `09:03` use. Then I just pick the model. Poppy
+- `09:05` gives you access to literally all the
+- `09:06` major ones, like Claude, ChatGPT,
+- `09:09` Gemini, and Grok. That alone is enough
+- `09:11` reasons to have Poppy AI. I usually go
+- `09:13` with Claude Sonnet or Claude 4.1 Opus,
+- `09:16` since they always give me clean,
+- `09:17` high-quality scripts. After that, it's
+- `09:19` just about writing the prompt, and I
+- `09:21` keep it super simple. Take the style and
+- `09:23` pacing from group one, apply the script
+- `09:25` writing principles from group two, then
+- `09:27` use the raw material from group three as
+- `09:29` the topic. Output a complete YouTube
+- `09:31` script that matches my tone, follows the
+- `09:34` framework, and turns the information
+- `09:36` into a compelling narrative that hooks,
+- `09:38` builds curiosity, delivers the value,
+- `09:40` and ends with a strong CTA. And here's
+- `09:42` the result. The first thing it gives me
+- `09:44` is a title. I didn't even ask for it,
+- `09:46` but it still came up with a solid one.
+- `09:47` Then the hook. From the start, it grabs
+- `09:49` attention with the line, "The AI video
+- `09:51` game just got completely rewritten." By
+- `09:53` tying in sore and prompt struggles, it
+- `09:55` feels fresh and relevant, not
+- `09:57` exaggerated. The credibility bubble adds
+- `10:00` instant trust while keeping the pace
+- `10:02` fast. Then the main body is broken down
+- `10:04` clearly into four game-changing
+- `10:06` features, followed by the secret
+- `10:07` workflow. Exactly the kind of structure
+- `10:10` that keeps people engaged. The script
+- `10:12` naturally adds re-hooks like, "And
+- `10:14` that's just the beginning." and "But
+- `10:15` here's where it gets really
+- `10:16` interesting." That kind of phrasing is
+- `10:18` what makes viewers want to keep
+- `10:19` watching. And finally, the outro. It
+- `10:21` wraps up by reinforcing the value, then
+- `10:24` adds urgency with the competitor angle.
+- `10:26` The call to action is simple. Click the
+- `10:28` link and start the workflow. And it ends
+- `10:30` with a community hook, asking viewers
+- `10:32` what they'll create first, sparking
+- `10:33` comments right away. At this point, you
+- `10:35` know how to build a solid script, and
+- `10:37` you've seen how Poppy AI can create it
+- `10:39` for you with ease. You can turn any idea
+- `10:41` into a pro script made in minutes
+- `10:43` instead of wasting hours writing or
+- `10:45` hiring freelancers. And honestly, if
+- `10:47` you're still thinking about just using
+- `10:48` ChatGPT for this, just think about how
+- `10:50` many problems that causes. You paste
+- `10:52` something in, it gives you a flat
+- `10:53` script, then you've got to rework it,
+- `10:55` make edits, go back and forth, and it
+- `10:57` still doesn't feel the way you want. You
+- `10:59` know exactly what I mean. That's the
+- `11:00` difference with Poppy. Since it was
+- `11:02` built by creators for creators, it knows
+- `11:04` how to take what you give it and turn it
+- `11:06` into something that is actually made for
+- `11:07` YouTube. The yearly plan is $399,
+- `11:10` and that might sound like a lot. But
+- `11:12` when you think about it, it's actually
+- `11:14` cheaper than paying for separate
+- `11:15` subscriptions to ChatGPT, Claude, and
+- `11:18` all the other tools. ChatGPT and Claude
+- `11:20` alone can cost you $50 or more each
+- `11:22` month. With Poppy at 31, you're already
+- `11:24` saving money. While getting everything
+- `11:26` in one place with a simple workflow and
+- `11:28` tons of other features. And if you sign
+- `11:30` up through the link in the description,
+- `11:31` you'll also get $25 off. So check the
+- `11:34` link below and sign up to Poppy today.
+- `11:36` I'll see you in the next one.
+
+## Plain transcript
+
+If you're not using AI to write your YouTube scripts, you're wasting hours of your time and getting way worse results than the people who are. 90% of people prefer doing it manually, and the reason is simple. If you don't know what actually makes a script good, AI will just write generic garbage. That's why so many people try tools like ChatGPT, paste in a topic, and then end up with boring scripts that don't hook, build tension, or don't keep viewers watching. But here's the thing though, you don't need to memorize every little detail of script writing to fix this. You just need to understand the key principles. The things that make a YouTube script work, and then use them with the right AI tool. Once you do that, the tool handles the rest for you. And I know this works because I run over four YouTube channels with over 100,000 subscribers, with two more closing in on that milestone right now. And the only reason I've been able to keep scaling is because I know what makes a script work, and I found an AI that transforms my knowledge into scripts that keep people watching. So in this video, I'm going to show you the exact formula behind insanely good YouTube scripts. Then I'll reveal the AI that turns any idea into smooth watchable scripts. So what actually makes a good YouTube script? To explain that, I'm going to break it down into six parts. First, I'll go over the foundations of script psychology, then I'll show you the five parts built into every single one of my videos to make them perform. Let's start with the foundations. The first thing, and honestly the most important thing, is understanding your audience. And this is where a lot of people mess up because they don't really think about who is watching their videos. Let me give you a simple case to make this clear. On the right, you see a thumbnail Minecraft video. This thing works perfectly for its audience, kids who love Minecraft. It has bright colors, a fun feel, and is straight to the point. But now look at the one on the left. That's from Charlie Morgan, and he makes videos for business owners. Totally different audience. Business owners care less about flashy colors in the thumbnails, and more about what actually gets results. They want the advanced stuff, even if most people would call that boring. That's why his thumbnail looks completely different. And your script works exactly the same way. The way you talk, the examples you use, even the way you build your story, it all has to resonate with the person you're trying to reach. If it doesn't, they'll just leave in the first couple of seconds and destroy your retention. So that is why knowing your target audience is so important. Now let's get into some more technical stuff. When it comes to actually writing your script, you really only have two options. Either you write the whole thing out word for word, or you just write down bullet points. Writing it all out works really well for technical videos, or when you need to be super precise with what you say. Bullet points are better when you're telling stories, doing news, or anything more conversational. The only downside is that bullet points make it harder to plan your visuals, like where you'll put B-rolls. Now I know this might sound complicated, but don't worry. I'll show you exactly how to make the AI do all the hard work later on. But that only works if you understand this foundation. With that in place, let's move into the most important part of any script, the hook. The job of your hook is really simple, confirm the click and open a curiosity loop. Here's what I mean. Someone clicked on your video because of your title and thumbnail. If your title promised how to grow potatoes, you can't suddenly start talking about tomatoes. They'll think they clicked on the wrong video and leave. Step one is just confirming that this really is what they came for. The second piece is the curiosity loop. This is where you make a promise you'll deliver on later in the video. That way, they stick around because they want to see how you actually do it. But there is more to curiosity loops, which I'll come back to later. So the formula here is pretty straightforward. You give them some immediate content reconfirming the click and simply saying what the video is about without spoiling the whole thing. Then you confirm that you are a person worth listening to. You show some proof that the video delivers on what the title promised, maybe through a quick result or by showing credibility. After that, you want to add a little twist, something they haven't heard before, to get them curious. Then you explain why it matters. Why is this actually important for them to know? And here's where tension is really, really important. You're planting a seed, hinting at something valuable or emotional that's coming while the viewer waits for the payoff. It's that gap between what they know and what they're waiting to find out that keeps people watching through to the end. Once you've nailed the hook, you move into the main body, a part tons of people overlook and why they fail. This is where all your content lives. You can write it in a lot of different ways. Maybe you're telling a story, maybe you're breaking down a topic, but what I always like to do is start with one of the strongest points I've got. If I made a video about the best video generators, I wouldn't start with the one that adds nothing new. I would start with the one I know to be the best. That instantly raises the viewer's expectations of the video and makes them curious to see the rest. Then you can follow up with your other points and continue to add value. A powerful move in the main body is using curiosity gaps. A curiosity gap is giving viewers a taste of the info while holding the rest back for a moment. Think about it like a TV show cliffhanger. They answer one question, but then immediately raise another. If you just lay out all your points in one go, viewers feel like they've already finished watching the video, and so they leave. But if you reveal your points one by one, always leaving something unresolved, viewers feel like they can't stop watching until they've connected all the dots. For each point, give a little context, and the viewer will instantly know what it's about. Then you show them how they can actually use it, and then you tie it back into the bigger picture so it doesn't just feel random. Another trick I use all the time is rehooks. These are little transitions that pull the viewer back in. Think of it this way. Every time you start a new section, curiosity goes up, but the longer you talk, the more it drops. A rehook is like hitting the reset button. Something as simple as, "But if you don't do this next step, everything else falls apart." That one line makes them stay for the next section. Another thing a lot of people forget is emotional variety. If your script just feels like a straight lecture, people get bored. You want to mix it up so they feel different emotions as they're watching. Maybe some fear, some surprise, a bit of relief, even a touch of humor. Think in waves. Zoom into the details, then zoom back out to the big picture, then zoom in again. And every 30 to 40 seconds, change things up. A new example, a rehook, a question, something to break the pattern. That's what keeps the viewer engaged. Finally, let's talk about one of the most overlooked parts of a script, the outro or your CTA. The goal is to close things out so the viewer feels good, and then show them the next step to take. You want to summarize what they learned, giving them that quick sense of, "Okay, I actually picked something up here." Or, "Hey, that was really fun." Or even just, "So now you know the main idea." But don't stop there. Help them visualize what they can actually do with what they learned. Instead of just saying, "Now you know how to grow potatoes," you could add, "And with that, you'll be able to get a harvest without wasting months, dead plants, and empty soil." That visualization helps the viewer to imagine the outcome. Then if you want them to take an action, this is where you frame the next problem. You basically tell them, "Here's the next roadblock you're going to hit." You expand on it just enough to make them feel it, and then you point them to your solution. That might be another video, your email list, or the link in the description. Either way, the action you want them to take should feel like the natural next step. So now you know how to write a script. You know the key areas, you know your way around it, and you understand what actually makes a script work. But let's be real here, this is a lot of information. Following all of this takes time. It takes time to learn, and it takes even more time to put into practice. And if you want to outsource it, that just creates a whole new set of problems. You never really know if the script writer you hire is actually good, or if they get your style. Then you've got back and forth revisions, delays, and at the end of the day, even one script can take days before it's ready to film. So the question is, how do we actually solve this? Well, like I mentioned earlier, that's where AI comes in. Only Poppy AI lets you build viral YouTube scripts. It's a tool built by actual YouTubers for other YouTubers. It's designed to make it easy to create a professional script. If you want to follow along, there is a link down in the description. Let me show you how it works. When you first log in, you'll see a button that says new board. Once you click it, you'll land on this clean workflow screen. Think of it like your own whiteboard. On the left are all the features you can use, and at the top is the AI chat, which works like your chatbot. You also get options for social media, like Instagram posts, TikToks, LinkedIn updates, and Facebook ads. And below that, you can bring in recordings, images, text, or websites, and organize them any way you like. So let's actually write a script with it. Today we're talking about the release of Kling 2.5, the latest update to one of the most advanced AI video generators out there. The first thing I do is open the AI chat and drag it into my workspace. Then I create three groups and line them up. I rename them to my style, how to write a YouTube script, and information. Think of groups like little collections of different topics that the AI can pull from. In the first group, I import a few of my own videos. That way, the AI learns my tone, my pacing, the way I normally flow through a script. And yes, this tool can actually do that. So in this case, I've uploaded four of my videos. The second group is all about the principles of script writing. In this part, I can add a video about script structure, or paste the breakdown I explained earlier, the hook, main body, rehooks, emotional variety, and the outro, all inside this group. And then in the final group, I put the actual content I want to cover. Since I'm making a video on the newest release of Kling 2.5, I'll grab the link to the release notes directly from their website and paste it here into group three. Now all the raw material is ready. Before generating, connect the groups into AI chat with the dots. This tells the AI exactly what information to use. Then I just pick the model. Poppy gives you access to literally all the major ones, like Claude, ChatGPT, Gemini, and Grok. That alone is enough reasons to have Poppy AI. I usually go with Claude Sonnet or Claude 4.1 Opus, since they always give me clean, high-quality scripts. After that, it's just about writing the prompt, and I keep it super simple. Take the style and pacing from group one, apply the script writing principles from group two, then use the raw material from group three as the topic. Output a complete YouTube script that matches my tone, follows the framework, and turns the information into a compelling narrative that hooks, builds curiosity, delivers the value, and ends with a strong CTA. And here's the result. The first thing it gives me is a title. I didn't even ask for it, but it still came up with a solid one. Then the hook. From the start, it grabs attention with the line, "The AI video game just got completely rewritten." By tying in sore and prompt struggles, it feels fresh and relevant, not exaggerated. The credibility bubble adds instant trust while keeping the pace fast. Then the main body is broken down clearly into four game-changing features, followed by the secret workflow. Exactly the kind of structure that keeps people engaged. The script naturally adds re-hooks like, "And that's just the beginning." and "But here's where it gets really interesting." That kind of phrasing is what makes viewers want to keep watching. And finally, the outro. It wraps up by reinforcing the value, then adds urgency with the competitor angle. The call to action is simple. Click the link and start the workflow. And it ends with a community hook, asking viewers what they'll create first, sparking comments right away. At this point, you know how to build a solid script, and you've seen how Poppy AI can create it for you with ease. You can turn any idea into a pro script made in minutes instead of wasting hours writing or hiring freelancers. And honestly, if you're still thinking about just using ChatGPT for this, just think about how many problems that causes. You paste something in, it gives you a flat script, then you've got to rework it, make edits, go back and forth, and it still doesn't feel the way you want. You know exactly what I mean. That's the difference with Poppy. Since it was built by creators for creators, it knows how to take what you give it and turn it into something that is actually made for YouTube. The yearly plan is $399, and that might sound like a lot. But when you think about it, it's actually cheaper than paying for separate subscriptions to ChatGPT, Claude, and all the other tools. ChatGPT and Claude alone can cost you $50 or more each month. With Poppy at 31, you're already saving money. While getting everything in one place with a simple workflow and tons of other features. And if you sign up through the link in the description, you'll also get $25 off. So check the link below and sign up to Poppy today. I'll see you in the next one.
