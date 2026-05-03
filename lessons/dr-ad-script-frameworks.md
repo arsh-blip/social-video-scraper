@@ -1,14 +1,22 @@
 # Video Scripting Frameworks → 30–60s Direct-Response Ads
 
-Distilled from the two Youri van Hofwegen videos in `../scraped_videos/`:
+Distilled from the YouTube transcripts in `../scraped_videos/`:
 
-- `1wrYP4ayp4I` — *This AI Writes Better Scripts than 99% of YouTubers*
-- `jaOIw-NiEPM` — *EXACTLY How to Write INSANELY Good YouTube Scripts with AI*
+- `1wrYP4ayp4I` — Youri van Hofwegen, *This AI Writes Better Scripts than 99% of YouTubers*
+- `jaOIw-NiEPM` — Youri van Hofwegen, *EXACTLY How to Write INSANELY Good YouTube Scripts with AI*
+- `dNT7gd3ulAg` — Jade Beason, *I studied 100+ hooks*
+- `2byPP_9F0-Q` — Kallaway, *Give me 15 mins, I'll make your hooks impossible to skip*
+- `ImzoNTrgvFg` — Kallaway, *The NEW Way to WIN on Social Media in 2026*
+- `GsfbnzN77NY` — Ryan Spenner, *5 Viral Storytelling Hooks Pt. 4*
+- `xbi3CKpvUAI` — Ryan Spenner, *5 Visual Hooks Pt. 7*
 
-Both are pitched at long-form YouTube (3–15 min), but the underlying psychology
-travels. This doc extracts the reusable parts and rewrites them for the
-constraints of a 30–60s performance DR ad (Meta / TikTok / Shorts / YouTube
+The source videos are pitched at long-form YouTube and short-form creator
+content. This doc extracts the reusable scripting parts and rewrites them for
+the constraints of a 30–60s performance DR ad (Meta / TikTok / Shorts / YouTube
 in-stream).
+
+For visual hook direction (scene-generation prompts), see the companion doc:
+[`visual-hooks-for-ai-scene-generation.md`](./visual-hooks-for-ai-scene-generation.md).
 
 ---
 
@@ -65,6 +73,50 @@ The "name the next problem" move is the most underused trick — it makes the CT
 
 ### 1g. Three-Point Preview
 After the hook: *"In this video I'll show you (1) why X is failing, (2) the exact method I used, (3) how to do it in five minutes."* Useful in long-form. Mostly **too heavy for ≤60s ads** unless the offer is complex.
+
+### 1h. Hook is a moment, not a sentence (Jade Beason)
+Treat the hook as **three layers prompted together**: words + visuals + pacing.
+A scripted line without a paired visual archetype + pacing target will produce a
+flat hook regardless of how clever the line is. See the visual archetype catalog
+in [`visual-hooks-for-ai-scene-generation.md`](./visual-hooks-for-ai-scene-generation.md).
+
+### 1i. Hook's two and only jobs (Kallaway)
+A hook needs to deliver exactly two things — nothing else:
+1. **Topic clarity** — viewer knows what the next 30–60s is about.
+2. **On-target curiosity** — viewer believes the value is for them.
+
+Everything else (cool visuals, clever phrasing, drama) is in service of those
+two outcomes. Drop anything that doesn't move one of them.
+
+### 1j. Curiosity = Contrast (Kallaway)
+The engine of every working curiosity loop is **A vs B**:
+- **A** = what the viewer already believes / their current baseline.
+- **B** = your contrarian alternative.
+- The distance between A and B *is* the curiosity.
+
+Two flavors:
+- **Stated contrast** — both A and B verbal: *"Most people use Accutane. I have an herbal remedy that works 3× faster."*
+- **Implied contrast** — only B verbal; A is what the audience is assumed to know: *"This supplement is 8× more effective for acne."*
+
+For DR, **stated** is safer — never assume the audience shares the implied
+baseline. Use implied only in well-known categories.
+
+This is the underlying principle behind both the **Named Villain** and
+**Contrarian Truth** archetypes in the hook taxonomy below — naming the villain
+and asserting the heretical truth are both ways to set up A vs B.
+
+### 1k. Four Horsemen of bad hooks (Kallaway diagnostic)
+When a hook isn't landing, run this checklist before iterating:
+
+| # | Mistake | Symptom | Fix |
+|---|---|---|---|
+| 1 | **Delay** | Topic isn't introduced until line 3+ | Move topic into seconds 1–2 (speed-to-value) |
+| 2 | **Confusion** | Sentence is jargon-heavy or grammatically dense | 6th-grade reading level, active voice, fewer words |
+| 3 | **Irrelevance** | Sounds like it's about the creator, not the viewer | Swap "I/me" for "you/your"; agitate a known painpoint |
+| 4 | **Disinterest** | Clear and relevant but boring | Add contrast (1j above) |
+
+Most "this hook is mid" feedback is one of these four. Name the failure mode
+before regenerating — it's faster than vibes-based iteration.
 
 ---
 
