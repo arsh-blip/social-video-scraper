@@ -11,12 +11,14 @@ from __future__ import annotations
 import json
 import re
 import sys
+import time
 import urllib.parse
 import urllib.request
 from dataclasses import asdict, dataclass
 from pathlib import Path
 
 from youtube_transcript_api import YouTubeTranscriptApi
+from youtube_transcript_api._errors import IpBlocked, RequestBlocked
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 OUT_DIR = REPO_ROOT / "scraped_videos"
@@ -55,13 +57,23 @@ def fetch_oembed(url: str) -> dict:
         return json.loads(resp.read())
 
 
-def fetch_transcript(video_id: str) -> list[dict]:
+def fetch_transcript(video_id: str, max_attempts: int = 6) -> list[dict]:
     api = YouTubeTranscriptApi()
-    fetched = api.fetch(video_id)
-    return [
-        {"text": s.text, "start": s.start, "duration": s.duration}
-        for s in fetched
-    ]
+    delay = 30
+    last_err: Exception | None = None
+    for attempt in range(1, max_attempts + 1):
+        try:
+            fetched = api.fetch(video_id)
+            return [
+                {"text": s.text, "start": s.start, "duration": s.duration}
+                for s in fetched
+            ]
+        except (IpBlocked, RequestBlocked) as e:
+            last_err = e
+            print(f"  [transcript] blocked (attempt {attempt}/{max_attempts}); sleeping {delay}s")
+            time.sleep(delay)
+            delay = min(delay * 2, 240)
+    raise last_err or RuntimeError("transcript fetch failed")
 
 
 def format_timestamp(seconds: float) -> str:
@@ -125,14 +137,26 @@ def main(argv: list[str]) -> int:
     if not argv:
         print(__doc__)
         return 1
-    for url in argv:
+    failures: list[tuple[str, str]] = []
+    for i, url in enumerate(argv):
+        if i > 0:
+            time.sleep(5)
         print(f"Scraping {url} ...")
-        record = scrape(url)
-        write_outputs(record)
-        print(
-            f"  -> {record.video_id} | {record.title} "
-            f"({len(record.transcript_segments)} segments)"
-        )
+        try:
+            record = scrape(url)
+            write_outputs(record)
+            print(
+                f"  -> {record.video_id} | {record.title} "
+                f"({len(record.transcript_segments)} segments)"
+            )
+        except Exception as e:
+            print(f"  !! FAILED: {type(e).__name__}: {e}")
+            failures.append((url, str(e)))
+    if failures:
+        print(f"\n{len(failures)} failure(s):")
+        for u, err in failures:
+            print(f"  - {u}: {err[:120]}")
+        return 2
     return 0
 
 
