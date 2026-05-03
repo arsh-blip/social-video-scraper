@@ -1,0 +1,526 @@
+# Give me 15 mins, and I'll make your hooks impossible to skip
+
+- **Channel:** [Kallaway](https://www.youtube.com/@kallawaymarketing)
+- **URL:** https://www.youtube.com/watch?v=2byPP_9F0-Q
+- **Video ID:** `2byPP_9F0-Q`
+- **Thumbnail:** https://i.ytimg.com/vi/2byPP_9F0-Q/hqdefault.jpg
+
+## Transcript
+
+- `00:00` Today we're talking about hooks. If you
+- `00:01` want your videos to perform better, you
+- `00:03` need to focus on leveling up your hooks.
+- `00:05` Now look, I've studied literally
+- `00:07` thousands of videos. And it turns out if
+- `00:09` your hooks are not working, there's only
+- `00:11` four mistakes you could be making. If
+- `00:13` you solve for these, your views will
+- `00:15` skyrocket immediately. So, in this
+- `00:17` video, I'm going to break all four of
+- `00:18` them down. These are the four hook
+- `00:20` mistakes holding back your videos with
+- `00:22` tactical examples and tips for how to
+- `00:24` fix each of them. By the way, I'm
+- `00:25` Callaway. I have a million followers.
+- `00:27` I've done billions of views. and content
+- `00:29` is all I do all day long. All right, now
+- `00:30` before I walk through the four main
+- `00:32` mistakes you're making with your hooks,
+- `00:34` let's just quickly talk about what a
+- `00:35` winning hook actually looks like.
+- `00:37` Understanding this one thing will help
+- `00:38` you a ton. Hooks really only have one
+- `00:41` job, to help a viewer decide to opt in
+- `00:43` and continue watching the video. The
+- `00:45` hook needs to stop the scroll and get
+- `00:47` the viewer to stay put. It's very
+- `00:48` simple. Now, in order to get the viewer
+- `00:50` to opt in and stay put, the hook only
+- `00:52` has to give them two things: topic
+- `00:54` clarity and ontarget curiosity. Topic
+- `00:57` clarity means the viewer has a crystal
+- `00:59` clear understanding of what the video is
+- `01:01` going to be about. And on target
+- `01:03` curiosity means that they believe the
+- `01:05` topic is for them. The video will give
+- `01:07` them some value and they have general
+- `01:08` curiosity on what comes next. So all the
+- `01:11` hook needs to do is drive those two
+- `01:13` points home. If you do this these two
+- `01:15` things, you win. I guarantee the viewer
+- `01:17` will be hooked. Now, of course, the
+- `01:18` million-dollar question is this. How do
+- `01:20` I make sure that every time I make a
+- `01:22` hook, the viewer gets those two things,
+- `01:24` topic clarity and ontarget curiosity?
+- `01:26` And this really is where the four
+- `01:27` horsemen hook mistakes come in. The
+- `01:30` reason bad hooks flop and don't deliver
+- `01:32` those two things is because you're
+- `01:34` making one or more of these four
+- `01:36` mistakes. If you fix all four of these,
+- `01:37` you'll be good to go. All right, the
+- `01:39` first hook mistake is called delay. And
+- `01:41` the good news is this one is the easiest
+- `01:42` one to fix. When I say delay, what I
+- `01:44` mean is that the context on what the
+- `01:46` video is going to be about is delayed
+- `01:48` too long in the video. If you were to
+- `01:50` visualize a script, let's say it has 13
+- `01:52` lines and the third line is the first
+- `01:54` time you introduce the topic. This is
+- `01:56` delay because those first two lines are
+- `01:58` fluff and unnecessary details. You need
+- `02:00` to cut those first two lines, move the
+- `02:02` third line up to the top so your topic
+- `02:04` introduction can happen in the first 1
+- `02:06` to 2 seconds. I often refer to this
+- `02:08` concept as speed to value. You want to
+- `02:10` increase the speed that the viewer can
+- `02:12` get to clarity or get to value. Here's
+- `02:14` an example of what bad delay looks like.
+- `02:16` Let's say you start your video with
+- `02:17` something like this. Guys, this is one
+- `02:19` of the craziest things I've ever seen.
+- `02:20` And when you see it, you're never going
+- `02:21` to believe it. That is an example of a
+- `02:23` legit hook that many people try to use
+- `02:25` when they're beginners. Now, in theory,
+- `02:27` this kind of sounds like it might be a
+- `02:28` good hook because it's building suspense
+- `02:31` and curiosity about what that thing is.
+- `02:33` You might hear that and wonder, "What
+- `02:34` did the creator see? I have to stick
+- `02:36` around to find out." But the problem
+- `02:37` with that sentence and generally hooks
+- `02:39` like this is that it gives me as the
+- `02:41` viewer zero context on what is coming
+- `02:43` next. A crazy thing you saw could be
+- `02:45` literally anything. So, if I have to
+- `02:47` decide with my time if I want to keep
+- `02:49` watching, I'm now unable to do it after
+- `02:51` just that sentence because I don't have
+- `02:52` the context. The typical chart for short
+- `02:54` form video retention looks like this.
+- `02:56` It's exponential decay. You see how
+- `02:58` steep those first two seconds are going
+- `02:59` down? That viewership falls off like a
+- `03:02` cliff. Every second you go without
+- `03:04` telling somebody what the video is
+- `03:05` about, so they have the information to
+- `03:07` decide to opt in, a large portion of
+- `03:09` your viewers are bouncing. Now, certain
+- `03:11` creators with these vague hooks are able
+- `03:13` to get some people to stay. If you look
+- `03:15` on Tik Tok specifically, it feels like
+- `03:17` these type of vague open-ended hooks
+- `03:19` work a lot. But the people that are
+- `03:20` staying are only staying because of how
+- `03:23` the creator looks, the emotion on the
+- `03:24` creator's face, or the text hook that
+- `03:26` they're putting on the screen. The
+- `03:28` spoken words actually add zero value to
+- `03:30` getting them to stay. So, it's not that
+- `03:32` these types of open-ended vague hooks
+- `03:34` can't ever work, it's just that they
+- `03:35` work way less often. So, to recap, hook
+- `03:37` problem number one is delay. And the fix
+- `03:39` is to stop delaying the introduction and
+- `03:42` the clarity of the context on the video.
+- `03:44` Use that first sentence in as few words
+- `03:46` as possible to give the context that the
+- `03:48` viewer needs to have to decide whether
+- `03:50` or not to opt in. An example of good
+- `03:52` rapid context would be something like
+- `03:53` this. Here are three simple ways to
+- `03:55` improve your gut health or if you have
+- `03:57` gut issues, these three remedies will
+- `03:59` help you immediately. If you get those
+- `04:01` hooks right away as the viewer, I know
+- `04:02` exactly what these videos are going to
+- `04:04` be about. Gut health and herbal remedies
+- `04:06` that can help me solve it. There is zero
+- `04:08` delay in the context and so I can opt in
+- `04:10` as soon as possible. All right, hook
+- `04:11` problem and mistake number two is
+- `04:13` confusion. And when I say confusion,
+- `04:15` what I really mean is comprehension
+- `04:17` loss. So, in this case, the viewer is
+- `04:19` just not understanding or comprehending
+- `04:21` what you're saying. At this point,
+- `04:23` you've eliminated the delay, which is
+- `04:24` good, but the words you're using or the
+- `04:26` phrasing of those sentences is just not
+- `04:29` clear and it's confusing the viewer. So,
+- `04:31` the problem here is really just a lack
+- `04:32` of clarity in your words. And the reason
+- `04:34` this is a problem is again, if the
+- `04:36` viewer can't assess if this video is
+- `04:38` actually for them because they're only
+- `04:40` understanding like half the words you
+- `04:41` say, then they have trouble deciding
+- `04:43` whether or not to opt in. Here's an
+- `04:45` example to illustrate exactly what I
+- `04:46` mean by lack of clarity and confusion.
+- `04:48` Imagine I started a hook like this.
+- `04:50` These guys built a $30 million empire
+- `04:52` and the online money they made is most
+- `04:54` difficult to earn if you don't develop a
+- `04:56` journaling practice like they did. And
+- `04:57` this is a bit exaggerated obviously. Few
+- `04:59` people actually talk like that, but you
+- `05:00` get the point of how difficult and
+- `05:02` confusing it was to actually parse
+- `05:04` through what I was trying to say. If you
+- `05:06` hear just that, you can kind of gather
+- `05:07` the video is going to be about an online
+- `05:09` business and maybe something to do with
+- `05:11` journaling, but you're really struggling
+- `05:12` to put the pieces together clearly
+- `05:14` because of the way I framed the
+- `05:16` sentence. And this is a classic clarity
+- `05:18` issue. Instead, for that exact same
+- `05:20` idea, you could write the hook like
+- `05:22` this. These guys built a $30 million
+- `05:24` empire and their secret for earning
+- `05:25` money online was their insane journaling
+- `05:28` practice. See how just changing the
+- `05:29` words slightly and the way the sentence
+- `05:31` is ordered makes it way easier to
+- `05:33` understand what I'm saying. Essentially,
+- `05:34` you as the viewer are able to absorb
+- `05:36` more of the words. Your hit rate for
+- `05:38` comprehension goes up and then confusion
+- `05:40` goes down. Now, the tactics for how to
+- `05:42` improve clarity is really about becoming
+- `05:43` a better writer. You want to use fewer
+- `05:45` words, but enough that the viewer can't
+- `05:47` misunderstand you. You want to use
+- `05:49` simpler words, ideally at a sixth grade
+- `05:51` reading level. And you want to use
+- `05:52` direct active voice instead of passive
+- `05:54` voice on the sentences so they're easier
+- `05:56` to understand. The dog jumped verse the
+- `05:58` jump of the dog. Here are two quick tips
+- `06:00` for immediately improving hook clarity
+- `06:02` and reducing confusion. For the first
+- `06:04` tip, you could just take the hook you've
+- `06:06` written and drop it into chatbt or
+- `06:08` claude with this prompt. I've written a
+- `06:10` hook for a short form video about X
+- `06:12` topic. I need help increasing the
+- `06:14` clarity and the framing of the sentences
+- `06:15` I used. I want the meaning to be the
+- `06:17` exact same, but can you rewrite this in
+- `06:19` a sixth grade reading level so that
+- `06:20` there's no misunderstanding from the
+- `06:22` viewer? This prompt will automatically
+- `06:24` remix and rewrite the hook for you. You
+- `06:25` could also just use sandcastle.ai, which
+- `06:27` is my AI scriptw writing tool. You just
+- `06:30` put the topic in and we'll write it for
+- `06:31` you in a very clear way. All right, the
+- `06:32` last tip for clarity proofing your hooks
+- `06:34` would be to do this. When you read just
+- `06:36` the hook, those one to two sentences in
+- `06:38` isolation without anything else. Ask
+- `06:40` yourself this question. Is it possible
+- `06:42` for the viewer to misunderstand what I'm
+- `06:44` saying in the wrong way? Is there more
+- `06:46` than one way these sentences could be
+- `06:48` interpreted? If so, rewrite the hook so
+- `06:50` that you eliminate those alternative
+- `06:52` understanding paths so there's only the
+- `06:54` one that you want. All right. Now,
+- `06:55` before I go on to the last two hook
+- `06:57` mistakes, and these ones really are the
+- `06:58` biggest, I just want to mention
+- `06:59` something. I think becoming a master at
+- `07:01` hooks is the single biggest lever you
+- `07:04` can pull if you're trying to get your
+- `07:05` content to perform better. Hooks are the
+- `07:07` 80 of the 8020 in the content flow. Now,
+- `07:09` if you want to become god tier at hooks
+- `07:11` and just write bangers every single time
+- `07:13` without thinking about it, I just filmed
+- `07:15` the most comprehensive training on short
+- `07:17` form hooks ever created. So, if you make
+- `07:19` Instagram reels, Tik Toks, LinkedIn
+- `07:21` shorts, YouTube shorts, this will feel
+- `07:23` like a cheat code for you. What I'm
+- `07:25` covering in this video right now, it's
+- `07:26` like 1 to 2% of the full hook playbook
+- `07:29` that I give in this training. In that
+- `07:31` training, I covered these things in
+- `07:32` depth. One, hook psychology. How do
+- `07:34` hooks actually work under the surface
+- `07:36` and manipulate viewers' brains? Two,
+- `07:39` what is my 10-minute cheat code hook
+- `07:41` framework? Literally a checklist that
+- `07:43` you can follow every single time you're
+- `07:44` going to write a hook that works without
+- `07:46` fail. And three, what are examples of
+- `07:48` good and bad hooks from 11 different
+- `07:51` categories and niches, breaking them
+- `07:53` down, analyzing why the good ones are
+- `07:54` good and why the bad ones are bad? I
+- `07:56` also built a full hooks database with
+- `07:58` over 400 different videos, deep tagging
+- `08:01` across hook format, strategy, visuals,
+- `08:04` text, audio, all the components. And I
+- `08:06` built a system for analyzing that
+- `08:08` database and then coming up with new
+- `08:10` hooks for yourself. I literally went
+- `08:11` out, found the best creators in every
+- `08:13` niche, extracted their top videos,
+- `08:15` analyzed their hooks, and then created
+- `08:17` frameworks and patterns in that
+- `08:18` database. I also in this training teach
+- `08:20` the full research method that I use to
+- `08:22` go look at other videos, extract their
+- `08:24` hooks. How do I actually do that? How do
+- `08:26` you find the top videos? I teach that
+- `08:28` whole thing. Like I said, my goal was to
+- `08:29` make this the undisputed god tier short
+- `08:32` form hooks resource. So, if you like the
+- `08:33` videos on my channel and most
+- `08:34` importantly the way I break things down
+- `08:36` and explain things, this training will
+- `08:38` be the best way to go from zero to 100
+- `08:40` on short form hooks, you watch this and
+- `08:42` you'll be set. You can access it at the
+- `08:44` link here or in the description. All
+- `08:45` right, hook problem number three is
+- `08:46` irrelevance. And at this point, so far
+- `08:48` you have solved for the first two. So,
+- `08:50` you've eliminated delay and you've
+- `08:52` maximized the clarity, getting rid of
+- `08:54` the confusion so the viewer knows
+- `08:55` exactly what the video is going to be
+- `08:56` about. Problem number three, irrelevance
+- `08:58` means that the viewer is not confident
+- `09:00` that what's coming next in the video
+- `09:02` after the hook is going to be valuable
+- `09:04` enough to help them solve a problem. So,
+- `09:06` they know what the video is about, but
+- `09:07` they're unclear if it's relevant for
+- `09:09` them. Now, there are two easy ways to
+- `09:11` solve this problem. The first way is to
+- `09:13` say the word you or your instead of the
+- `09:15` words me or I when you're delivering the
+- `09:18` hook. Most people think you should make
+- `09:19` hooks like this. I've struggled with
+- `09:21` skin problems my whole life. The problem
+- `09:23` is this opens a door in the viewer's
+- `09:25` mind to question if they see themselves
+- `09:27` in the creator because they're thinking
+- `09:29` this, well, if you struggle with these
+- `09:30` problems, do I also struggle with the
+- `09:32` same problems you do? That's what
+- `09:34` they're questioning in their mind. If
+- `09:35` the viewer doesn't see themsel in the
+- `09:37` creator for a number of different
+- `09:38` reasons, they're going to put less value
+- `09:40` in the incoming solution, and they'll
+- `09:42` stop watching. This is the irrelevance
+- `09:44` problem. The viewer doesn't feel like
+- `09:45` what's coming next will be relevant for
+- `09:47` them. So, to solve this problem, all you
+- `09:49` have to do is frame your hooks using you
+- `09:51` and your. So instead of saying, "I've
+- `09:53` struggled with skin problems my whole
+- `09:54` life," you say, "If you've struggled
+- `09:56` with skin problems your whole life," dot
+- `09:58` dot dot. When you do this, the viewer
+- `10:00` feels like the video is targeted for
+- `10:01` them. There's no possible question or
+- `10:03` misunderstanding because you're saying
+- `10:04` it's for you for your problems. And this
+- `10:06` makes the viewer hold on longer for the
+- `10:08` hook. Now, the second way to solve for
+- `10:10` the relevance problem is to frame your
+- `10:12` hooks around expected value. There are
+- `10:14` two types of videos: entertainment and
+- `10:16` education. Both of these offer solutions
+- `10:18` to a painoint. That solution is value.
+- `10:20` Entertainment offers a solve for
+- `10:21` boredom. Education offers a solve for a
+- `10:24` specific problem. If you want your hook
+- `10:26` to feel more relevant for your viewer,
+- `10:27` all you have to do is agitate a painoint
+- `10:30` that they already have so that you can
+- `10:31` tee up a solution that is for them. For
+- `10:34` example, can you tell the difference
+- `10:35` between these two hooks? The first one
+- `10:37` is these are three common trends in
+- `10:39` skincare. And the second one is if you
+- `10:41` struggle with acne, try these three
+- `10:42` things. Learning about trends in
+- `10:44` skincare is a nice to have. Solving my
+- `10:46` acne problem is a need to have. So, if
+- `10:48` you frame the hook around a known
+- `10:50` painoint and you deliver it using you
+- `10:52` and your instead of me and my, the video
+- `10:54` will seem more targeted for the viewer
+- `10:56` and it will hook them more. Okay, the
+- `10:57` last hook problem number four is
+- `10:59` disinterest. And this is the one that
+- `11:01` most people fixate on the most. At this
+- `11:03` point, the viewer is clear on the topic,
+- `11:05` believes there is some relevance or
+- `11:07` value incoming for them, but the hook
+- `11:09` still just doesn't grab them enough.
+- `11:11` This is the curiosity problem. The hook
+- `11:13` just doesn't make the viewer curious
+- `11:15` enough to want to keep watching. So,
+- `11:16` what you want to do in the hook to solve
+- `11:18` the disinterest problem is build a
+- `11:20` curiosity loop. And everybody talks
+- `11:22` about curiosity loop, but nobody ever
+- `11:23` explains what it is. A curiosity loop is
+- `11:25` when the viewer sees something, asks a
+- `11:27` hypothetical question in their mind,
+- `11:29` gets some additional context to answer
+- `11:31` it, but that spurs a new question, more
+- `11:33` context, new question, more context, and
+- `11:35` so on. They keep opening loops
+- `11:37` throughout the entire video. That's what
+- `11:38` a curiosity loop really is. So, your job
+- `11:40` in the hook is to open that initial
+- `11:42` curiosity loop and start the spiral.
+- `11:44` What is that initial question that the
+- `11:46` viewer has where they can't look away?
+- `11:48` They just have to wait for more context
+- `11:49` to answer it. So, the $10 million
+- `11:51` content question really is this. How do
+- `11:53` you always drive curiosity and build
+- `11:56` that curiosity loop every single time,
+- `11:58` no matter what type of video you're
+- `11:59` making? And the way you do this is by
+- `12:01` setting up contrast or comparison in the
+- `12:04` hook. Contrast is simply the distance
+- `12:06` between the current common belief of the
+- `12:08` viewer and some contrarian or
+- `12:10` alternative perspective that you offer.
+- `12:12` So, for example, if I say in the hook,
+- `12:14` this one trick will clear up all your
+- `12:16` acne in 45 minutes without any side
+- `12:18` effects. What I'm really doing is
+- `12:20` creating a comparison in your mind to
+- `12:22` the current baseline. You got to wait 6
+- `12:23` months, take Accutane, go through all
+- `12:25` these side effects versus my contrarian
+- `12:27` offer, 45 minutes, no side effects,
+- `12:29` quick solve. That distance is contrast.
+- `12:32` What happens when you do this in the
+- `12:34` viewer subconscious is that when you
+- `12:35` frame a comparison, A something they
+- `12:38` know and B something they don't, B
+- `12:40` triggers the sticky pain point they have
+- `12:42` from A not solving their pain. And so
+- `12:45` essentially that comparison acts as a
+- `12:47` reagitator of that painoint which gets
+- `12:49` them curious because they want to solve
+- `12:51` it. To simplify all this, if you're not
+- `12:53` following what I'm saying, it's A versus
+- `12:55` B. A is what they already believe. B is
+- `12:58` some alternative that you're suggesting
+- `12:59` that makes their pain point solved
+- `13:01` faster, better, or cheaper. Now, getting
+- `13:03` good at learning how to create this
+- `13:04` contrast with words is really the secret
+- `13:07` to driving curiosity whenever you want.
+- `13:08` It's honestly the secret to storytelling
+- `13:10` at a macro level. Now, I'm not going to
+- `13:12` go too deep into exactly how to build
+- `13:14` this contrast and curiosity because it
+- `13:16` really does differ for every scenario.
+- `13:18` But what I will say is this, there are
+- `13:20` two types of contrast. Implied contrast
+- `13:23` and stated contrast. Stated contrast is
+- `13:26` when you share verbally both A and B
+- `13:29` explicitly. So, for example, saying
+- `13:30` something like this, "Most people solve
+- `13:32` their acne with Accutane, but I have an
+- `13:34` herbal remedy that does it three times
+- `13:36` faster." You're stating Accutane verse
+- `13:38` herbal remedy, so it's impossible to
+- `13:40` miss what that contrast is. The other
+- `13:42` type of contrast, which is way more
+- `13:44` subtle, is implied. And in this case,
+- `13:46` you say what the contrarian alternative
+- `13:48` is, but you don't reference the base
+- `13:50` because it's implied. People know what
+- `13:52` the base solution is. So for example, if
+- `13:54` I say if you want to solve your acne,
+- `13:56` this herbal supplement is eight times
+- `13:57` more effective. If the common viewer
+- `13:59` already knows what the baseline
+- `14:01` solutions are, nothing, Accutane,
+- `14:03` whatever they are, then you don't need
+- `14:04` to say it again because it's implied
+- `14:06` what their baseline understanding is.
+- `14:08` Essentially, it's your contrarian take
+- `14:10` versus the field of all other options.
+- `14:12` So you really have two options to create
+- `14:13` the contrast. You can go stated, which
+- `14:15` is way more blunt, A versus B,
+- `14:17` impossible to misunderstand, or you can
+- `14:18` go implied, which is a little bit more
+- `14:20` savvy and you don't really call it out
+- `14:21` specifically. Now, tactically, when
+- `14:23` you're writing hooks, typically the
+- `14:24` topic clarity comes in the first
+- `14:26` sentence, and then you set up that
+- `14:28` contrast in the following one to two
+- `14:30` sentences. This is why I consider hooks
+- `14:32` to really be like two to three lines.
+- `14:33` They're not always just a single punchy
+- `14:35` line. Sometimes you can achieve the
+- `14:37` clarity and the contrast all together in
+- `14:39` one line. And if you can, those are the
+- `14:41` easiest hooks that you can reuse. Again,
+- `14:42` if you want the full master class on how
+- `14:44` to do this tactically, and you want a
+- `14:45` bunch of examples of good and bad across
+- `14:47` every niche, and you also want a
+- `14:48` checklist to just follow every time you
+- `14:50` make hooks, I have that all in the hooks
+- `14:52` master class. It's linked below. All
+- `14:53` right, guys. That is all I've got for
+- `14:54` this video. As a recap, we covered the
+- `14:56` four main hook mistakes that you're
+- `14:58` making that are preventing your videos
+- `14:59` from outperforming. Those mistakes are
+- `15:01` delay, confusion, irrelevance, and
+- `15:04` disinterest. As always, please leave a
+- `15:06` comment below if you like this video,
+- `15:07` and just in general for feedback. I'm
+- `15:09` always reading the comments, trying to
+- `15:11` take those and improve. So, if this gave
+- `15:13` you value and you liked it or didn't
+- `15:14` like it, please leave a comment and let
+- `15:16` me know. And remember guys, there is a
+- `15:17` ton of free stuff in the description.
+- `15:19` I'm literally just giving away the
+- `15:21` answers for content. Please check the
+- `15:22` description. If you're struggling with
+- `15:24` any of these pain points, there's always
+- `15:25` something in the description to help
+- `15:26` you. And lastly, one more thing. If
+- `15:28` you're a business owner and you really
+- `15:29` want help improving your content, I
+- `15:31` created a free community of only
+- `15:33` entrepreneurs and creators. There's over
+- `15:35` 22,000 people in there that are all
+- `15:37` helping each other get better. There's a
+- `15:39` bunch of free trainings. It's called
+- `15:40` Wavy World. I got a free invite for you
+- `15:42` in the description if you want to join
+- `15:43` that. It's the easiest way to get
+- `15:45` started. All right, with that, we will
+- `15:46` see you guys on the next one.
+
+## Plain transcript
+
+Today we're talking about hooks. If you want your videos to perform better, you need to focus on leveling up your hooks. Now look, I've studied literally thousands of videos. And it turns out if your hooks are not working, there's only four mistakes you could be making. If you solve for these, your views will skyrocket immediately. So, in this video, I'm going to break all four of them down. These are the four hook mistakes holding back your videos with tactical examples and tips for how to fix each of them. By the way, I'm Callaway. I have a million followers. I've done billions of views. and content is all I do all day long. All right, now before I walk through the four main mistakes you're making with your hooks, let's just quickly talk about what a winning hook actually looks like. Understanding this one thing will help you a ton. Hooks really only have one job, to help a viewer decide to opt in and continue watching the video. The hook needs to stop the scroll and get the viewer to stay put. It's very simple. Now, in order to get the viewer to opt in and stay put, the hook only has to give them two things: topic clarity and ontarget curiosity. Topic clarity means the viewer has a crystal clear understanding of what the video is going to be about. And on target curiosity means that they believe the topic is for them. The video will give them some value and they have general curiosity on what comes next. So all the hook needs to do is drive those two points home. If you do this these two things, you win. I guarantee the viewer will be hooked. Now, of course, the million-dollar question is this. How do I make sure that every time I make a hook, the viewer gets those two things, topic clarity and ontarget curiosity? And this really is where the four horsemen hook mistakes come in. The reason bad hooks flop and don't deliver those two things is because you're making one or more of these four mistakes. If you fix all four of these, you'll be good to go. All right, the first hook mistake is called delay. And the good news is this one is the easiest one to fix. When I say delay, what I mean is that the context on what the video is going to be about is delayed too long in the video. If you were to visualize a script, let's say it has 13 lines and the third line is the first time you introduce the topic. This is delay because those first two lines are fluff and unnecessary details. You need to cut those first two lines, move the third line up to the top so your topic introduction can happen in the first 1 to 2 seconds. I often refer to this concept as speed to value. You want to increase the speed that the viewer can get to clarity or get to value. Here's an example of what bad delay looks like. Let's say you start your video with something like this. Guys, this is one of the craziest things I've ever seen. And when you see it, you're never going to believe it. That is an example of a legit hook that many people try to use when they're beginners. Now, in theory, this kind of sounds like it might be a good hook because it's building suspense and curiosity about what that thing is. You might hear that and wonder, "What did the creator see? I have to stick around to find out." But the problem with that sentence and generally hooks like this is that it gives me as the viewer zero context on what is coming next. A crazy thing you saw could be literally anything. So, if I have to decide with my time if I want to keep watching, I'm now unable to do it after just that sentence because I don't have the context. The typical chart for short form video retention looks like this. It's exponential decay. You see how steep those first two seconds are going down? That viewership falls off like a cliff. Every second you go without telling somebody what the video is about, so they have the information to decide to opt in, a large portion of your viewers are bouncing. Now, certain creators with these vague hooks are able to get some people to stay. If you look on Tik Tok specifically, it feels like these type of vague open-ended hooks work a lot. But the people that are staying are only staying because of how the creator looks, the emotion on the creator's face, or the text hook that they're putting on the screen. The spoken words actually add zero value to getting them to stay. So, it's not that these types of open-ended vague hooks can't ever work, it's just that they work way less often. So, to recap, hook problem number one is delay. And the fix is to stop delaying the introduction and the clarity of the context on the video. Use that first sentence in as few words as possible to give the context that the viewer needs to have to decide whether or not to opt in. An example of good rapid context would be something like this. Here are three simple ways to improve your gut health or if you have gut issues, these three remedies will help you immediately. If you get those hooks right away as the viewer, I know exactly what these videos are going to be about. Gut health and herbal remedies that can help me solve it. There is zero delay in the context and so I can opt in as soon as possible. All right, hook problem and mistake number two is confusion. And when I say confusion, what I really mean is comprehension loss. So, in this case, the viewer is just not understanding or comprehending what you're saying. At this point, you've eliminated the delay, which is good, but the words you're using or the phrasing of those sentences is just not clear and it's confusing the viewer. So, the problem here is really just a lack of clarity in your words. And the reason this is a problem is again, if the viewer can't assess if this video is actually for them because they're only understanding like half the words you say, then they have trouble deciding whether or not to opt in. Here's an example to illustrate exactly what I mean by lack of clarity and confusion. Imagine I started a hook like this. These guys built a $30 million empire and the online money they made is most difficult to earn if you don't develop a journaling practice like they did. And this is a bit exaggerated obviously. Few people actually talk like that, but you get the point of how difficult and confusing it was to actually parse through what I was trying to say. If you hear just that, you can kind of gather the video is going to be about an online business and maybe something to do with journaling, but you're really struggling to put the pieces together clearly because of the way I framed the sentence. And this is a classic clarity issue. Instead, for that exact same idea, you could write the hook like this. These guys built a $30 million empire and their secret for earning money online was their insane journaling practice. See how just changing the words slightly and the way the sentence is ordered makes it way easier to understand what I'm saying. Essentially, you as the viewer are able to absorb more of the words. Your hit rate for comprehension goes up and then confusion goes down. Now, the tactics for how to improve clarity is really about becoming a better writer. You want to use fewer words, but enough that the viewer can't misunderstand you. You want to use simpler words, ideally at a sixth grade reading level. And you want to use direct active voice instead of passive voice on the sentences so they're easier to understand. The dog jumped verse the jump of the dog. Here are two quick tips for immediately improving hook clarity and reducing confusion. For the first tip, you could just take the hook you've written and drop it into chatbt or claude with this prompt. I've written a hook for a short form video about X topic. I need help increasing the clarity and the framing of the sentences I used. I want the meaning to be the exact same, but can you rewrite this in a sixth grade reading level so that there's no misunderstanding from the viewer? This prompt will automatically remix and rewrite the hook for you. You could also just use sandcastle.ai, which is my AI scriptw writing tool. You just put the topic in and we'll write it for you in a very clear way. All right, the last tip for clarity proofing your hooks would be to do this. When you read just the hook, those one to two sentences in isolation without anything else. Ask yourself this question. Is it possible for the viewer to misunderstand what I'm saying in the wrong way? Is there more than one way these sentences could be interpreted? If so, rewrite the hook so that you eliminate those alternative understanding paths so there's only the one that you want. All right. Now, before I go on to the last two hook mistakes, and these ones really are the biggest, I just want to mention something. I think becoming a master at hooks is the single biggest lever you can pull if you're trying to get your content to perform better. Hooks are the 80 of the 8020 in the content flow. Now, if you want to become god tier at hooks and just write bangers every single time without thinking about it, I just filmed the most comprehensive training on short form hooks ever created. So, if you make Instagram reels, Tik Toks, LinkedIn shorts, YouTube shorts, this will feel like a cheat code for you. What I'm covering in this video right now, it's like 1 to 2% of the full hook playbook that I give in this training. In that training, I covered these things in depth. One, hook psychology. How do hooks actually work under the surface and manipulate viewers' brains? Two, what is my 10-minute cheat code hook framework? Literally a checklist that you can follow every single time you're going to write a hook that works without fail. And three, what are examples of good and bad hooks from 11 different categories and niches, breaking them down, analyzing why the good ones are good and why the bad ones are bad? I also built a full hooks database with over 400 different videos, deep tagging across hook format, strategy, visuals, text, audio, all the components. And I built a system for analyzing that database and then coming up with new hooks for yourself. I literally went out, found the best creators in every niche, extracted their top videos, analyzed their hooks, and then created frameworks and patterns in that database. I also in this training teach the full research method that I use to go look at other videos, extract their hooks. How do I actually do that? How do you find the top videos? I teach that whole thing. Like I said, my goal was to make this the undisputed god tier short form hooks resource. So, if you like the videos on my channel and most importantly the way I break things down and explain things, this training will be the best way to go from zero to 100 on short form hooks, you watch this and you'll be set. You can access it at the link here or in the description. All right, hook problem number three is irrelevance. And at this point, so far you have solved for the first two. So, you've eliminated delay and you've maximized the clarity, getting rid of the confusion so the viewer knows exactly what the video is going to be about. Problem number three, irrelevance means that the viewer is not confident that what's coming next in the video after the hook is going to be valuable enough to help them solve a problem. So, they know what the video is about, but they're unclear if it's relevant for them. Now, there are two easy ways to solve this problem. The first way is to say the word you or your instead of the words me or I when you're delivering the hook. Most people think you should make hooks like this. I've struggled with skin problems my whole life. The problem is this opens a door in the viewer's mind to question if they see themselves in the creator because they're thinking this, well, if you struggle with these problems, do I also struggle with the same problems you do? That's what they're questioning in their mind. If the viewer doesn't see themsel in the creator for a number of different reasons, they're going to put less value in the incoming solution, and they'll stop watching. This is the irrelevance problem. The viewer doesn't feel like what's coming next will be relevant for them. So, to solve this problem, all you have to do is frame your hooks using you and your. So instead of saying, "I've struggled with skin problems my whole life," you say, "If you've struggled with skin problems your whole life," dot dot dot. When you do this, the viewer feels like the video is targeted for them. There's no possible question or misunderstanding because you're saying it's for you for your problems. And this makes the viewer hold on longer for the hook. Now, the second way to solve for the relevance problem is to frame your hooks around expected value. There are two types of videos: entertainment and education. Both of these offer solutions to a painoint. That solution is value. Entertainment offers a solve for boredom. Education offers a solve for a specific problem. If you want your hook to feel more relevant for your viewer, all you have to do is agitate a painoint that they already have so that you can tee up a solution that is for them. For example, can you tell the difference between these two hooks? The first one is these are three common trends in skincare. And the second one is if you struggle with acne, try these three things. Learning about trends in skincare is a nice to have. Solving my acne problem is a need to have. So, if you frame the hook around a known painoint and you deliver it using you and your instead of me and my, the video will seem more targeted for the viewer and it will hook them more. Okay, the last hook problem number four is disinterest. And this is the one that most people fixate on the most. At this point, the viewer is clear on the topic, believes there is some relevance or value incoming for them, but the hook still just doesn't grab them enough. This is the curiosity problem. The hook just doesn't make the viewer curious enough to want to keep watching. So, what you want to do in the hook to solve the disinterest problem is build a curiosity loop. And everybody talks about curiosity loop, but nobody ever explains what it is. A curiosity loop is when the viewer sees something, asks a hypothetical question in their mind, gets some additional context to answer it, but that spurs a new question, more context, new question, more context, and so on. They keep opening loops throughout the entire video. That's what a curiosity loop really is. So, your job in the hook is to open that initial curiosity loop and start the spiral. What is that initial question that the viewer has where they can't look away? They just have to wait for more context to answer it. So, the $10 million content question really is this. How do you always drive curiosity and build that curiosity loop every single time, no matter what type of video you're making? And the way you do this is by setting up contrast or comparison in the hook. Contrast is simply the distance between the current common belief of the viewer and some contrarian or alternative perspective that you offer. So, for example, if I say in the hook, this one trick will clear up all your acne in 45 minutes without any side effects. What I'm really doing is creating a comparison in your mind to the current baseline. You got to wait 6 months, take Accutane, go through all these side effects versus my contrarian offer, 45 minutes, no side effects, quick solve. That distance is contrast. What happens when you do this in the viewer subconscious is that when you frame a comparison, A something they know and B something they don't, B triggers the sticky pain point they have from A not solving their pain. And so essentially that comparison acts as a reagitator of that painoint which gets them curious because they want to solve it. To simplify all this, if you're not following what I'm saying, it's A versus B. A is what they already believe. B is some alternative that you're suggesting that makes their pain point solved faster, better, or cheaper. Now, getting good at learning how to create this contrast with words is really the secret to driving curiosity whenever you want. It's honestly the secret to storytelling at a macro level. Now, I'm not going to go too deep into exactly how to build this contrast and curiosity because it really does differ for every scenario. But what I will say is this, there are two types of contrast. Implied contrast and stated contrast. Stated contrast is when you share verbally both A and B explicitly. So, for example, saying something like this, "Most people solve their acne with Accutane, but I have an herbal remedy that does it three times faster." You're stating Accutane verse herbal remedy, so it's impossible to miss what that contrast is. The other type of contrast, which is way more subtle, is implied. And in this case, you say what the contrarian alternative is, but you don't reference the base because it's implied. People know what the base solution is. So for example, if I say if you want to solve your acne, this herbal supplement is eight times more effective. If the common viewer already knows what the baseline solutions are, nothing, Accutane, whatever they are, then you don't need to say it again because it's implied what their baseline understanding is. Essentially, it's your contrarian take versus the field of all other options. So you really have two options to create the contrast. You can go stated, which is way more blunt, A versus B, impossible to misunderstand, or you can go implied, which is a little bit more savvy and you don't really call it out specifically. Now, tactically, when you're writing hooks, typically the topic clarity comes in the first sentence, and then you set up that contrast in the following one to two sentences. This is why I consider hooks to really be like two to three lines. They're not always just a single punchy line. Sometimes you can achieve the clarity and the contrast all together in one line. And if you can, those are the easiest hooks that you can reuse. Again, if you want the full master class on how to do this tactically, and you want a bunch of examples of good and bad across every niche, and you also want a checklist to just follow every time you make hooks, I have that all in the hooks master class. It's linked below. All right, guys. That is all I've got for this video. As a recap, we covered the four main hook mistakes that you're making that are preventing your videos from outperforming. Those mistakes are delay, confusion, irrelevance, and disinterest. As always, please leave a comment below if you like this video, and just in general for feedback. I'm always reading the comments, trying to take those and improve. So, if this gave you value and you liked it or didn't like it, please leave a comment and let me know. And remember guys, there is a ton of free stuff in the description. I'm literally just giving away the answers for content. Please check the description. If you're struggling with any of these pain points, there's always something in the description to help you. And lastly, one more thing. If you're a business owner and you really want help improving your content, I created a free community of only entrepreneurs and creators. There's over 22,000 people in there that are all helping each other get better. There's a bunch of free trainings. It's called Wavy World. I got a free invite for you in the description if you want to join that. It's the easiest way to get started. All right, with that, we will see you guys on the next one.
