@@ -1,0 +1,756 @@
+# The NEW Way to WIN on Social Media in 2026
+
+- **Channel:** [Kallaway](https://www.youtube.com/@kallawaymarketing)
+- **URL:** https://www.youtube.com/watch?v=ImzoNTrgvFg
+- **Video ID:** `ImzoNTrgvFg`
+- **Thumbnail:** https://i.ytimg.com/vi/ImzoNTrgvFg/hqdefault.jpg
+
+## Transcript
+
+- `00:00` We are officially entering uncharted
+- `00:01` territory for social media. And the pace
+- `00:04` of change is only getting faster. From
+- `00:06` AI agents to live stream clip farms,
+- `00:08` it's never been harder to figure out the
+- `00:10` perfect marketing strategy for a
+- `00:12` specific business or personal brand.
+- `00:14` Now, here's the good news. Whenever
+- `00:15` there's massive change, like with AI,
+- `00:18` the marketing game completely resets.
+- `00:20` The rules change, the strategies change,
+- `00:22` and most importantly, the smaller
+- `00:24` players can have huge advantages if they
+- `00:27` can adapt quickly. Right now, there are
+- `00:28` a bunch of new ways to win on social
+- `00:30` media that just weren't possible before.
+- `00:33` And I know this because I spend all my
+- `00:35` time on the cutting edge of content
+- `00:36` marketing and distribution. I have a
+- `00:38` million followers. I've done billions of
+- `00:40` views. In the last 30 days, I did 30
+- `00:42` million uniques alone on social media. I
+- `00:45` live and breathe this stuff. And I'm
+- `00:46` telling you, there are things that are
+- `00:47` not obvious to the average person that
+- `00:49` are huge untapped opportunities if you
+- `00:51` can run with them. So, in this video,
+- `00:53` I'm going to walk through the three
+- `00:54` biggest social media shifts happening
+- `00:56` right now that you can take advantage
+- `00:58` of. All right, let's dive in. The first
+- `01:00` huge social media trend is obviously the
+- `01:02` emergence of AI. But a lot of people are
+- `01:04` getting this wrong. When I say AI in
+- `01:06` content, I don't mean AI content. What I
+- `01:09` mean is using AI to eliminate the boring
+- `01:12` tasks and free up more of your time for
+- `01:15` creativity. See, most people assume
+- `01:17` using AI means fully replacing creative
+- `01:20` thinking. that you have robotic,
+- `01:22` sanitized, soulless content over here
+- `01:24` and then this amazing artistic creative
+- `01:26` human content over here. But that's kind
+- `01:28` of a lazy way of thinking about it. It's
+- `01:30` just not how I see it evolving. Making
+- `01:32` content, no matter how you do it,
+- `01:34` requires creative thinking and then also
+- `01:36` a bunch of redundant transactional tasks
+- `01:39` that most of us don't want to spend time
+- `01:41` doing. Things like research and
+- `01:43` scripting and editing and captions.
+- `01:44` Nobody wants to do that stuff. So, the
+- `01:46` best creators and brands right now are
+- `01:48` using AI workflows to replace the boring
+- `01:51` stuff to then free up more of their time
+- `01:53` for that creative thinking. I call this
+- `01:55` AI enabled creativity. The AI is
+- `01:58` clearing space so you can be more
+- `02:00` creative. Now, until just a few weeks
+- `02:02` ago, this workflow that I'm about to
+- `02:04` walk through was not possible because
+- `02:06` the AI tools were just not good enough.
+- `02:08` But as the features have improved and
+- `02:09` new models have launched, there are now
+- `02:10` ways to build AI content workflows that
+- `02:13` actually save a ton of time. Let me show
+- `02:15` you exactly what I mean. One of the
+- `02:16` biggest time sucks in the content
+- `02:18` workflow is figuring out the idea. And
+- `02:20` that's both the topic you talk about and
+- `02:23` then your unique take for what you say.
+- `02:25` Now, your unique take, that is the
+- `02:27` creative part. That's where your
+- `02:28` authenticity comes from. You don't want
+- `02:29` to outsource that to AI. But for topics,
+- `02:32` the data shows us that in a niche,
+- `02:34` certain topics always outperform other
+- `02:37` topics. Like in social media marketing
+- `02:39` for example, hooks, psychology, and
+- `02:41` storytelling typically outperform things
+- `02:43` like ideiation, strategy, and editing.
+- `02:46` And that's not me saying that. That's
+- `02:47` just the data showing it. So the dream
+- `02:49` for me as a creator that doesn't want to
+- `02:51` do all these redundant tasks is to just
+- `02:53` be handed a list of topics that I know
+- `02:56` are going to work and then have the
+- `02:57` creative space to think and react and
+- `03:00` give my authentic take on each of them.
+- `03:02` So this is now what I can do with AI.
+- `03:04` And I want to show you this workflow
+- `03:05` because it'll open your eyes for what's
+- `03:07` possible. Here's exactly what I do. I
+- `03:09` start out in sandcastles.ai and I've got
+- `03:11` my list of channels. These are all the
+- `03:12` top creators in my space that make
+- `03:14` videos that really crush. And I curated
+- `03:17` this list by hand cuz I know who I like.
+- `03:18` But if you don't know, you can just go
+- `03:20` to describe and type in the type of
+- `03:21` content you make. And S castles will
+- `03:23` suggest all these channels for you. So
+- `03:24` you can just build your list this way.
+- `03:26` Now, once you have this channel list
+- `03:27` built out, 10, 20, 30 channels, go to
+- `03:29` the videos tab, sort by outlier score,
+- `03:32` and then look for the last 3 months on
+- `03:34` the date range. This will give you the
+- `03:36` top videos from these people in the last
+- `03:38` 3 months. And if you've used Sand
+- `03:39` Castles before, this is how it's always
+- `03:41` worked. But here's what's brand new. I
+- `03:43` can now press analyze on any of those
+- `03:45` videos. Let's say I'll do it for the top
+- `03:47` 100. And Sand Castles now does a super
+- `03:50` deep analysis of every video. the
+- `03:53` transcript, the topic, the idea, the
+- `03:55` seed, the exact hook, the hook format,
+- `03:58` the storytelling format, the visual
+- `04:00` format, plus all the stats, the views,
+- `04:02` engagement rate, outlier score,
+- `04:04` everything. What I can then do is go to
+- `04:05` export and export all this data to a CSV
+- `04:08` for all the 100 videos I just analyzed.
+- `04:11` Now, I go to Claude, and I personally
+- `04:12` use Claude Co-work. You can only get
+- `04:14` access on the desktop app, not through
+- `04:16` the browser. You can use chat if you
+- `04:17` want, but co-work's way more powerful.
+- `04:19` And I upload that CSV into Claude.
+- `04:22` Basically all the data of the winning
+- `04:24` videos straight into the AI machine. And
+- `04:27` then I ask it this. These are the top
+- `04:29` 100 videos from the top creators in my
+- `04:31` niche over the last 3 months. Can you
+- `04:33` analyze the transcripts and the topic
+- `04:35` data in the file I attached? And break
+- `04:37` out the top performing topics. First,
+- `04:40` bucket them as topic categories and rank
+- `04:43` them based on which ones have the most
+- `04:44` views. Then within each topic bucket,
+- `04:46` break out each separate topic as a
+- `04:48` oneliner that I could react to. This
+- `04:50` would be one level of granularity below
+- `04:52` the topic category and also include the
+- `04:55` original link from each video as you
+- `04:57` break out the separate topics. What I
+- `04:59` ultimately want is to have a list of the
+- `05:01` highest performing topics and idea seeds
+- `05:03` that I can just react to and give my own
+- `05:05` take for when I make my own version. And
+- `05:08` then I just run it and it gives me
+- `05:10` exactly what I want. Just like that, I
+- `05:12` now have a hit list of all the best
+- `05:14` topics validated by data in just 2
+- `05:17` minutes. Now I can take one at a time,
+- `05:19` react to it, and then run the rest of my
+- `05:21` process. So from here, what I literally
+- `05:23` do is I take the first one, I open the
+- `05:25` link, I watch it, and then I think about
+- `05:27` what my own unique take would be. That's
+- `05:29` the creativity layer that I don't want
+- `05:31` to outsource to AI. If you're letting AI
+- `05:34` do the thinking and the ideating, that's
+- `05:36` where your content gets stale and
+- `05:37` robotic. But if you use the data from AI
+- `05:40` and then creatively think, that's the
+- `05:42` winning formula. Now, I can tell through
+- `05:44` the camera lens right now, your wheels
+- `05:45` are probably spinning. Just seeing that
+- `05:47` for the first time completely light
+- `05:49` bulbs everything because now you realize
+- `05:51` you don't have to guess what's going to
+- `05:53` work. You can just go to Sandcastles,
+- `05:54` get the data, feed it into Claude, and
+- `05:56` everything is smooth. Next, I'm going to
+- `05:58` do the same thing for hooks with that
+- `05:59` exact same data set. So, then I would
+- `06:01` just go down below at the bottom of the
+- `06:03` conversation and prompt again. Now I
+- `06:05` want you to go through this file
+- `06:06` specifically for hooks. I want you to
+- `06:08` broadly bucket the hooks into types and
+- `06:11` then again cluster by the actual hook
+- `06:13` format and rank them so I can see which
+- `06:15` hook formats perform the best. Then I
+- `06:17` want you to make a list of the top 10
+- `06:19` performing hooks and any topic where I
+- `06:22` give you my take, I want you to take
+- `06:23` those formats and write new hooks for
+- `06:25` me. So for each video I should have 10
+- `06:27` fresh hooks in the formats validated by
+- `06:30` the data and boom just like that it will
+- `06:32` scan all the data in that file because
+- `06:34` we also have all the hook formats. It
+- `06:35` will cluster them. It will give you the
+- `06:37` top hooks and then it will save that as
+- `06:38` a skill for you to just run over and
+- `06:40` over. This is the kind of thing that's
+- `06:42` now possible with the new version of
+- `06:44` sand castles.ai and that wasn't possible
+- `06:46` just a few weeks ago. There's nothing in
+- `06:48` the world that can do content research
+- `06:49` like this this fast. Now, as you can
+- `06:51` see, that AI workflow I walk through, it
+- `06:53` doesn't just print content automatically
+- `06:56` the way that all of these AI gurus are
+- `06:58` saying. I purposely left in the human in
+- `07:01` the loop step of me seeing the topic and
+- `07:03` reacting to give my perspective because
+- `07:05` that's where the sauce layer really
+- `07:07` lives. But what this little AI sample
+- `07:09` workflow does is it abstracts all the
+- `07:11` time for the research and the topic
+- `07:14` mining away so more of my day can be
+- `07:16` spent on that creative reacting. That's
+- `07:18` what I want to spend time doing.
+- `07:20` Essentially, it supercharges my time.
+- `07:21` This is why I call it AI enabled
+- `07:23` creativity. The AI is enabling me to be
+- `07:26` more creative. Now, in this video, I'm
+- `07:28` just scratching the surface for what
+- `07:29` this Claude plus sand castles
+- `07:31` combination can do. That is really going
+- `07:33` to be the brain for the future of
+- `07:34` content research. Now, that little
+- `07:36` example was for topic research, but I
+- `07:38` also use the same data for deep dive
+- `07:41` research on specific topics where I
+- `07:43` don't know the background, for
+- `07:44` scripting, for hookw writing. I kind of
+- `07:46` demoed that one a little bit for
+- `07:48` captions, for analytics, for strategy. I
+- `07:50` have all these different Claude
+- `07:52` workflows built out using this data. So,
+- `07:54` if you guys want me to make a dedicated
+- `07:55` video completely on this where I just go
+- `07:57` all the way down and show you my entire
+- `07:59` endto-end workflow using Claude Plus
+- `08:01` Sandcastles, just comment something
+- `08:02` like, "Give me the Sandcastle Sauce
+- `08:04` Chef." And put that little chef emoji
+- `08:06` with the mustache. And then that will
+- `08:08` tell me I should prioritize and make
+- `08:09` that video next. All right, let's switch
+- `08:10` gears to something else. The second
+- `08:12` major trend or shift that I'm seeing in
+- `08:14` social media is around monetization. And
+- `08:17` this is a huge one. If you're a business
+- `08:18` owner, you're going to love this. I
+- `08:19` believe it's about to get a lot easier
+- `08:21` to monetize attention on social media if
+- `08:24` you know what you're doing. This
+- `08:25` framework is probably my hottest newest
+- `08:27` take. So, definitely pay attention to
+- `08:29` this. Now, let me just set the stage for
+- `08:31` how we got here in the era of social
+- `08:33` platforms and why right now this moment
+- `08:35` is such a big opportunity. We all know
+- `08:38` that social platforms started out in the
+- `08:39` social era between like 2005 and 2020.
+- `08:43` It was mostly social first. It was about
+- `08:45` connecting with people. A lot of people
+- `08:46` call this social media 1.0 or the 1.0
+- `08:49` era. Now, during this era, there really
+- `08:51` weren't that many proven playbooks for
+- `08:54` monetizing a following or personal brand
+- `08:56` on social media. outside of mainstream
+- `08:58` celebrities or these massive influencers
+- `09:00` that were just gen pop popular. You
+- `09:03` occasionally had to create a brand or
+- `09:04` like the rogue internet marketing guru
+- `09:06` that was able to figure it out. But for
+- `09:07` the most part, there weren't many
+- `09:09` creator brands or businesses that were
+- `09:11` built off the back of social media. Then
+- `09:14` in 2020, we moved into the second era.
+- `09:16` We went from social to for you or
+- `09:19` interest media. This is social media
+- `09:20` 2.0. And this was when social media
+- `09:22` shifted from showing you content from
+- `09:24` the people you followed to showing you
+- `09:26` content from any stranger as long as you
+- `09:28` like the topic, the great Tik
+- `09:30` Tockification of social media
+- `09:31` essentially. And that was about from
+- `09:33` 2020 to just a few months ago, 2025,
+- `09:36` early 2026. Now during this era the
+- `09:39` monetization of attention and the
+- `09:41` monetization of social media got a lot
+- `09:43` better through the invention of things
+- `09:44` like many chat, Tik Tok shop,
+- `09:47` whitelisted brand ads, clickable story
+- `09:49` links on Instagram stories, things like
+- `09:51` this. We also saw a lot more creator-led
+- `09:54` brands actually scale. Things like
+- `09:56` Feastables, Prime, Chamberlain Coffee,
+- `09:59` Happy Dad from Neelk, Sour Strips.
+- `10:01` There's a lot of these now. And this was
+- `10:02` both because of the maturation of those
+- `10:04` creators platforms over a decade as well
+- `10:07` as the way distribution changed from the
+- `10:09` for you feeds. Essentially the
+- `10:11` monetizability of content went way up
+- `10:14` over the last 5 to 6 years. Well, I
+- `10:16` believe we are now shifting into a third
+- `10:18` era. What I call the monetization era or
+- `10:21` social commerce 3.0 where the value of
+- `10:24` the skill of generating attention will 5
+- `10:26` to 10x and the monetization rails will
+- `10:29` get much much more powerful. I'm calling
+- `10:31` this era social commerce. I don't know
+- `10:32` if someone's come up with that name, but
+- `10:34` it sounded good to me. Now, the reason I
+- `10:35` believe this is that there are four
+- `10:36` major tailwinds that have just come or
+- `10:38` are coming to social platforms over the
+- `10:40` next 6 to 12 months. And what this
+- `10:42` really means before I walk through them
+- `10:43` is that if you know how to make content
+- `10:45` and generate attention at will, the
+- `10:48` value of that skill is going to 5 to
+- `10:50` 10x. Not the value of your existing
+- `10:52` following, the value of the skill of
+- `10:55` being able to generate attention. The
+- `10:57` distribution ability. I predict we will
+- `10:59` see a lot of people start making 500k to
+- `11:02` a million a year relatively easily just
+- `11:04` off the back of knowing this skill. And
+- `11:06` I'll even go a step further. I believe
+- `11:07` that as a lot of smart white collar
+- `11:10` people get laid off as companies adopt
+- `11:12` AI, there will be a great retraining
+- `11:15` towards this distribution bucket where
+- `11:18` those people learn how to become
+- `11:19` creators or creator adjacent and make a
+- `11:21` ton of money. That's how bullish I am on
+- `11:23` this trend. So here are the four
+- `11:24` tailwinds that are coming and why I
+- `11:26` believe this. The first one is the
+- `11:28` launch of Instagram shops and this just
+- `11:30` happened in the last couple weeks. Now,
+- `11:32` Tik Tok shop was an insane innovation
+- `11:34` when it came out in 2023. And the reason
+- `11:36` why is because it essentially made it
+- `11:38` permissionless and super easy for any
+- `11:41` person to promote any product and then
+- `11:43` get paid an affiliate commission
+- `11:45` instantly. There was no coordination, no
+- `11:47` asking for permission. You just saw the
+- `11:48` product, got a sample, ripped the video,
+- `11:51` and if the sales came in, you could
+- `11:52` monetize it. Now, depending on who you
+- `11:54` are or what brand you run, you may think
+- `11:56` Tik Tok Shop is this silly little thing.
+- `11:58` Well, last year 2025, 64 billion with a
+- `12:02` B dollars of revenue flowed through Tik
+- `12:04` Tok shop globally. It's 2 years old.
+- `12:06` This thing is a massive channel. Now,
+- `12:09` Instagram waited and launched their
+- `12:11` version of this instant affiliate
+- `12:13` mechanic, their Instagram shop, just a
+- `12:15` couple weeks ago, and I expect this one
+- `12:17` thing to mint more millionaires than
+- `12:19` almost anything else on the internet in
+- `12:21` the next couple years. Tik Tok Shop was
+- `12:23` amazing, but it had pretty limited
+- `12:24` product selection, limited flexibility,
+- `12:27` and you could only tag one product as a
+- `12:29` creator. Also, you had the China
+- `12:31` problem. It was a brilliant idea. It was
+- `12:32` just kind of like the dollar store in
+- `12:34` its execution. Some brands went from 0
+- `12:36` to 50 million in 3 years. So, it
+- `12:38` obviously had success, but it felt a
+- `12:40` little grungy or grimy in a way. Now,
+- `12:43` Instagram, on the other hand, is peak
+- `12:44` taste when it comes to social. It is the
+- `12:46` apex predator of this space. So that
+- `12:48` means better brand selection, more
+- `12:50` premium, more access, more supply, more
+- `12:53` creators, more money, more traffic, more
+- `12:55` everything. Like I said, where Tik Tok
+- `12:57` shop only let you link one video,
+- `12:59` Instagram shops is letting creators link
+- `13:01` up to 30 products per video. So viewers
+- `13:03` just watch, click, tap, buy, Apple Pay,
+- `13:06` two clicks, done. I wouldn't be shocked
+- `13:08` for Instagram to report that over $10
+- `13:10` billion of revenue flowed through
+- `13:12` Instagram shops just in the rest of 2026
+- `13:14` alone. That's how massive this coiled
+- `13:17` spring is. Basically, every piece of
+- `13:19` content on the internet is going to
+- `13:20` become instantly shoppable in a way that
+- `13:22` it really wasn't before. And what that
+- `13:24` means for you tactically is that you
+- `13:26` could win as a brand owner supplying
+- `13:28` products on there, as a creator making
+- `13:31` the content, or as a third party helping
+- `13:33` to facilitate that relationship. So,
+- `13:35` that's monetization tailwind number one.
+- `13:37` That alone is reason enough to learn to
+- `13:40` become amazing at content. There's three
+- `13:41` more. The second big monetization
+- `13:43` tailwind is what I call aentic social
+- `13:46` commerce. A couple months ago, Meta very
+- `13:48` quietly acquired a company called Manis
+- `13:50` for $2 billion. If you're in the AI
+- `13:51` space, it's not quiet, but most other
+- `13:53` people don't know what Manis is and
+- `13:54` never heard of this. Manis is an AI
+- `13:56` agent platform, meaning it's kind of
+- `13:58` like Claude in that you could ask it to
+- `13:59` do something. It can connect to a bunch
+- `14:01` of tools and just do work for you. Now,
+- `14:03` over the last couple months, Meta has
+- `14:04` been very hard at work integrating Manis
+- `14:06` into Instagram and Facebook to give
+- `14:08` users access to this AI agentic power.
+- `14:11` And what this means is over the next 6
+- `14:13` to 12 months, you're going to start
+- `14:14` seeing these workflows and these
+- `14:16` toolkits roll out native inside of
+- `14:18` Instagram and Facebook. This could mean
+- `14:20` anything from better analytic
+- `14:22` attribution. So when a viewer watches
+- `14:23` your video, you then know how to
+- `14:25` retarget them because it's tracking
+- `14:26` organically. It could be auto DM aentic
+- `14:29` selling. Somebody comes in the DMs and
+- `14:31` you just set up the automated
+- `14:32` conversation that's intelligent enough
+- `14:34` to have a conversation and sell them. It
+- `14:36` could mean automatic outreach via DM for
+- `14:38` anyone that comes in or anything in
+- `14:40` between. And there's so many little use
+- `14:42` cases around things that humans do in
+- `14:44` the loop today in Instagram or Facebook
+- `14:46` that can be automated with smart AI. So
+- `14:48` I think this whole category of agentic
+- `14:50` social commerce is going to be a big big
+- `14:52` wave and it will be coming over the next
+- `14:54` 6 to 12 months. It's very very nent
+- `14:55` right now. Now as a proof point for
+- `14:57` this, Meta already launched their Manis
+- `14:59` agent for meta ads where you can through
+- `15:01` manis just control and optimize your
+- `15:02` meta ads. People love this. So that's on
+- `15:04` the paid side. I think a lot of this is
+- `15:06` going to come organically as well. Now,
+- `15:08` the third big tailwind that I think will
+- `15:10` increase the monetization GMV flow
+- `15:12` through Instagram is the fact that the
+- `15:14` cost of building stuff is going down to
+- `15:17` raw materials. The cost of physical
+- `15:19` goods are going to come down. The cost
+- `15:20` of software is going to zero. The cost
+- `15:22` of info is going to zero because of AI
+- `15:25` labor replacement. It's going to get way
+- `15:26` easier for creators to spin up products
+- `15:29` and own their own brands to sell. So, if
+- `15:31` they're already using Instagram shop
+- `15:32` clickable links to sell products, if
+- `15:34` they can have their own products to
+- `15:36` sell, they'll keep much more of the pie.
+- `15:38` Previously, creator brands were really
+- `15:40` tough to build, especially physical
+- `15:41` ones, because they took a ton of capital
+- `15:43` and required a really, really savage
+- `15:45` operating team to run it. Well, the
+- `15:47` capital needed to start businesses,
+- `15:49` especially digital ones, is going down
+- `15:50` to zero. And then on the operation side,
+- `15:53` you now have all these agentic workflows
+- `15:54` that can help augment. So, what this
+- `15:56` really means over a year or two is that
+- `15:58` you're going to see 100x to 10,000x more
+- `16:01` creator-led brands, people that own
+- `16:03` distribution that instead of funneling
+- `16:05` the traffic to other brands that they
+- `16:07` don't really support, they're going to
+- `16:08` funnel them to their own. So, that alone
+- `16:10` is a massive tailwind. Now, the fourth
+- `16:12` tailwind is kind of like a future
+- `16:14` bucket, and I'll give one example, but
+- `16:16` it is the tip of the spear for what the
+- `16:18` future of these AI content experiences
+- `16:21` could look like. I think very soon
+- `16:22` people are going to be able to click to
+- `16:24` buy on any video via AI visual
+- `16:27` recognition. Today the way Instagram
+- `16:29` shops works is if you tag products
+- `16:31` they're just listed below in the
+- `16:32` description. So obviously you can see a
+- `16:34` static photo, click on it and see the
+- `16:35` tag but in a video the products are
+- `16:37` there in the video but kind of linked
+- `16:39` below. It's very possible that soon
+- `16:41` computer vision will allow for a user
+- `16:43` when they're watching a video to
+- `16:45` literally click on a product in the
+- `16:47` video and then that product, even if not
+- `16:49` tagged by the creator, the AI is smart
+- `16:51` enough to know what it is, find the link
+- `16:54` to that product page elsewhere and link
+- `16:56` it automatically. Meaning, if somebody's
+- `16:58` wearing a shirt like me in this video,
+- `17:00` and I don't tag this represent shirt,
+- `17:02` you can click on me in the video with
+- `17:04` your cursor or finger and it would just
+- `17:05` link directly to it. I don't think we're
+- `17:07` very far from this. And this kind of
+- `17:09` thing is the final boss of affiliate
+- `17:11` marketing. Completely democratized
+- `17:13` affiliate marketing. Now, to be clear,
+- `17:15` that last bucket is not here today. But
+- `17:17` the way I see the AI vision models
+- `17:19` trending, I think we're going to be
+- `17:20` there in 12-ish months. If you zoom out,
+- `17:23` what all this means, all four of those,
+- `17:25` is that there is so much potential for
+- `17:27` monetization. The rails to go from view
+- `17:30` to dollar is going to be so smooth and
+- `17:32` so easy that all you need to do is learn
+- `17:34` how to drive attention. And the
+- `17:36` opportunity is massive. And this is what
+- `17:38` I think people are missing. While the
+- `17:40` average creator makes 30 to 50k per year
+- `17:42` and they really grind it out on these
+- `17:44` brand deals, I think that same skill set
+- `17:47` is going to be worth 3 to 500K per year
+- `17:50` in just one to two more years because
+- `17:52` the pool of access and dollars is so big
+- `17:55` on the other side. Now, not everyone
+- `17:57` wants to learn the content game.
+- `17:58` Obviously, if you're an operator or a
+- `18:00` product person and you want to partner
+- `18:01` with the content person, fine. But every
+- `18:02` business is going to have to have a
+- `18:04` content person. Every business is
+- `18:05` technically a media company and most
+- `18:07` people are going to want to learn these
+- `18:09` skills. The truth is the easiest, free,
+- `18:11` fastest way for you to learn those
+- `18:12` skills is to just watch this channel. My
+- `18:14` goal, as I've stated, is that I want a
+- `18:16` million people to make a million via
+- `18:19` content. That's $1 trillion in market
+- `18:21` cap. If I can say I helped contribute
+- `18:23` one trillion by training and giving all
+- `18:25` this free information, I'll consider the
+- `18:27` career worth it. So, if you're watching
+- `18:29` this and you even have any remote
+- `18:30` interest on the content or distribution
+- `18:32` side, you're trying to learn those
+- `18:33` skills, I'm trying to give you the
+- `18:35` information to help you do that. Now,
+- `18:37` one thing I have for free that's just
+- `18:38` like an instant banger, I put together
+- `18:40` my whole short form content system.
+- `18:43` Literally everything I do from ideas to
+- `18:45` research to hooks all the way to
+- `18:46` monetization, the routes that I have to
+- `18:48` monetize, I put that all together for
+- `18:50` free in one guide. It's called Short
+- `18:52` Form System, you can get at
+- `18:53` shortformsystem.co
+- `18:55` or the link in the description for free.
+- `18:56` All right. Now, the third and final
+- `18:58` massive social media shift that I want
+- `19:00` to talk about right now is around
+- `19:01` storytelling. And this one is less of a
+- `19:04` feature around social media and more of
+- `19:06` just like a fundamental shift I'm
+- `19:07` noticing that massively impacts anyone
+- `19:09` creating content. For the last few
+- `19:11` years, a lot of creators and brands have
+- `19:13` gotten away with chasing trends.
+- `19:15` Whatever was hot, whatever was popping,
+- `19:17` any trending audio, all this
+- `19:19` overstimulating editing, literally
+- `19:20` trying to hijack the subconscious brain
+- `19:23` and central nervous system of the viewer
+- `19:24` to get them to watch. And look, for a
+- `19:26` while that actually worked because the
+- `19:28` supply and demand was so mismatched.
+- `19:29` There were so many people that wanted to
+- `19:31` consume content and like nothing for
+- `19:32` them to watch. So that whole approach
+- `19:35` worked in the previous era. But here's
+- `19:37` what's becoming really clear. The people
+- `19:38` and brands that are winning long term,
+- `19:40` that are really crushing like over the
+- `19:42` last 6 to 12 months are the ones that
+- `19:44` have prioritized storytelling and
+- `19:46` figured out how to tell those stories in
+- `19:48` a visual package that represents their
+- `19:50` brand well. Not stories like let me tell
+- `19:52` you about my morning routine. I'm
+- `19:54` talking about real stories. narrative
+- `19:55` driven taste, world building,
+- `19:58` intentional pacing, real stories that
+- `20:00` make you bought in and want to watch.
+- `20:02` Now, the nuance that people miss with
+- `20:04` storytelling when we just say, "Oh,
+- `20:05` storytelling is crushing," is that there
+- `20:07` are different types of storytelling and
+- `20:09` ways to execute that work for different
+- `20:11` categories of brands. My friend Alex
+- `20:13` Garcia, for example, he works with
+- `20:14` really premium, high taste consumer
+- `20:16` brands on producing social shows. He's
+- `20:19` the goat. He's been producing social
+- `20:20` shows for everybody. His stuff's insane.
+- `20:22` If you run a brand, you should
+- `20:23` definitely work with him. And what he's
+- `20:25` been saying is that the old playbook of
+- `20:26` like fast cuts and crazy editing and all
+- `20:29` this like text on screen, that's not
+- `20:30` really working anymore. It's also not
+- `20:32` what these premium brands want to put
+- `20:34` out as a way for them to show up
+- `20:36` digitally. What's working instead is
+- `20:38` intentionally paced, cinematic,
+- `20:40` storydriven content. That's kind of the
+- `20:42` sweet spot for that category of company.
+- `20:44` But I will say when you look around
+- `20:45` social media, there are lots of other
+- `20:46` types of storytelling that are working
+- `20:48` well. It's not one sizefits-all. Some
+- `20:50` people are doing raw unfiltered yap
+- `20:52` straight to the camera, super low
+- `20:53` produced, but it works well because
+- `20:54` they're good at telling stories. Some
+- `20:56` people are doing highly produced, but
+- `20:57` they're doing it episodically and in a
+- `20:59` different way. Some people are building
+- `21:00` entire worlds around a single person or
+- `21:03` a persona, and that's working really
+- `21:04` well. The point is, the formats can be
+- `21:06` different. The production level can be
+- `21:08` different, but the underlying principle
+- `21:09` is the same for everybody that's winning
+- `21:11` right now. The content that's holding
+- `21:12` attention and building real loyalty that
+- `21:14` turns viewers into buyers is all rooted
+- `21:17` in premium storytelling. because more
+- `21:19` and more as the ability of people to
+- `21:22` edit well goes up, the premium on great
+- `21:25` storytelling goes up as well. Now, on
+- `21:27` this channel, I've made a lot of videos
+- `21:28` about storytelling in the past. It's
+- `21:30` kind of been like one of those things
+- `21:31` people know me for. If you guys want, I
+- `21:33` will link a bunch of the videos I made
+- `21:35` that I love most on storytelling in the
+- `21:37` description, so you could just go on a
+- `21:38` bender for an hour and then really
+- `21:40` uplevel. But the TLDDR is this. If you
+- `21:42` really want to learn short form
+- `21:44` storytelling in a way that is premium
+- `21:46` and kind of captures attention that
+- `21:48` turns into loyalty, there are five
+- `21:50` pillars or pockets of storytelling you
+- `21:53` want to focus on. Characters, pacing,
+- `21:56` narrative arcs, world building, and then
+- `21:58` tension. Those are kind of like the five
+- `22:00` components that make up a great story.
+- `22:02` Now, there's obviously so much more to
+- `22:04` go into in all of those. I've got
+- `22:05` tactics, I've got strategies, I have
+- `22:07` like frameworks for how I approach that.
+- `22:09` I don't have enough time in this video
+- `22:10` to go through that. So, if you guys want
+- `22:12` me to make another video, maybe even
+- `22:13` have Alex on and we can just do like a
+- `22:15` storytelling deep dive. Comment, give me
+- `22:17` the storytelling sauce chef and then put
+- `22:19` two of those little chef emojis, one for
+- `22:21` me, one for him, so then we can see in
+- `22:23` the comments how many people want that
+- `22:24` and if we should do it. All right, guys.
+- `22:25` That is all I've got for this video. As
+- `22:27` a recap, I covered three of what I think
+- `22:29` are the most important social media
+- `22:31` shifts or trends that are happening
+- `22:33` right now that I think are big, big
+- `22:34` opportunities. Most people have not even
+- `22:36` become aware to these things. The first
+- `22:38` one was breaking down AI workflows. And
+- `22:40` this was just a sampler. I just wanted
+- `22:42` to show you using Sandcastle's data into
+- `22:44` Claude can augment a lot of the boring
+- `22:47` repetitive stuff to then free up your
+- `22:49` time to spend more creative thinking and
+- `22:52` producing. And again, if you want the
+- `22:53` full AI workflow, just comment something
+- `22:55` around AI chef and I'll know that. I try
+- `22:57` not to cover only AI stuff on this
+- `22:59` channel cuz I do that elsewhere, but
+- `23:00` this is like the most important thing
+- `23:01` that people ask for. So, I'm happy to
+- `23:03` make a video diving into this deeper.
+- `23:05` Second, we covered the monetization era.
+- `23:07` I haven't heard anybody talk about this.
+- `23:08` There are four major tailwinds that are
+- `23:10` going to increase the amount of money
+- `23:12` that's flowing through social, increase
+- `23:14` the social commerce ability and then
+- `23:17` really increase the value of
+- `23:18` distribution. The value of that skill is
+- `23:20` going to go up significantly because of
+- `23:22` the increase in GMV. And lastly, we
+- `23:24` talked about storytelling. In this next
+- `23:26` era, the cream of the crop will be
+- `23:29` premium storytellers. The way to cut
+- `23:30` through noise is better storytelling.
+- `23:33` those five core pillars, characters,
+- `23:35` world building, pacing, narrative arcs,
+- `23:37` and tension. That's how you become a
+- `23:40` great storyteller is mastering those
+- `23:41` pieces. Like I always say, if you're a
+- `23:43` business owner and you're trying to
+- `23:44` learn content or you're trying to
+- `23:46` improve your skill around content to
+- `23:48` become a business owner, this is going
+- `23:49` to be the best channel you could
+- `23:50` possibly watch. I'm trying to do my best
+- `23:52` to give you non-obvious stuff that
+- `23:53` people just don't cover delivered in a
+- `23:55` bite-sized way. So, if you like that,
+- `23:57` feel free to subscribe and please, for
+- `23:58` the love of God, check out the
+- `24:00` description. There's so much free stuff
+- `24:01` in there. I give more free stuff than
+- `24:03` almost anybody else gives in their paid
+- `24:05` products in this category. So, if you
+- `24:07` want help, there's a road map. There are
+- `24:09` breadcrumbs for you to upskill for free.
+- `24:11` That's all I've got for this one. We
+- `24:12` will see you guys on the next one.
+- `24:13` Peace.
+
+## Plain transcript
+
+We are officially entering uncharted territory for social media. And the pace of change is only getting faster. From AI agents to live stream clip farms, it's never been harder to figure out the perfect marketing strategy for a specific business or personal brand. Now, here's the good news. Whenever there's massive change, like with AI, the marketing game completely resets. The rules change, the strategies change, and most importantly, the smaller players can have huge advantages if they can adapt quickly. Right now, there are a bunch of new ways to win on social media that just weren't possible before. And I know this because I spend all my time on the cutting edge of content marketing and distribution. I have a million followers. I've done billions of views. In the last 30 days, I did 30 million uniques alone on social media. I live and breathe this stuff. And I'm telling you, there are things that are not obvious to the average person that are huge untapped opportunities if you can run with them. So, in this video, I'm going to walk through the three biggest social media shifts happening right now that you can take advantage of. All right, let's dive in. The first huge social media trend is obviously the emergence of AI. But a lot of people are getting this wrong. When I say AI in content, I don't mean AI content. What I mean is using AI to eliminate the boring tasks and free up more of your time for creativity. See, most people assume using AI means fully replacing creative thinking. that you have robotic, sanitized, soulless content over here and then this amazing artistic creative human content over here. But that's kind of a lazy way of thinking about it. It's just not how I see it evolving. Making content, no matter how you do it, requires creative thinking and then also a bunch of redundant transactional tasks that most of us don't want to spend time doing. Things like research and scripting and editing and captions. Nobody wants to do that stuff. So, the best creators and brands right now are using AI workflows to replace the boring stuff to then free up more of their time for that creative thinking. I call this AI enabled creativity. The AI is clearing space so you can be more creative. Now, until just a few weeks ago, this workflow that I'm about to walk through was not possible because the AI tools were just not good enough. But as the features have improved and new models have launched, there are now ways to build AI content workflows that actually save a ton of time. Let me show you exactly what I mean. One of the biggest time sucks in the content workflow is figuring out the idea. And that's both the topic you talk about and then your unique take for what you say. Now, your unique take, that is the creative part. That's where your authenticity comes from. You don't want to outsource that to AI. But for topics, the data shows us that in a niche, certain topics always outperform other topics. Like in social media marketing for example, hooks, psychology, and storytelling typically outperform things like ideiation, strategy, and editing. And that's not me saying that. That's just the data showing it. So the dream for me as a creator that doesn't want to do all these redundant tasks is to just be handed a list of topics that I know are going to work and then have the creative space to think and react and give my authentic take on each of them. So this is now what I can do with AI. And I want to show you this workflow because it'll open your eyes for what's possible. Here's exactly what I do. I start out in sandcastles.ai and I've got my list of channels. These are all the top creators in my space that make videos that really crush. And I curated this list by hand cuz I know who I like. But if you don't know, you can just go to describe and type in the type of content you make. And S castles will suggest all these channels for you. So you can just build your list this way. Now, once you have this channel list built out, 10, 20, 30 channels, go to the videos tab, sort by outlier score, and then look for the last 3 months on the date range. This will give you the top videos from these people in the last 3 months. And if you've used Sand Castles before, this is how it's always worked. But here's what's brand new. I can now press analyze on any of those videos. Let's say I'll do it for the top 100. And Sand Castles now does a super deep analysis of every video. the transcript, the topic, the idea, the seed, the exact hook, the hook format, the storytelling format, the visual format, plus all the stats, the views, engagement rate, outlier score, everything. What I can then do is go to export and export all this data to a CSV for all the 100 videos I just analyzed. Now, I go to Claude, and I personally use Claude Co-work. You can only get access on the desktop app, not through the browser. You can use chat if you want, but co-work's way more powerful. And I upload that CSV into Claude. Basically all the data of the winning videos straight into the AI machine. And then I ask it this. These are the top 100 videos from the top creators in my niche over the last 3 months. Can you analyze the transcripts and the topic data in the file I attached? And break out the top performing topics. First, bucket them as topic categories and rank them based on which ones have the most views. Then within each topic bucket, break out each separate topic as a oneliner that I could react to. This would be one level of granularity below the topic category and also include the original link from each video as you break out the separate topics. What I ultimately want is to have a list of the highest performing topics and idea seeds that I can just react to and give my own take for when I make my own version. And then I just run it and it gives me exactly what I want. Just like that, I now have a hit list of all the best topics validated by data in just 2 minutes. Now I can take one at a time, react to it, and then run the rest of my process. So from here, what I literally do is I take the first one, I open the link, I watch it, and then I think about what my own unique take would be. That's the creativity layer that I don't want to outsource to AI. If you're letting AI do the thinking and the ideating, that's where your content gets stale and robotic. But if you use the data from AI and then creatively think, that's the winning formula. Now, I can tell through the camera lens right now, your wheels are probably spinning. Just seeing that for the first time completely light bulbs everything because now you realize you don't have to guess what's going to work. You can just go to Sandcastles, get the data, feed it into Claude, and everything is smooth. Next, I'm going to do the same thing for hooks with that exact same data set. So, then I would just go down below at the bottom of the conversation and prompt again. Now I want you to go through this file specifically for hooks. I want you to broadly bucket the hooks into types and then again cluster by the actual hook format and rank them so I can see which hook formats perform the best. Then I want you to make a list of the top 10 performing hooks and any topic where I give you my take, I want you to take those formats and write new hooks for me. So for each video I should have 10 fresh hooks in the formats validated by the data and boom just like that it will scan all the data in that file because we also have all the hook formats. It will cluster them. It will give you the top hooks and then it will save that as a skill for you to just run over and over. This is the kind of thing that's now possible with the new version of sand castles.ai and that wasn't possible just a few weeks ago. There's nothing in the world that can do content research like this this fast. Now, as you can see, that AI workflow I walk through, it doesn't just print content automatically the way that all of these AI gurus are saying. I purposely left in the human in the loop step of me seeing the topic and reacting to give my perspective because that's where the sauce layer really lives. But what this little AI sample workflow does is it abstracts all the time for the research and the topic mining away so more of my day can be spent on that creative reacting. That's what I want to spend time doing. Essentially, it supercharges my time. This is why I call it AI enabled creativity. The AI is enabling me to be more creative. Now, in this video, I'm just scratching the surface for what this Claude plus sand castles combination can do. That is really going to be the brain for the future of content research. Now, that little example was for topic research, but I also use the same data for deep dive research on specific topics where I don't know the background, for scripting, for hookw writing. I kind of demoed that one a little bit for captions, for analytics, for strategy. I have all these different Claude workflows built out using this data. So, if you guys want me to make a dedicated video completely on this where I just go all the way down and show you my entire endto-end workflow using Claude Plus Sandcastles, just comment something like, "Give me the Sandcastle Sauce Chef." And put that little chef emoji with the mustache. And then that will tell me I should prioritize and make that video next. All right, let's switch gears to something else. The second major trend or shift that I'm seeing in social media is around monetization. And this is a huge one. If you're a business owner, you're going to love this. I believe it's about to get a lot easier to monetize attention on social media if you know what you're doing. This framework is probably my hottest newest take. So, definitely pay attention to this. Now, let me just set the stage for how we got here in the era of social platforms and why right now this moment is such a big opportunity. We all know that social platforms started out in the social era between like 2005 and 2020. It was mostly social first. It was about connecting with people. A lot of people call this social media 1.0 or the 1.0 era. Now, during this era, there really weren't that many proven playbooks for monetizing a following or personal brand on social media. outside of mainstream celebrities or these massive influencers that were just gen pop popular. You occasionally had to create a brand or like the rogue internet marketing guru that was able to figure it out. But for the most part, there weren't many creator brands or businesses that were built off the back of social media. Then in 2020, we moved into the second era. We went from social to for you or interest media. This is social media 2.0. And this was when social media shifted from showing you content from the people you followed to showing you content from any stranger as long as you like the topic, the great Tik Tockification of social media essentially. And that was about from 2020 to just a few months ago, 2025, early 2026. Now during this era the monetization of attention and the monetization of social media got a lot better through the invention of things like many chat, Tik Tok shop, whitelisted brand ads, clickable story links on Instagram stories, things like this. We also saw a lot more creator-led brands actually scale. Things like Feastables, Prime, Chamberlain Coffee, Happy Dad from Neelk, Sour Strips. There's a lot of these now. And this was both because of the maturation of those creators platforms over a decade as well as the way distribution changed from the for you feeds. Essentially the monetizability of content went way up over the last 5 to 6 years. Well, I believe we are now shifting into a third era. What I call the monetization era or social commerce 3.0 where the value of the skill of generating attention will 5 to 10x and the monetization rails will get much much more powerful. I'm calling this era social commerce. I don't know if someone's come up with that name, but it sounded good to me. Now, the reason I believe this is that there are four major tailwinds that have just come or are coming to social platforms over the next 6 to 12 months. And what this really means before I walk through them is that if you know how to make content and generate attention at will, the value of that skill is going to 5 to 10x. Not the value of your existing following, the value of the skill of being able to generate attention. The distribution ability. I predict we will see a lot of people start making 500k to a million a year relatively easily just off the back of knowing this skill. And I'll even go a step further. I believe that as a lot of smart white collar people get laid off as companies adopt AI, there will be a great retraining towards this distribution bucket where those people learn how to become creators or creator adjacent and make a ton of money. That's how bullish I am on this trend. So here are the four tailwinds that are coming and why I believe this. The first one is the launch of Instagram shops and this just happened in the last couple weeks. Now, Tik Tok shop was an insane innovation when it came out in 2023. And the reason why is because it essentially made it permissionless and super easy for any person to promote any product and then get paid an affiliate commission instantly. There was no coordination, no asking for permission. You just saw the product, got a sample, ripped the video, and if the sales came in, you could monetize it. Now, depending on who you are or what brand you run, you may think Tik Tok Shop is this silly little thing. Well, last year 2025, 64 billion with a B dollars of revenue flowed through Tik Tok shop globally. It's 2 years old. This thing is a massive channel. Now, Instagram waited and launched their version of this instant affiliate mechanic, their Instagram shop, just a couple weeks ago, and I expect this one thing to mint more millionaires than almost anything else on the internet in the next couple years. Tik Tok Shop was amazing, but it had pretty limited product selection, limited flexibility, and you could only tag one product as a creator. Also, you had the China problem. It was a brilliant idea. It was just kind of like the dollar store in its execution. Some brands went from 0 to 50 million in 3 years. So, it obviously had success, but it felt a little grungy or grimy in a way. Now, Instagram, on the other hand, is peak taste when it comes to social. It is the apex predator of this space. So that means better brand selection, more premium, more access, more supply, more creators, more money, more traffic, more everything. Like I said, where Tik Tok shop only let you link one video, Instagram shops is letting creators link up to 30 products per video. So viewers just watch, click, tap, buy, Apple Pay, two clicks, done. I wouldn't be shocked for Instagram to report that over $10 billion of revenue flowed through Instagram shops just in the rest of 2026 alone. That's how massive this coiled spring is. Basically, every piece of content on the internet is going to become instantly shoppable in a way that it really wasn't before. And what that means for you tactically is that you could win as a brand owner supplying products on there, as a creator making the content, or as a third party helping to facilitate that relationship. So, that's monetization tailwind number one. That alone is reason enough to learn to become amazing at content. There's three more. The second big monetization tailwind is what I call aentic social commerce. A couple months ago, Meta very quietly acquired a company called Manis for $2 billion. If you're in the AI space, it's not quiet, but most other people don't know what Manis is and never heard of this. Manis is an AI agent platform, meaning it's kind of like Claude in that you could ask it to do something. It can connect to a bunch of tools and just do work for you. Now, over the last couple months, Meta has been very hard at work integrating Manis into Instagram and Facebook to give users access to this AI agentic power. And what this means is over the next 6 to 12 months, you're going to start seeing these workflows and these toolkits roll out native inside of Instagram and Facebook. This could mean anything from better analytic attribution. So when a viewer watches your video, you then know how to retarget them because it's tracking organically. It could be auto DM aentic selling. Somebody comes in the DMs and you just set up the automated conversation that's intelligent enough to have a conversation and sell them. It could mean automatic outreach via DM for anyone that comes in or anything in between. And there's so many little use cases around things that humans do in the loop today in Instagram or Facebook that can be automated with smart AI. So I think this whole category of agentic social commerce is going to be a big big wave and it will be coming over the next 6 to 12 months. It's very very nent right now. Now as a proof point for this, Meta already launched their Manis agent for meta ads where you can through manis just control and optimize your meta ads. People love this. So that's on the paid side. I think a lot of this is going to come organically as well. Now, the third big tailwind that I think will increase the monetization GMV flow through Instagram is the fact that the cost of building stuff is going down to raw materials. The cost of physical goods are going to come down. The cost of software is going to zero. The cost of info is going to zero because of AI labor replacement. It's going to get way easier for creators to spin up products and own their own brands to sell. So, if they're already using Instagram shop clickable links to sell products, if they can have their own products to sell, they'll keep much more of the pie. Previously, creator brands were really tough to build, especially physical ones, because they took a ton of capital and required a really, really savage operating team to run it. Well, the capital needed to start businesses, especially digital ones, is going down to zero. And then on the operation side, you now have all these agentic workflows that can help augment. So, what this really means over a year or two is that you're going to see 100x to 10,000x more creator-led brands, people that own distribution that instead of funneling the traffic to other brands that they don't really support, they're going to funnel them to their own. So, that alone is a massive tailwind. Now, the fourth tailwind is kind of like a future bucket, and I'll give one example, but it is the tip of the spear for what the future of these AI content experiences could look like. I think very soon people are going to be able to click to buy on any video via AI visual recognition. Today the way Instagram shops works is if you tag products they're just listed below in the description. So obviously you can see a static photo, click on it and see the tag but in a video the products are there in the video but kind of linked below. It's very possible that soon computer vision will allow for a user when they're watching a video to literally click on a product in the video and then that product, even if not tagged by the creator, the AI is smart enough to know what it is, find the link to that product page elsewhere and link it automatically. Meaning, if somebody's wearing a shirt like me in this video, and I don't tag this represent shirt, you can click on me in the video with your cursor or finger and it would just link directly to it. I don't think we're very far from this. And this kind of thing is the final boss of affiliate marketing. Completely democratized affiliate marketing. Now, to be clear, that last bucket is not here today. But the way I see the AI vision models trending, I think we're going to be there in 12-ish months. If you zoom out, what all this means, all four of those, is that there is so much potential for monetization. The rails to go from view to dollar is going to be so smooth and so easy that all you need to do is learn how to drive attention. And the opportunity is massive. And this is what I think people are missing. While the average creator makes 30 to 50k per year and they really grind it out on these brand deals, I think that same skill set is going to be worth 3 to 500K per year in just one to two more years because the pool of access and dollars is so big on the other side. Now, not everyone wants to learn the content game. Obviously, if you're an operator or a product person and you want to partner with the content person, fine. But every business is going to have to have a content person. Every business is technically a media company and most people are going to want to learn these skills. The truth is the easiest, free, fastest way for you to learn those skills is to just watch this channel. My goal, as I've stated, is that I want a million people to make a million via content. That's $1 trillion in market cap. If I can say I helped contribute one trillion by training and giving all this free information, I'll consider the career worth it. So, if you're watching this and you even have any remote interest on the content or distribution side, you're trying to learn those skills, I'm trying to give you the information to help you do that. Now, one thing I have for free that's just like an instant banger, I put together my whole short form content system. Literally everything I do from ideas to research to hooks all the way to monetization, the routes that I have to monetize, I put that all together for free in one guide. It's called Short Form System, you can get at shortformsystem.co or the link in the description for free. All right. Now, the third and final massive social media shift that I want to talk about right now is around storytelling. And this one is less of a feature around social media and more of just like a fundamental shift I'm noticing that massively impacts anyone creating content. For the last few years, a lot of creators and brands have gotten away with chasing trends. Whatever was hot, whatever was popping, any trending audio, all this overstimulating editing, literally trying to hijack the subconscious brain and central nervous system of the viewer to get them to watch. And look, for a while that actually worked because the supply and demand was so mismatched. There were so many people that wanted to consume content and like nothing for them to watch. So that whole approach worked in the previous era. But here's what's becoming really clear. The people and brands that are winning long term, that are really crushing like over the last 6 to 12 months are the ones that have prioritized storytelling and figured out how to tell those stories in a visual package that represents their brand well. Not stories like let me tell you about my morning routine. I'm talking about real stories. narrative driven taste, world building, intentional pacing, real stories that make you bought in and want to watch. Now, the nuance that people miss with storytelling when we just say, "Oh, storytelling is crushing," is that there are different types of storytelling and ways to execute that work for different categories of brands. My friend Alex Garcia, for example, he works with really premium, high taste consumer brands on producing social shows. He's the goat. He's been producing social shows for everybody. His stuff's insane. If you run a brand, you should definitely work with him. And what he's been saying is that the old playbook of like fast cuts and crazy editing and all this like text on screen, that's not really working anymore. It's also not what these premium brands want to put out as a way for them to show up digitally. What's working instead is intentionally paced, cinematic, storydriven content. That's kind of the sweet spot for that category of company. But I will say when you look around social media, there are lots of other types of storytelling that are working well. It's not one sizefits-all. Some people are doing raw unfiltered yap straight to the camera, super low produced, but it works well because they're good at telling stories. Some people are doing highly produced, but they're doing it episodically and in a different way. Some people are building entire worlds around a single person or a persona, and that's working really well. The point is, the formats can be different. The production level can be different, but the underlying principle is the same for everybody that's winning right now. The content that's holding attention and building real loyalty that turns viewers into buyers is all rooted in premium storytelling. because more and more as the ability of people to edit well goes up, the premium on great storytelling goes up as well. Now, on this channel, I've made a lot of videos about storytelling in the past. It's kind of been like one of those things people know me for. If you guys want, I will link a bunch of the videos I made that I love most on storytelling in the description, so you could just go on a bender for an hour and then really uplevel. But the TLDDR is this. If you really want to learn short form storytelling in a way that is premium and kind of captures attention that turns into loyalty, there are five pillars or pockets of storytelling you want to focus on. Characters, pacing, narrative arcs, world building, and then tension. Those are kind of like the five components that make up a great story. Now, there's obviously so much more to go into in all of those. I've got tactics, I've got strategies, I have like frameworks for how I approach that. I don't have enough time in this video to go through that. So, if you guys want me to make another video, maybe even have Alex on and we can just do like a storytelling deep dive. Comment, give me the storytelling sauce chef and then put two of those little chef emojis, one for me, one for him, so then we can see in the comments how many people want that and if we should do it. All right, guys. That is all I've got for this video. As a recap, I covered three of what I think are the most important social media shifts or trends that are happening right now that I think are big, big opportunities. Most people have not even become aware to these things. The first one was breaking down AI workflows. And this was just a sampler. I just wanted to show you using Sandcastle's data into Claude can augment a lot of the boring repetitive stuff to then free up your time to spend more creative thinking and producing. And again, if you want the full AI workflow, just comment something around AI chef and I'll know that. I try not to cover only AI stuff on this channel cuz I do that elsewhere, but this is like the most important thing that people ask for. So, I'm happy to make a video diving into this deeper. Second, we covered the monetization era. I haven't heard anybody talk about this. There are four major tailwinds that are going to increase the amount of money that's flowing through social, increase the social commerce ability and then really increase the value of distribution. The value of that skill is going to go up significantly because of the increase in GMV. And lastly, we talked about storytelling. In this next era, the cream of the crop will be premium storytellers. The way to cut through noise is better storytelling. those five core pillars, characters, world building, pacing, narrative arcs, and tension. That's how you become a great storyteller is mastering those pieces. Like I always say, if you're a business owner and you're trying to learn content or you're trying to improve your skill around content to become a business owner, this is going to be the best channel you could possibly watch. I'm trying to do my best to give you non-obvious stuff that people just don't cover delivered in a bite-sized way. So, if you like that, feel free to subscribe and please, for the love of God, check out the description. There's so much free stuff in there. I give more free stuff than almost anybody else gives in their paid products in this category. So, if you want help, there's a road map. There are breadcrumbs for you to upskill for free. That's all I've got for this one. We will see you guys on the next one. Peace.

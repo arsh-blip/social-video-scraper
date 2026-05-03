@@ -1,0 +1,482 @@
+# I studied 100+ hooks, this strategy will make you go viral
+
+- **Channel:** [Jade Beason](https://www.youtube.com/@JadeBeason)
+- **URL:** https://www.youtube.com/watch?v=dNT7gd3ulAg
+- **Video ID:** `dNT7gd3ulAg`
+- **Thumbnail:** https://i.ytimg.com/vi/dNT7gd3ulAg/hqdefault.jpg
+
+## Transcript
+
+- `00:00` This is a hook and this is a hook. I've
+- `00:03` spent hundreds of hours scouring the
+- `00:05` internet to find the best hook
+- `00:06` strategies and the results have taken my
+- `00:08` views from this to this. In today's
+- `00:11` video, I'm going to break down how you
+- `00:12` can use hooks to get the same results.
+- `00:14` By the way, this video is sponsored by
+- `00:16` Story Blocks. More on them later. There
+- `00:18` has been a huge shift when it comes to
+- `00:19` how successful creators, keyword
+- `00:22` successful, have been approaching their
+- `00:23` hooks. And the shift is this. They are
+- `00:25` no longer thinking about hooks as a
+- `00:27` catchy sentence. Instead, they're
+- `00:29` thinking about hooks like a moment. So,
+- `00:31` it's a mixture of words, visuals, and
+- `00:33` pacing, which is designed to grab your
+- `00:35` audience's attention. Now, I'm not going
+- `00:37` to spend loads of time talking about why
+- `00:38` hooks are super important, because at
+- `00:40` the end of the day, you know why they're
+- `00:41` important. They take up those precious
+- `00:43` first few seconds of your content that
+- `00:45` are designed to grab your audience's
+- `00:46` attention. And if you don't do it well,
+- `00:48` people will scroll past your content,
+- `00:49` and you will not get the views, the
+- `00:51` engagement, and genuinely the
+- `00:52` recognition that your content deserves.
+- `00:54` So, let's break down what thinking of
+- `00:56` your hooks as a moment actually means.
+- `00:59` There are now three core elements that
+- `01:00` make up a fantastic hook. And again, I
+- `01:03` say now because previously there really
+- `01:05` was just one element which was saying a
+- `01:06` really catchy sentence, which is
+- `01:08` definitely something I was guilty of for
+- `01:10` years. I'm going to show you some
+- `01:11` examples later. Don't you worry. We're
+- `01:13` moving on from it being one catchy
+- `01:14` sentence to it being a whole moment. And
+- `01:16` there are three elements which make up
+- `01:18` that moment. There are the words that
+- `01:19` your audience can hear within the first
+- `01:21` few seconds of your content. There are
+- `01:23` the visuals. So, these are the stuff
+- `01:24` that people see on your content. And
+- `01:26` there's the pacing. So, this is how
+- `01:28` quickly you actually get through your
+- `01:30` initial hook and video intro. Now, I
+- `01:32` want to break each of these elements
+- `01:33` down further so that you can truly
+- `01:35` understand how to utilize each to create
+- `01:37` an amazing hook. And later on in this
+- `01:39` video, I'm going to share real life
+- `01:40` examples of my own content when I've
+- `01:43` done it well and when I've done it not
+- `01:44` so well. So, let's talk about the words
+- `01:46` first. So, these are things that you're
+- `01:48` either saying on camera or just words
+- `01:50` that your audience can hear within the
+- `01:52` first few seconds of your video content.
+- `01:53` In order for the words that your
+- `01:55` audience are hearing to be effective,
+- `01:56` you want them to be specific,
+- `01:58` surprising, and hopefully create a bit
+- `02:00` of tension. For example, instead of
+- `02:02` saying, "Here are three tips to grow on
+- `02:04` Instagram, this is one that I'm pretty
+- `02:05` sure I've probably used in the past, and
+- `02:07` you know what? Maybe that worked in the
+- `02:08` past. I'll give myself some grace."
+- `02:10` Nowadays, those words aren't going to
+- `02:11` cut it. Instead, you might want to say
+- `02:13` something like, "Here's the reason
+- `02:15` nobody cares about your Instagram
+- `02:16` posts." Do you see how much more
+- `02:18` dramatic that alternative option is? You
+- `02:20` essentially want to give all of your
+- `02:21` words like a bit of a drama test. Are
+- `02:23` they dramatic enough? Could you be a bit
+- `02:25` more dramatic in what you're saying and
+- `02:26` in your delivery? Honestly, the more
+- `02:27` dramatic it is, the more likely it is to
+- `02:29` actually capture people's attention and
+- `02:31` stop them scrolling. The second element
+- `02:32` is the visuals. This is the element
+- `02:34` that's the most new when it comes to how
+- `02:37` hooks are working on social media
+- `02:38` nowadays. Previously, words are enough
+- `02:40` and now we've got to throw in visuals,
+- `02:41` too. A good hook will have visual
+- `02:44` elements appear on the screen that are
+- `02:45` designed to get your audience's
+- `02:46` attention. So whether that's captions,
+- `02:48` special effects, graphics, or maybe you
+- `02:50` just do something really interesting in
+- `02:52` the first few seconds of your video that
+- `02:54` gets someone's attention. A really great
+- `02:55` example of this is the foreshadowing
+- `02:57` trend. Do you guys remember that? Where
+- `02:58` people would basically take a clip of
+- `03:00` them doing something really embarrassing
+- `03:02` like maybe they fell over or something
+- `03:04` and they would frontend the video with
+- `03:06` that clip. So the first few seconds of
+- `03:07` the video would be them falling over and
+- `03:09` the rest of the video would be snippets
+- `03:10` which show the events which led up to
+- `03:12` them falling over. This trend worked so
+- `03:14` well, not only because it was super
+- `03:16` funny and interesting, but also because
+- `03:17` it had a hook built into its template.
+- `03:20` It literally forced you to open with the
+- `03:22` most exciting part. And in this example,
+- `03:23` that was something visual. Third element
+- `03:25` is pacing. During the first few seconds
+- `03:27` of your video, you need to bring the
+- `03:28` energy. Okay? You need to have some
+- `03:31` energy and some pacing in that video. We
+- `03:33` do not want a slow start. We do not want
+- `03:35` pauses unless they're used effectively.
+- `03:38` And again, I'm going to show you some
+- `03:39` examples of a pause being used
+- `03:40` effectively in just a moment. What we
+- `03:42` don't Oh, my dog's slipping. By the way,
+- `03:45` my dog just got neuted, so she's in this
+- `03:47` little outfit so that she doesn't bother
+- `03:49` her scar. They wouldn't give her a cone
+- `03:51` because she has too long of a nose.
+- `03:52` Anyway, what we want to do if we're
+- `03:54` using pauses is we want to use them for
+- `03:55` dramatic effect. What we don't want to
+- `03:57` do is use the millennial pause. Have you
+- `03:59` guys heard about the millennial pause?
+- `04:01` It's essentially when people, usually
+- `04:02` millennials, take this breath before
+- `04:04` they film. It comes back to us not
+- `04:07` growing up around video technology and
+- `04:09` therefore us not being used to being
+- `04:11` able to film each other. So we take this
+- `04:13` breath before we film because we want to
+- `04:14` check that the camera is actually
+- `04:15` recording. Whereas younger people like
+- `04:17` Gen Z and Gen Alpha grew up with the
+- `04:19` ability to film others. So when they
+- `04:21` film themselves, they immediately start
+- `04:22` talking because they trust that their
+- `04:24` camera is already filming them. Isn't
+- `04:25` that mind-blowing? I did a video on it
+- `04:27` on Tik Tok. It went viral. I got in the
+- `04:29` sun newspaper. Also got trolled quite a
+- `04:31` lot. It was a whole moment. So, when you
+- `04:33` combine the right words, visuals, and
+- `04:35` pacing, you will end up with an
+- `04:37` incredible hook. Now, before I show you
+- `04:39` some real life examples of hooks that
+- `04:40` have worked well and haven't worked so
+- `04:42` well, I do want to take a quick second
+- `04:44` to share a resource that you should be
+- `04:45` using inside your hooks to level them
+- `04:47` up. And that resource is Story Blocks.
+- `04:50` Now, one of my favorite videos that I
+- `04:51` shared within the last few months is
+- `04:53` this one. And what you'll notice about
+- `04:54` this post is that I really nailed the
+- `04:56` visual element of this hook. All right,
+- `04:58` within the first few seconds of this
+- `04:59` post, you'll see some incredible videos
+- `05:01` pop up on the screen. Now, it may or may
+- `05:03` not surprise you to know that I did not
+- `05:05` capture that video footage. That video
+- `05:07` footage is actually stock media that I
+- `05:09` obtained from Story Blocks. Now, if you
+- `05:11` don't know about Story Blocks already,
+- `05:12` it's a stock media subscription service
+- `05:14` which gives you unlimited access to
+- `05:16` highquality videos, images, sound
+- `05:18` effects, audio, templates, and so much
+- `05:20` more. They're all about helping creators
+- `05:22` and businesses enhance their projects
+- `05:23` without any extra costs and with more
+- `05:25` peace of mind. Now, there's a couple
+- `05:27` ways that they do this, right? The first
+- `05:28` is by offering unlimited stock media
+- `05:30` downloads at one set price. So, this
+- `05:33` means that you have everything you need
+- `05:34` in one place. 4K video, HD video,
+- `05:37` templates, sound effects, images, and
+- `05:39` more. And this is all available to you
+- `05:41` at one predictable monthly cost. So, you
+- `05:43` don't have to worry about pay-per-click
+- `05:45` pricing or any hidden fees. Another way
+- `05:47` that they do this is by offering
+- `05:49` clearcut licensing. So, any of the
+- `05:51` assets that you use are actually covered
+- `05:53` by the highest legal coverage in the
+- `05:55` industry. so you can really focus on
+- `05:56` creating and not having to worry about
+- `05:58` things like copyright strikes. Their
+- `06:00` stock library is also frequently
+- `06:01` refreshed, which means it always
+- `06:03` contains high-quality, diverse content,
+- `06:05` which really reflects the human
+- `06:06` experience, which is very important when
+- `06:08` it comes to storytelling in the world of
+- `06:10` AI. I do actually have a special treat
+- `06:12` for you when it comes to joining
+- `06:13` Storyblocks. You can get three extra
+- `06:15` months for free when you sign up to
+- `06:17` their annual plan. Head to
+- `06:18` storyblocks.com/jadebon
+- `06:20` to take advantage of this limited time
+- `06:22` offer. Thank me later. All right, let's
+- `06:24` do some case studies. Let's compare some
+- `06:26` good hooks that I've used and some bad
+- `06:28` hooks that I've used. I'm actually
+- `06:29` really excited for this section cuz it's
+- `06:31` going to be incredibly exposing. Let's
+- `06:33` ease myself into this by starting off
+- `06:34` with an example of a good hook. This is
+- `06:36` a hook that I used on a recent post that
+- `06:38` performed really well for me. I cried
+- `06:40` over social media this morning.
+- `06:42` Embarrassing, I know, but I was going
+- `06:43` through my content and I was struck with
+- `06:45` this sudden thought. I'm flopping. Now,
+- `06:47` let's use the three core elements of a
+- `06:49` successful hook to actually break down
+- `06:51` why this worked. The first is the words.
+- `06:53` I actually started this video by talking
+- `06:55` about something that's quite emotional.
+- `06:56` Like I was talking about the fact that I
+- `06:57` had been crying over my content, which
+- `06:59` is embarrassing, but watch the full
+- `07:01` video for context. If you open a video
+- `07:02` with emotional words, exposing words,
+- `07:05` very vulnerable words, that is a great
+- `07:08` use of that element of your hook. It's
+- `07:09` going to grab people's attention. Now,
+- `07:11` let's look at the visuals, cuz there was
+- `07:12` a few things going on here. I was
+- `07:14` walking towards the camera, which
+- `07:15` created some movement. I had my captions
+- `07:17` appear on the screen in a very specific
+- `07:19` style, right? And you'll see this as a
+- `07:20` pattern. I basically had every word
+- `07:22` appear as I said it because this
+- `07:24` encourages my audience to read and
+- `07:26` listen along. Great for engagement,
+- `07:28` great for attention. I also had some
+- `07:29` screenshots and some graphics appear on
+- `07:31` the screen as well. In terms of the
+- `07:32` pacing, it was fast. There was no dead
+- `07:34` air. If I'm being honest, my pacing for
+- `07:36` all of these examples are pretty much
+- `07:38` the same. I feel like when you create
+- `07:39` content for 5 years, you do get to a
+- `07:41` point where you nail the pace of your
+- `07:42` content. So, that's pretty consistent
+- `07:43` across the board. A quick tip for me
+- `07:45` here before I give you an example of a
+- `07:46` hook that didn't work so well is I tend
+- `07:48` to do my hooks multiple times. So, I
+- `07:50` tend to film at least three different
+- `07:52` takes of my hooks, and usually the third
+- `07:54` take is the best take. I don't do that
+- `07:56` for the rest of my video content, but
+- `07:57` the hook is so important that I like to
+- `07:59` give it a little bit extra practice. All
+- `08:00` right, here's one that didn't work very
+- `08:02` well. Instagram is constantly changing.
+- `08:04` Here are a few things that you should be
+- `08:05` doing to make sure that you don't fall
+- `08:07` behind. This is actually a really good
+- `08:08` video. Like, all these videos are
+- `08:10` probably equally as valuable. One of the
+- `08:12` main reasons why it doesn't perform as
+- `08:13` well is simply because the hook wasn't
+- `08:14` as effective. Now, the words and the
+- `08:16` pacing of this video was totally fine. I
+- `08:18` think where this video fell down was on
+- `08:20` the visuals. There wasn't much going on
+- `08:22` apart from when I had the big words
+- `08:23` appear behind my face. Now, whilst
+- `08:25` that's engaging and interesting, we
+- `08:27` actually highlighted the wrong words.
+- `08:29` What we should have highlighted was
+- `08:30` Instagram because that's the thing that
+- `08:32` would have grabbed our audience's
+- `08:33` attention, right? So, I guess a pro tip
+- `08:34` for me on this one is to make sure when
+- `08:36` you're crafting your hook, you're doing
+- `08:37` it with your audience in mind. Another
+- `08:39` example of a video that worked really
+- `08:41` well, I had to share this one because at
+- `08:42` the time of filming, this one has over
+- `08:44` 11,000 likes. I have never had that many
+- `08:46` likes on an Instagram video before.
+- `08:48` Like, that's insane. And it's actually
+- `08:49` part of a new series that I'm doing
+- `08:51` because it was so wellreceived.
+- `08:52` Something weird is happening on
+- `08:54` Instagram right now. Trends are emerging
+- `08:55` which are helping creators blow up. Now,
+- `08:57` all three elements of this hook were
+- `08:59` just nailed if I do say so myself. The
+- `09:02` words, me starting off by saying,
+- `09:04` "Something weird is happening on
+- `09:05` Instagram right now." 10 out of 10. That
+- `09:07` is going to immediately grab my
+- `09:09` audience's attention. It sparks so much
+- `09:10` curiosity. It makes them think, "Hold
+- `09:12` on, what's happening on Instagram?"
+- `09:13` Right? That paired with the visuals, we
+- `09:16` had a fast zoom. We had the text which
+- `09:18` was synced with my speech. We had a
+- `09:20` quick snapshot of all the trends that I
+- `09:22` was about to break down. And we had the
+- `09:23` strong headline. This was all within the
+- `09:24` space of a few seconds, guys. And as I
+- `09:27` mentioned, the pacing is pretty much
+- `09:28` standard across the board, but this was
+- `09:30` a great example of a hook. Now, I feel
+- `09:32` responsible for sharing this final
+- `09:33` example because I'm pretty sure I would
+- `09:35` have given advice to create a hook like
+- `09:37` this in the past. And look, I'm not
+- `09:39` going to say I was wrong because this
+- `09:40` worked at one point in time. It just
+- `09:42` doesn't work anymore. 80% of adults
+- `09:44` consume content across multiple formats.
+- `09:46` This video is actually a cut down of a
+- `09:48` longer form video. And what that means
+- `09:50` as a result is that the initial words
+- `09:52` that were being said weren't that
+- `09:53` engaging. I led with a stat like 80%.
+- `09:56` Who cares about a stat? That's not
+- `09:57` interesting. There was virtually no
+- `09:59` visuals outside of my captions. And as
+- `10:01` always, the pacing was pretty decent.
+- `10:03` But the other two elements were not
+- `10:04` hitting. And I wanted to share this one
+- `10:05` because it brings up a really important
+- `10:07` tip. If you are going to repurpose your
+- `10:09` long- form videos into reals, you will
+- `10:11` probably need to film a separate hook
+- `10:13` for them. And that's okay. They're still
+- `10:15` worth repurposing. Do not get me wrong.
+- `10:17` It's just that most of the time when
+- `10:18` you're repurposing a long form video,
+- `10:19` you are going to find it incredibly
+- `10:21` difficult to find a snippet which
+- `10:22` actually starts with something that will
+- `10:24` actually be an effective hook in this
+- `10:26` day and age. Like, you're just going to
+- `10:28` find it difficult. So, you might need to
+- `10:29` film a separate one which nails those
+- `10:31` three elements. All right, I think we've
+- `10:33` gone pretty deep already, but I'm not
+- `10:34` going to leave you there. I do want to
+- `10:35` share some very specific hacks that you
+- `10:37` can copy from those hooks that I shared
+- `10:39` that will help you level up your content
+- `10:41` instantly. Hack one is probably the
+- `10:43` easiest of all of these hacks and it's
+- `10:44` to use pauses effectively. You know how
+- `10:47` earlier on in this video I spoke about
+- `10:48` not wanting to do the millennial pause.
+- `10:50` We don't want that. But at times you can
+- `10:52` actually pause for effect and it can
+- `10:53` work wonders for your content. I
+- `10:55` actually have not one but two examples
+- `10:56` of me doing this. I got ghosted like
+- `11:00` hundreds of times. We need to talk about
+- `11:01` Becca Bloom.
+- `11:03` As you can see, I very much use pauses
+- `11:05` for effects in both of those videos, and
+- `11:07` it helps me land what I was trying to
+- `11:09` say better, right? So, try using pauses
+- `11:11` in your next hook and see if it works
+- `11:13` for you. The next hack is definitely the
+- `11:15` most creatively challenging hack. And
+- `11:16` this one is about dynamic editing. Now,
+- `11:19` this one is honestly one of the hardest
+- `11:20` ones to implement because it requires a
+- `11:22` lot of time and effort. And that is
+- `11:24` coming from me, someone who only does
+- `11:26` the pre-production and the production of
+- `11:28` my content. I don't do the post-p
+- `11:30` production. So, I have different
+- `11:31` editors. I have an editor for my long
+- `11:33` form, an editor for my short form. I
+- `11:34` even have someone who helps me schedule
+- `11:36` and post all of my content as well. So,
+- `11:37` keep in mind that if I'm saying this is
+- `11:39` difficult to do, then if you are doing
+- `11:41` every element of your content creation,
+- `11:43` please know that this is probably going
+- `11:44` to be challenging, too. But it is
+- `11:46` creatively fulfilling. I will say that
+- `11:47` dynamic editing basically requires you
+- `11:49` to do something unexpected with the way
+- `11:51` that you're editing your content. And to
+- `11:53` be fair, this can also include your
+- `11:55` filming. For example, you could open
+- `11:57` with a unique angle like this one,
+- `11:59` right? This is not an angle that you
+- `12:01` often see on short form content,
+- `12:03` although you are seeing it more lately,
+- `12:04` and that increases the likelihood of it
+- `12:06` capturing people's attention because
+- `12:07` it's not something they're used to
+- `12:08` seeing. Another example, and one that
+- `12:10` can sometimes take a while to get your
+- `12:11` head around, is when you mix B-roll and
+- `12:13` a voice over to make you speaking to the
+- `12:16` camera a bit more interesting. Here's an
+- `12:17` example. I'm Jon. I became a full-time
+- `12:19` content creator in just 6 months. And
+- `12:21` this is my content to cash series
+- `12:23` episode 3. Did you notice how I opened
+- `12:25` with B-roll and then a voice over and
+- `12:28` then I opened my laptop and spoke
+- `12:29` directly to the camera? That is dynamic
+- `12:31` editing. That is something that is
+- `12:32` unexpected and that is something that is
+- `12:34` going to make your hook better. That
+- `12:35` video itself performed so well. It got
+- `12:37` tens of thousands of views. The final
+- `12:39` hack I want to share with you is about
+- `12:40` creative text. Now, I did mention this
+- `12:42` one previously, but it is worth saying
+- `12:44` again because it is one of the most
+- `12:45` effective ways to create an effective
+- `12:47` hook. This is basically when you get
+- `12:48` creative with your captions. So, it's
+- `12:50` about taking your autogenerated captions
+- `12:52` one step further and actually writing
+- `12:54` out every word that you say so that it
+- `12:56` appears on the screen as you say it.
+- `12:58` What this does is encourage your
+- `13:00` audience to read the words on the screen
+- `13:02` as they're appearing, which means that
+- `13:04` they're reading along as you're
+- `13:05` speaking. It is incredible when it comes
+- `13:07` to engagement. Like, think about how
+- `13:09` much more likely you are to soak in what
+- `13:11` someone's saying if you're reading what
+- `13:12` they're saying whilst you're hearing
+- `13:13` them speak those words to you. Like,
+- `13:15` it's just a different experience. Great
+- `13:17` for attention, great for engagement. I
+- `13:18` really recommend that you try it. If you
+- `13:20` found this video useful, I recommend
+- `13:21` watching this one. It's all about the
+- `13:23` five habits that every creator should do
+- `13:25` every single week if they want to grow
+- `13:26` their audience on any platform. Do not
+- `13:28` forget that you can get three whole
+- `13:30` months for free when you sign up to
+- `13:32` Storyblocks on their annual plan. Just
+- `13:33` head to storyblocks.com/jadebon
+- `13:36` or click the link in my description to
+- `13:37` make the most of this limited time
+- `13:39` offer. Thank you so much for watching.
+- `13:40` As always, I cannot wait to see you in
+- `13:42` my next video.
+
+## Plain transcript
+
+This is a hook and this is a hook. I've spent hundreds of hours scouring the internet to find the best hook strategies and the results have taken my views from this to this. In today's video, I'm going to break down how you can use hooks to get the same results. By the way, this video is sponsored by Story Blocks. More on them later. There has been a huge shift when it comes to how successful creators, keyword successful, have been approaching their hooks. And the shift is this. They are no longer thinking about hooks as a catchy sentence. Instead, they're thinking about hooks like a moment. So, it's a mixture of words, visuals, and pacing, which is designed to grab your audience's attention. Now, I'm not going to spend loads of time talking about why hooks are super important, because at the end of the day, you know why they're important. They take up those precious first few seconds of your content that are designed to grab your audience's attention. And if you don't do it well, people will scroll past your content, and you will not get the views, the engagement, and genuinely the recognition that your content deserves. So, let's break down what thinking of your hooks as a moment actually means. There are now three core elements that make up a fantastic hook. And again, I say now because previously there really was just one element which was saying a really catchy sentence, which is definitely something I was guilty of for years. I'm going to show you some examples later. Don't you worry. We're moving on from it being one catchy sentence to it being a whole moment. And there are three elements which make up that moment. There are the words that your audience can hear within the first few seconds of your content. There are the visuals. So, these are the stuff that people see on your content. And there's the pacing. So, this is how quickly you actually get through your initial hook and video intro. Now, I want to break each of these elements down further so that you can truly understand how to utilize each to create an amazing hook. And later on in this video, I'm going to share real life examples of my own content when I've done it well and when I've done it not so well. So, let's talk about the words first. So, these are things that you're either saying on camera or just words that your audience can hear within the first few seconds of your video content. In order for the words that your audience are hearing to be effective, you want them to be specific, surprising, and hopefully create a bit of tension. For example, instead of saying, "Here are three tips to grow on Instagram, this is one that I'm pretty sure I've probably used in the past, and you know what? Maybe that worked in the past. I'll give myself some grace." Nowadays, those words aren't going to cut it. Instead, you might want to say something like, "Here's the reason nobody cares about your Instagram posts." Do you see how much more dramatic that alternative option is? You essentially want to give all of your words like a bit of a drama test. Are they dramatic enough? Could you be a bit more dramatic in what you're saying and in your delivery? Honestly, the more dramatic it is, the more likely it is to actually capture people's attention and stop them scrolling. The second element is the visuals. This is the element that's the most new when it comes to how hooks are working on social media nowadays. Previously, words are enough and now we've got to throw in visuals, too. A good hook will have visual elements appear on the screen that are designed to get your audience's attention. So whether that's captions, special effects, graphics, or maybe you just do something really interesting in the first few seconds of your video that gets someone's attention. A really great example of this is the foreshadowing trend. Do you guys remember that? Where people would basically take a clip of them doing something really embarrassing like maybe they fell over or something and they would frontend the video with that clip. So the first few seconds of the video would be them falling over and the rest of the video would be snippets which show the events which led up to them falling over. This trend worked so well, not only because it was super funny and interesting, but also because it had a hook built into its template. It literally forced you to open with the most exciting part. And in this example, that was something visual. Third element is pacing. During the first few seconds of your video, you need to bring the energy. Okay? You need to have some energy and some pacing in that video. We do not want a slow start. We do not want pauses unless they're used effectively. And again, I'm going to show you some examples of a pause being used effectively in just a moment. What we don't Oh, my dog's slipping. By the way, my dog just got neuted, so she's in this little outfit so that she doesn't bother her scar. They wouldn't give her a cone because she has too long of a nose. Anyway, what we want to do if we're using pauses is we want to use them for dramatic effect. What we don't want to do is use the millennial pause. Have you guys heard about the millennial pause? It's essentially when people, usually millennials, take this breath before they film. It comes back to us not growing up around video technology and therefore us not being used to being able to film each other. So we take this breath before we film because we want to check that the camera is actually recording. Whereas younger people like Gen Z and Gen Alpha grew up with the ability to film others. So when they film themselves, they immediately start talking because they trust that their camera is already filming them. Isn't that mind-blowing? I did a video on it on Tik Tok. It went viral. I got in the sun newspaper. Also got trolled quite a lot. It was a whole moment. So, when you combine the right words, visuals, and pacing, you will end up with an incredible hook. Now, before I show you some real life examples of hooks that have worked well and haven't worked so well, I do want to take a quick second to share a resource that you should be using inside your hooks to level them up. And that resource is Story Blocks. Now, one of my favorite videos that I shared within the last few months is this one. And what you'll notice about this post is that I really nailed the visual element of this hook. All right, within the first few seconds of this post, you'll see some incredible videos pop up on the screen. Now, it may or may not surprise you to know that I did not capture that video footage. That video footage is actually stock media that I obtained from Story Blocks. Now, if you don't know about Story Blocks already, it's a stock media subscription service which gives you unlimited access to highquality videos, images, sound effects, audio, templates, and so much more. They're all about helping creators and businesses enhance their projects without any extra costs and with more peace of mind. Now, there's a couple ways that they do this, right? The first is by offering unlimited stock media downloads at one set price. So, this means that you have everything you need in one place. 4K video, HD video, templates, sound effects, images, and more. And this is all available to you at one predictable monthly cost. So, you don't have to worry about pay-per-click pricing or any hidden fees. Another way that they do this is by offering clearcut licensing. So, any of the assets that you use are actually covered by the highest legal coverage in the industry. so you can really focus on creating and not having to worry about things like copyright strikes. Their stock library is also frequently refreshed, which means it always contains high-quality, diverse content, which really reflects the human experience, which is very important when it comes to storytelling in the world of AI. I do actually have a special treat for you when it comes to joining Storyblocks. You can get three extra months for free when you sign up to their annual plan. Head to storyblocks.com/jadebon to take advantage of this limited time offer. Thank me later. All right, let's do some case studies. Let's compare some good hooks that I've used and some bad hooks that I've used. I'm actually really excited for this section cuz it's going to be incredibly exposing. Let's ease myself into this by starting off with an example of a good hook. This is a hook that I used on a recent post that performed really well for me. I cried over social media this morning. Embarrassing, I know, but I was going through my content and I was struck with this sudden thought. I'm flopping. Now, let's use the three core elements of a successful hook to actually break down why this worked. The first is the words. I actually started this video by talking about something that's quite emotional. Like I was talking about the fact that I had been crying over my content, which is embarrassing, but watch the full video for context. If you open a video with emotional words, exposing words, very vulnerable words, that is a great use of that element of your hook. It's going to grab people's attention. Now, let's look at the visuals, cuz there was a few things going on here. I was walking towards the camera, which created some movement. I had my captions appear on the screen in a very specific style, right? And you'll see this as a pattern. I basically had every word appear as I said it because this encourages my audience to read and listen along. Great for engagement, great for attention. I also had some screenshots and some graphics appear on the screen as well. In terms of the pacing, it was fast. There was no dead air. If I'm being honest, my pacing for all of these examples are pretty much the same. I feel like when you create content for 5 years, you do get to a point where you nail the pace of your content. So, that's pretty consistent across the board. A quick tip for me here before I give you an example of a hook that didn't work so well is I tend to do my hooks multiple times. So, I tend to film at least three different takes of my hooks, and usually the third take is the best take. I don't do that for the rest of my video content, but the hook is so important that I like to give it a little bit extra practice. All right, here's one that didn't work very well. Instagram is constantly changing. Here are a few things that you should be doing to make sure that you don't fall behind. This is actually a really good video. Like, all these videos are probably equally as valuable. One of the main reasons why it doesn't perform as well is simply because the hook wasn't as effective. Now, the words and the pacing of this video was totally fine. I think where this video fell down was on the visuals. There wasn't much going on apart from when I had the big words appear behind my face. Now, whilst that's engaging and interesting, we actually highlighted the wrong words. What we should have highlighted was Instagram because that's the thing that would have grabbed our audience's attention, right? So, I guess a pro tip for me on this one is to make sure when you're crafting your hook, you're doing it with your audience in mind. Another example of a video that worked really well, I had to share this one because at the time of filming, this one has over 11,000 likes. I have never had that many likes on an Instagram video before. Like, that's insane. And it's actually part of a new series that I'm doing because it was so wellreceived. Something weird is happening on Instagram right now. Trends are emerging which are helping creators blow up. Now, all three elements of this hook were just nailed if I do say so myself. The words, me starting off by saying, "Something weird is happening on Instagram right now." 10 out of 10. That is going to immediately grab my audience's attention. It sparks so much curiosity. It makes them think, "Hold on, what's happening on Instagram?" Right? That paired with the visuals, we had a fast zoom. We had the text which was synced with my speech. We had a quick snapshot of all the trends that I was about to break down. And we had the strong headline. This was all within the space of a few seconds, guys. And as I mentioned, the pacing is pretty much standard across the board, but this was a great example of a hook. Now, I feel responsible for sharing this final example because I'm pretty sure I would have given advice to create a hook like this in the past. And look, I'm not going to say I was wrong because this worked at one point in time. It just doesn't work anymore. 80% of adults consume content across multiple formats. This video is actually a cut down of a longer form video. And what that means as a result is that the initial words that were being said weren't that engaging. I led with a stat like 80%. Who cares about a stat? That's not interesting. There was virtually no visuals outside of my captions. And as always, the pacing was pretty decent. But the other two elements were not hitting. And I wanted to share this one because it brings up a really important tip. If you are going to repurpose your long- form videos into reals, you will probably need to film a separate hook for them. And that's okay. They're still worth repurposing. Do not get me wrong. It's just that most of the time when you're repurposing a long form video, you are going to find it incredibly difficult to find a snippet which actually starts with something that will actually be an effective hook in this day and age. Like, you're just going to find it difficult. So, you might need to film a separate one which nails those three elements. All right, I think we've gone pretty deep already, but I'm not going to leave you there. I do want to share some very specific hacks that you can copy from those hooks that I shared that will help you level up your content instantly. Hack one is probably the easiest of all of these hacks and it's to use pauses effectively. You know how earlier on in this video I spoke about not wanting to do the millennial pause. We don't want that. But at times you can actually pause for effect and it can work wonders for your content. I actually have not one but two examples of me doing this. I got ghosted like hundreds of times. We need to talk about Becca Bloom. As you can see, I very much use pauses for effects in both of those videos, and it helps me land what I was trying to say better, right? So, try using pauses in your next hook and see if it works for you. The next hack is definitely the most creatively challenging hack. And this one is about dynamic editing. Now, this one is honestly one of the hardest ones to implement because it requires a lot of time and effort. And that is coming from me, someone who only does the pre-production and the production of my content. I don't do the post-p production. So, I have different editors. I have an editor for my long form, an editor for my short form. I even have someone who helps me schedule and post all of my content as well. So, keep in mind that if I'm saying this is difficult to do, then if you are doing every element of your content creation, please know that this is probably going to be challenging, too. But it is creatively fulfilling. I will say that dynamic editing basically requires you to do something unexpected with the way that you're editing your content. And to be fair, this can also include your filming. For example, you could open with a unique angle like this one, right? This is not an angle that you often see on short form content, although you are seeing it more lately, and that increases the likelihood of it capturing people's attention because it's not something they're used to seeing. Another example, and one that can sometimes take a while to get your head around, is when you mix B-roll and a voice over to make you speaking to the camera a bit more interesting. Here's an example. I'm Jon. I became a full-time content creator in just 6 months. And this is my content to cash series episode 3. Did you notice how I opened with B-roll and then a voice over and then I opened my laptop and spoke directly to the camera? That is dynamic editing. That is something that is unexpected and that is something that is going to make your hook better. That video itself performed so well. It got tens of thousands of views. The final hack I want to share with you is about creative text. Now, I did mention this one previously, but it is worth saying again because it is one of the most effective ways to create an effective hook. This is basically when you get creative with your captions. So, it's about taking your autogenerated captions one step further and actually writing out every word that you say so that it appears on the screen as you say it. What this does is encourage your audience to read the words on the screen as they're appearing, which means that they're reading along as you're speaking. It is incredible when it comes to engagement. Like, think about how much more likely you are to soak in what someone's saying if you're reading what they're saying whilst you're hearing them speak those words to you. Like, it's just a different experience. Great for attention, great for engagement. I really recommend that you try it. If you found this video useful, I recommend watching this one. It's all about the five habits that every creator should do every single week if they want to grow their audience on any platform. Do not forget that you can get three whole months for free when you sign up to Storyblocks on their annual plan. Just head to storyblocks.com/jadebon or click the link in my description to make the most of this limited time offer. Thank you so much for watching. As always, I cannot wait to see you in my next video.
